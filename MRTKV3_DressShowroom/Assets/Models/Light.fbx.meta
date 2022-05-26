@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 7086863616f78cd42a33196cf0811e98
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4355950164344014477
+    second: Pista Smart surface tubed_011.001|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: -4100178533163925247
+    second: Pista Smart surface tubed_011.001|Group460|Take 001|BaseLayer
+  - first:
+      74: 6012380590211220278
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_002|Take
+      001|BaseLayer
+  - first:
+      74: -244338736570271358
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_005|Take
+      001|BaseLayer
+  - first:
+      74: -5724869799510464168
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_006|Take
+      001|BaseLayer
+  - first:
+      74: -6975496468863619637
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_007|Take
+      001|BaseLayer
+  - first:
+      74: 1337091370058720607
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_008|Take
+      001|BaseLayer
+  - first:
+      74: -1663763036139557622
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_009|Take
+      001|BaseLayer
+  - first:
+      74: -8025193775292427678
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_010|Take
+      001|BaseLayer
+  - first:
+      74: 6032692889352980650
+    second: Pista Smart surface tubed_011.001|LED GEAR FOR SURFACE INSTALLATION_011|Take
+      001|BaseLayer
+  - first:
+      74: 2149940433591824372
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -1745161733323411947
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: -1769146187250716697
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: 8905425848762842736
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: -8600425211451873145
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -3478338135857444517
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: -7836256821850677120
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: 8403082799566438767
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: -1659067235499261771
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: 3115614419284427605
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 5191409240224481270
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: -1792932641214713318
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: -2190442348971793283
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: 7264818720523537750
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: 8485990081900641286
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: 5950061642308161607
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 7298840918346316845
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 8633759158903546867
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: -1880585578060132944
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: -121618772492262429
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: -1108124145775883085
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: 5158905909642346819
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: 469701322472741811
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: -4277134977728672386
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: -1923225783281459732
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: 831741655758055983
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: -5827083017038741751
+    second: Pista Smart surface tubed_011.001|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -9169800549356089839
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_001.001|Take
+      001|BaseLayer
+  - first:
+      74: -1492768069684349220
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_001|Take
+      001|BaseLayer
+  - first:
+      74: -8224548383770731827
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_003|Take
+      001|BaseLayer
+  - first:
+      74: -7413713932412280391
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_004|Take
+      001|BaseLayer
+  - first:
+      74: -6380952041180322519
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_005.001|Take
+      001|BaseLayer
+  - first:
+      74: -618294669322668390
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_005a|Take
+      001|BaseLayer
+  - first:
+      74: 6529291225591504895
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_005b|Take
+      001|BaseLayer
+  - first:
+      74: 6342276264372340841
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_005|Take
+      001|BaseLayer
+  - first:
+      74: 4981949012734097542
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_006.001|Take
+      001|BaseLayer
+  - first:
+      74: 3191905330752632647
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_006a|Take
+      001|BaseLayer
+  - first:
+      74: -7465201989871498524
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_006b|Take
+      001|BaseLayer
+  - first:
+      74: 1315127472903600486
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_006|Take
+      001|BaseLayer
+  - first:
+      74: -7590748268344983166
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_007.001|Take
+      001|BaseLayer
+  - first:
+      74: -7440730347380207365
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_007a|Take
+      001|BaseLayer
+  - first:
+      74: -3872941817768692856
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_007b|Take
+      001|BaseLayer
+  - first:
+      74: -5086243505823162606
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_007|Take
+      001|BaseLayer
+  - first:
+      74: -7506914275703369359
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_009.001|Take
+      001|BaseLayer
+  - first:
+      74: -2472141616838246919
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_009a|Take
+      001|BaseLayer
+  - first:
+      74: 8049660972879633931
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_009b|Take
+      001|BaseLayer
+  - first:
+      74: 5128629171904571347
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_009|Take
+      001|BaseLayer
+  - first:
+      74: -48622082404376855
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_010.001|Take
+      001|BaseLayer
+  - first:
+      74: -304929945070162928
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_010a|Take
+      001|BaseLayer
+  - first:
+      74: -3571381278631287912
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_010b|Take
+      001|BaseLayer
+  - first:
+      74: -7818813130168760165
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_010|Take
+      001|BaseLayer
+  - first:
+      74: 520943939136759957
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_011.001|Take
+      001|BaseLayer
+  - first:
+      74: -4333461134407622399
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_011a|Take
+      001|BaseLayer
+  - first:
+      74: 549626560691128138
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_011b|Take
+      001|BaseLayer
+  - first:
+      74: -5909738519670167444
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_011|Take
+      001|BaseLayer
+  - first:
+      74: -4090543061046295175
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_Light001|Take
+      001|BaseLayer
+  - first:
+      74: 6908995943214907911
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_Light002|Take
+      001|BaseLayer
+  - first:
+      74: 6514307336086443100
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_Light005|Take
+      001|BaseLayer
+  - first:
+      74: 4147488002718482627
+    second: Pista Smart surface tubed_011.001|Pista Smart surface tubed_Light006|Take
+      001|BaseLayer
+  - first:
+      74: 5947758950329772508
+    second: Pista Smart surface tubed_011.001|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: 7930258181168780753
+    second: Pista Smart surface tubed_011.001|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 5174479038675249126
+    second: Pista Smart surface tubed_011.001|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: 4669921745919893900
+    second: Pista Smart surface tubed_011.001|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: -2426525502718945886
+    second: Pista Smart surface tubed_011.001|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: 5925278987358539670
+    second: Pista Smart surface tubed_011.001|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: -1595009377791631753
+    second: Pista Smart surface tubed_011.001|Power Feed Right_011|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

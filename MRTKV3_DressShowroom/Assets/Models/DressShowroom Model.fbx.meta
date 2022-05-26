@@ -1,0 +1,3954 @@
+fileFormatVersion: 2
+guid: 21eba45823bf19b44bf8316a0ec65429
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7847951959986284423
+    second: hoodie|Box001|Take 001|BaseLayer
+  - first:
+      74: 1077423056751044680
+    second: hoodie|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -7420936486666695709
+    second: hoodie|Box002|Take 001|BaseLayer
+  - first:
+      74: -5504903394178003795
+    second: hoodie|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -645384465962021039
+    second: hoodie|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: 8574369504602540725
+    second: hoodie|Group460|Take 001|BaseLayer
+  - first:
+      74: 312560589335636749
+    second: hoodie|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: -3258404095194788728
+    second: hoodie|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: 5358601820328438412
+    second: hoodie|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: -5787976560629824055
+    second: hoodie|hoodie001|Take 001|BaseLayer
+  - first:
+      74: 1869522619720536968
+    second: hoodie|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: 7325984891466046151
+    second: hoodie|hoodie002|Take 001|BaseLayer
+  - first:
+      74: 7425416979224161251
+    second: hoodie|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: -1290864991662445130
+    second: hoodie|hoodie003|Take 001|BaseLayer
+  - first:
+      74: 3967785797017668205
+    second: hoodie|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: 2470706922148625018
+    second: hoodie|hoodie|Take 001|BaseLayer
+  - first:
+      74: -7715756232392234193
+    second: hoodie|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: -3914891259691100045
+    second: hoodie|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: -4256060700573771111
+    second: hoodie|joggers|Take 001|BaseLayer
+  - first:
+      74: 5795936392898739343
+    second: hoodie|joggers|Take 001|BaseLayer.001
+  - first:
+      74: 6981027172976745640
+    second: hoodie|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: -2010134772266496095
+    second: hoodie|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: -5069001625865939994
+    second: hoodie|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: 2331832532657020632
+    second: hoodie|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: 7621488203107961839
+    second: hoodie|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: -4707364623258442094
+    second: hoodie|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: 5101364316791371233
+    second: hoodie|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: -2157323715215732373
+    second: hoodie|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: 3239286508039012964
+    second: hoodie|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: -182888652690885256
+    second: hoodie|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: -4191859538191033669
+    second: hoodie|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: -5614873156795205063
+    second: hoodie|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: -1373767619659375840
+    second: hoodie|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: -7363680154547463494
+    second: hoodie|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: 3843315100077633142
+    second: hoodie|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: -2243241929066869396
+    second: hoodie|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: -2843959497140998826
+    second: hoodie|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: -7610914618282142546
+    second: hoodie|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: -1628409449843302571
+    second: hoodie|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: -2655935129033104597
+    second: hoodie|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: 3168006826141945947
+    second: hoodie|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: 4658979876583881999
+    second: hoodie|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: -3229403076550578206
+    second: hoodie|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: 8701774826922646266
+    second: hoodie|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: 1952209189046634223
+    second: hoodie|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: -3150107132988787732
+    second: hoodie|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: 1059252567443062336
+    second: hoodie|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: -5208000312912089711
+    second: hoodie|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: 3996439201912303904
+    second: hoodie|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: 6851100390366946151
+    second: hoodie|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: -5857280609472326486
+    second: hoodie|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: 7405397655226740157
+    second: hoodie|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: -791614034868968605
+    second: hoodie|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: -4134030162413102811
+    second: hoodie|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: -8771231329846421327
+    second: hoodie|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: -7286071436001278988
+    second: hoodie|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: 2345440859674490977
+    second: hoodie|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: 7761946295970247877
+    second: hoodie|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: -3737459125989722220
+    second: hoodie|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: -508414410195483600
+    second: hoodie|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: 3793619561196949640
+    second: hoodie|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: -7310819543781128616
+    second: hoodie|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: 2079153180541211407
+    second: hoodie|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: 3948246305537817714
+    second: hoodie|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: -148738400091494522
+    second: hoodie|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: -8822501611199003022
+    second: hoodie|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: 4517547761836953703
+    second: hoodie|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: -2054340843454782014
+    second: hoodie|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: 1323916672086500392
+    second: hoodie|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: -6398804353877838258
+    second: hoodie|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: 5165869638216145176
+    second: hoodie|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: 7924834878665566556
+    second: hoodie|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: 8930220058006875080
+    second: hoodie|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: 8253552672050765007
+    second: hoodie|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: -597144339251420970
+    second: hoodie|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: -8749010388851899596
+    second: hoodie|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: 5915840766330895220
+    second: hoodie|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: 7403709347068708815
+    second: hoodie|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: 5663901589706007374
+    second: hoodie|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: 333854229057129765
+    second: hoodie|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: 3745212819378869105
+    second: hoodie|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: 7501687943764017082
+    second: hoodie|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: -2550274425878970090
+    second: hoodie|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: -672744504479477447
+    second: hoodie|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: -1498587373355792252
+    second: hoodie|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: 6505754551117563654
+    second: hoodie|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: -6617807769244954116
+    second: hoodie|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: -7818613930049517490
+    second: hoodie|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 391190471553789950
+    second: hoodie|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: -1302427855625573974
+    second: hoodie|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: 6104394646837649978
+    second: hoodie|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: -6396960819234793552
+    second: hoodie|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: -4948601121884130049
+    second: hoodie|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: -2152688484941425285
+    second: hoodie|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: 9124048100669795809
+    second: hoodie|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: 4889009322214139296
+    second: hoodie|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: -7778123381882580823
+    second: hoodie|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: 9182018294303848749
+    second: hoodie|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: 7489536071514858052
+    second: hoodie|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: 1067254222942848648
+    second: hoodie|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: 2507692617124649314
+    second: hoodie|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: -6537442428592994917
+    second: hoodie|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: 3231479044999337261
+    second: hoodie|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: -8857063145214574752
+    second: hoodie|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: -6652603878955785407
+    second: hoodie|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: 2476517104776304609
+    second: hoodie|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: 3489420996561126648
+    second: hoodie|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: 7558169131345604876
+    second: hoodie|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: -3409743381071074164
+    second: hoodie|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: 6294166571526481859
+    second: hoodie|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: 6784717608564214451
+    second: hoodie|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -4296711995152241319
+    second: hoodie|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: -3957245183595057465
+    second: hoodie|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: -2122939387192178775
+    second: hoodie|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: 1249072071769642697
+    second: hoodie|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: -7047771167304222485
+    second: hoodie|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: -5298526110685890628
+    second: hoodie|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: 2277838439843986210
+    second: hoodie|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: 6739665890676813710
+    second: hoodie|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: 4846633716781560603
+    second: hoodie|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: 3218749819686202257
+    second: hoodie|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: 5831635201621664679
+    second: hoodie|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: -3388161122638254660
+    second: hoodie|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: 3543594987736871982
+    second: hoodie|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: 1244858265139914006
+    second: hoodie|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: -7026723433395690051
+    second: hoodie|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: 6276669944990864955
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: -5417544845380998683
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 8488499062004286304
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: 2859149918431503166
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: 9012019528897437033
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -109328314022585611
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: -5804186716361137328
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: 5745308686084553968
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: -1431833644336446479
+    second: hoodie|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: -987183762493835174
+    second: hoodie|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: 4372229597057728319
+    second: hoodie|Object001|Take 001|BaseLayer
+  - first:
+      74: 2286617748253078421
+    second: hoodie|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -1677565875840749440
+    second: hoodie|Object006.002|Take 001|BaseLayer
+  - first:
+      74: -8427004361035530987
+    second: hoodie|Object006|Take 001|BaseLayer
+  - first:
+      74: 2890050891718339236
+    second: hoodie|Object007|Take 001|BaseLayer
+  - first:
+      74: 3255460701437739358
+    second: hoodie|Object007|Take 001|BaseLayer.001
+  - first:
+      74: -8066372775864311570
+    second: hoodie|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: -3509051277294582310
+    second: hoodie|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: 1811077121800345355
+    second: hoodie|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -8081127811911461425
+    second: hoodie|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: 5085898534430779356
+    second: hoodie|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: 2422930587692023428
+    second: hoodie|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: -3076816009893973669
+    second: hoodie|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -7400367870500162619
+    second: hoodie|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: 984325792692825343
+    second: hoodie|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: 4544058634016547298
+    second: hoodie|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: 6470848012601492072
+    second: hoodie|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: 2062067625301038713
+    second: hoodie|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 1062999650772891508
+    second: hoodie|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: 7860573264369188030
+    second: hoodie|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: 9121031046379829973
+    second: hoodie|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: -3883378327842184855
+    second: hoodie|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: 7888647093570797097
+    second: hoodie|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: 5617838629248213082
+    second: hoodie|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 6116041692816332863
+    second: hoodie|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 7024718003305412991
+    second: hoodie|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: -3428557414673094508
+    second: hoodie|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: 6949757954799999124
+    second: hoodie|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: 1640245054052253135
+    second: hoodie|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: 86533611034423612
+    second: hoodie|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: 7814203997419043589
+    second: hoodie|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: -1202419322146538823
+    second: hoodie|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: 3492298098567238132
+    second: hoodie|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: 5578232488994750791
+    second: hoodie|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: -6987181678180958753
+    second: hoodie|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -4208936414415938648
+    second: hoodie|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: 1956639021591363816
+    second: hoodie|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: 8143981437754456509
+    second: hoodie|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: -1291149796512173860
+    second: hoodie|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: 3023700430017569293
+    second: hoodie|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: 7224367933883959754
+    second: hoodie|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: -4129500636263943939
+    second: hoodie|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: -3083756139768895802
+    second: hoodie|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: -2419678807544326344
+    second: hoodie|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: -7669200005672449574
+    second: hoodie|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: -2558167052149818151
+    second: hoodie|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: 7309699651925740411
+    second: hoodie|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: 4795135394606213411
+    second: hoodie|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: 1978246307726593322
+    second: hoodie|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: -7416283499483340928
+    second: hoodie|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: 5089126116406606831
+    second: hoodie|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: 5258035312236078016
+    second: hoodie|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: 8179924323024196402
+    second: hoodie|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: -9211143980361748376
+    second: hoodie|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: -8181088053556850211
+    second: hoodie|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: 7404007756030872269
+    second: hoodie|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: 4581082103910119644
+    second: hoodie|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: 2506558771207579706
+    second: hoodie|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: -4221373978816543677
+    second: hoodie|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: 1205643577279803178
+    second: hoodie|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: 5578674866757086995
+    second: hoodie|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: -9119214482533312896
+    second: hoodie|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: -179082141707258155
+    second: hoodie|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: -2608868702920591985
+    second: hoodie|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: 6032750014967935535
+    second: hoodie|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: -5093209679845887974
+    second: hoodie|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: 250776915205136632
+    second: hoodie|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: -4515263871691207843
+    second: hoodie|plechi004|Take 001|BaseLayer
+  - first:
+      74: -7294696438208502856
+    second: hoodie|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: -6854667965743650237
+    second: hoodie|plechi005|Take 001|BaseLayer
+  - first:
+      74: -4672207103912780100
+    second: hoodie|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: 8592685749704378582
+    second: hoodie|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: 8669722887045799888
+    second: hoodie|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 1679771142177511951
+    second: hoodie|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: 6062035131712805997
+    second: hoodie|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: 7396249071304962633
+    second: hoodie|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: 7882419267558383859
+    second: hoodie|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: -2579613775823842491
+    second: hoodie|Power Feed Right_011|Take 001|BaseLayer
+  - first:
+      74: 741407384345431023
+    second: joggers na vesh|Box001|Take 001|BaseLayer
+  - first:
+      74: 9036244178361154579
+    second: joggers na vesh|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -8373981022361841829
+    second: joggers na vesh|Box002|Take 001|BaseLayer
+  - first:
+      74: -1608290961687233753
+    second: joggers na vesh|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 3137618609231395296
+    second: joggers na vesh|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: 7751758191061686389
+    second: joggers na vesh|Group460|Take 001|BaseLayer
+  - first:
+      74: 5416468436544651408
+    second: joggers na vesh|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: 2468176799288665560
+    second: joggers na vesh|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: -3925952892580166539
+    second: joggers na vesh|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: -3439219455786016017
+    second: joggers na vesh|hoodie001|Take 001|BaseLayer
+  - first:
+      74: -123515796865943518
+    second: joggers na vesh|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: 1555595789648030874
+    second: joggers na vesh|hoodie002|Take 001|BaseLayer
+  - first:
+      74: -8537074376944709459
+    second: joggers na vesh|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: 180703217724981004
+    second: joggers na vesh|hoodie003|Take 001|BaseLayer
+  - first:
+      74: -40040714187479898
+    second: joggers na vesh|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: -1346956424621123298
+    second: joggers na vesh|hoodie|Take 001|BaseLayer
+  - first:
+      74: 5953768819021930599
+    second: joggers na vesh|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: 7505554341300081174
+    second: joggers na vesh|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: -1038090091098899706
+    second: joggers na vesh|joggers|Take 001|BaseLayer
+  - first:
+      74: 8665294758701132720
+    second: joggers na vesh|joggers|Take 001|BaseLayer.001
+  - first:
+      74: -158198246334406108
+    second: joggers na vesh|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: 466239899032108886
+    second: joggers na vesh|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: 7046050641748572371
+    second: joggers na vesh|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: -1023450111684140646
+    second: joggers na vesh|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: 7838342350701658158
+    second: joggers na vesh|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: -2190415990967339697
+    second: joggers na vesh|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: -5967977563860432061
+    second: joggers na vesh|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: -4251173588843922025
+    second: joggers na vesh|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: 2162143688344282563
+    second: joggers na vesh|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: 4261606107757001207
+    second: joggers na vesh|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: 6139653127474074130
+    second: joggers na vesh|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: -2824667075508674830
+    second: joggers na vesh|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: -8903872669807481422
+    second: joggers na vesh|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: -3560610049618749123
+    second: joggers na vesh|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: -208042001026015543
+    second: joggers na vesh|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: -4579770915764111114
+    second: joggers na vesh|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: -7552279298811841207
+    second: joggers na vesh|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: -2242114775237009056
+    second: joggers na vesh|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: -6278845670756590099
+    second: joggers na vesh|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: -8522434079475212207
+    second: joggers na vesh|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: 6298834196472431336
+    second: joggers na vesh|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: -7393057209634210336
+    second: joggers na vesh|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: -9221530784046667356
+    second: joggers na vesh|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: -3257084423248421547
+    second: joggers na vesh|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: -8921750708969847785
+    second: joggers na vesh|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: -1457266558794430933
+    second: joggers na vesh|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: 573633667721448006
+    second: joggers na vesh|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: 13821759287121167
+    second: joggers na vesh|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: 8955500335405294138
+    second: joggers na vesh|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: -4745291103032748588
+    second: joggers na vesh|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: -7278138255337280324
+    second: joggers na vesh|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: -4389440869308482807
+    second: joggers na vesh|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: 7825530697128228932
+    second: joggers na vesh|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: -2509621352744904509
+    second: joggers na vesh|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: -6563381908873686702
+    second: joggers na vesh|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: -3891071238301253544
+    second: joggers na vesh|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: 2032148713318815253
+    second: joggers na vesh|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: -1747402864842516679
+    second: joggers na vesh|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: 4276858087038222946
+    second: joggers na vesh|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: -1878136122527484427
+    second: joggers na vesh|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: 5438274452604163558
+    second: joggers na vesh|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: 1128775368536321578
+    second: joggers na vesh|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: 7374018725941140104
+    second: joggers na vesh|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: -7753734215629336843
+    second: joggers na vesh|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: 8913857602928600722
+    second: joggers na vesh|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: -394292463100294185
+    second: joggers na vesh|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: 4415435792308211865
+    second: joggers na vesh|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: 188486967347117555
+    second: joggers na vesh|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: -8324063262565070118
+    second: joggers na vesh|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: -1041392398275271120
+    second: joggers na vesh|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: -8723388623931887117
+    second: joggers na vesh|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: 5861974662207180155
+    second: joggers na vesh|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: 7525250035915699608
+    second: joggers na vesh|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: 2789534394563797234
+    second: joggers na vesh|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: 8761783474126078127
+    second: joggers na vesh|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: -1534095494718372152
+    second: joggers na vesh|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: 5423522939864561186
+    second: joggers na vesh|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: 7660117267240669458
+    second: joggers na vesh|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: -8688309575018804367
+    second: joggers na vesh|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: 1536430467149170718
+    second: joggers na vesh|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: -5904675587794153893
+    second: joggers na vesh|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: -6888020641124258311
+    second: joggers na vesh|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: 1856358491364742103
+    second: joggers na vesh|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: 8347347636979310568
+    second: joggers na vesh|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: -9085146088859449962
+    second: joggers na vesh|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: -29881520045890561
+    second: joggers na vesh|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: 3409281389664963759
+    second: joggers na vesh|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: 7605780279394271552
+    second: joggers na vesh|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 5927152814134302528
+    second: joggers na vesh|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: 7394515296990048362
+    second: joggers na vesh|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: -7817462749315238617
+    second: joggers na vesh|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: -6087173659978135410
+    second: joggers na vesh|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: -3337611063331095862
+    second: joggers na vesh|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: -2401981495652715582
+    second: joggers na vesh|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: -1814945590026593203
+    second: joggers na vesh|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: 3845694166841380
+    second: joggers na vesh|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: -1057990965345837017
+    second: joggers na vesh|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: -2952489267594792307
+    second: joggers na vesh|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: -8691411451163848003
+    second: joggers na vesh|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: -6354767104767995399
+    second: joggers na vesh|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: 82956142350135140
+    second: joggers na vesh|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: -3972245853311716011
+    second: joggers na vesh|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: 8253305173787863299
+    second: joggers na vesh|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: -5876141260171734078
+    second: joggers na vesh|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: 4697983865655803604
+    second: joggers na vesh|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: -641280030576585424
+    second: joggers na vesh|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: 4992281672534690236
+    second: joggers na vesh|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: -8687858580917112674
+    second: joggers na vesh|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: 7452099107460448025
+    second: joggers na vesh|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: 8386656117122096634
+    second: joggers na vesh|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: 5520820204924802558
+    second: joggers na vesh|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -7802632560072561567
+    second: joggers na vesh|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: -268246422164171534
+    second: joggers na vesh|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: 1186035448466578805
+    second: joggers na vesh|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: -7589210734154220071
+    second: joggers na vesh|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: 2382164057247878296
+    second: joggers na vesh|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: -4308729907687011078
+    second: joggers na vesh|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: 4745790361208432586
+    second: joggers na vesh|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: -6601685505150443523
+    second: joggers na vesh|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: 7573277130586538560
+    second: joggers na vesh|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: 4701916759393851760
+    second: joggers na vesh|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: 2568179924521531994
+    second: joggers na vesh|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: -8799137842711164295
+    second: joggers na vesh|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: 4878682625415372169
+    second: joggers na vesh|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: 1587109527989854227
+    second: joggers na vesh|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: -8237907245928705232
+    second: joggers na vesh|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: 5375039210598527540
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: 5140018468692230681
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 8861646629913875903
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: 3893207054670611583
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: 4446239249678151317
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -6104218235795787700
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: 4611468896842363716
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: 6909585048037064269
+    second: joggers na vesh|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: 6838456900913831418
+    second: joggers na vesh|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: -4683729770245775263
+    second: joggers na vesh|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: -5513476524167339763
+    second: joggers na vesh|Object001|Take 001|BaseLayer
+  - first:
+      74: 7967541755635334798
+    second: joggers na vesh|Object001|Take 001|BaseLayer.001
+  - first:
+      74: 602510015463117552
+    second: joggers na vesh|Object006.002|Take 001|BaseLayer
+  - first:
+      74: -5313096679099928485
+    second: joggers na vesh|Object006|Take 001|BaseLayer
+  - first:
+      74: -6005936663494808120
+    second: joggers na vesh|Object007|Take 001|BaseLayer
+  - first:
+      74: -5297947106901310342
+    second: joggers na vesh|Object007|Take 001|BaseLayer.001
+  - first:
+      74: -6039864370128618777
+    second: joggers na vesh|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: -2594627760425895162
+    second: joggers na vesh|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: -1600002219388893394
+    second: joggers na vesh|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -6724829347411502829
+    second: joggers na vesh|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: 5408628418114216360
+    second: joggers na vesh|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: -7476457371385446023
+    second: joggers na vesh|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: 1389246739201052735
+    second: joggers na vesh|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -103457534105018913
+    second: joggers na vesh|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: -5246304996956189340
+    second: joggers na vesh|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: -6736630254761258188
+    second: joggers na vesh|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: -6439481423342169959
+    second: joggers na vesh|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: -2333427228601020451
+    second: joggers na vesh|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 6757395148794434883
+    second: joggers na vesh|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: -8711025769499325622
+    second: joggers na vesh|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: -3086711268145348459
+    second: joggers na vesh|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: 2104305136225360532
+    second: joggers na vesh|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: -6295531617015562244
+    second: joggers na vesh|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: 7635974048632033017
+    second: joggers na vesh|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 1846434343099930638
+    second: joggers na vesh|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 4635186486927136195
+    second: joggers na vesh|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: -513440068905061532
+    second: joggers na vesh|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: 3306067135077573050
+    second: joggers na vesh|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: 5828487118402652726
+    second: joggers na vesh|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: 6890043920753037400
+    second: joggers na vesh|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: 6000719243339140334
+    second: joggers na vesh|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: 4303024877899159652
+    second: joggers na vesh|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: 1913674699180071798
+    second: joggers na vesh|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: 6252809962863447322
+    second: joggers na vesh|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: 7712658486447808131
+    second: joggers na vesh|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -3143817418046169853
+    second: joggers na vesh|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: 1771572103681772008
+    second: joggers na vesh|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: -2611816816552851700
+    second: joggers na vesh|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: 182082801686430385
+    second: joggers na vesh|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: 3225627929840359656
+    second: joggers na vesh|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: 5203054996495572232
+    second: joggers na vesh|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: -1634402756760838597
+    second: joggers na vesh|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: -4045403009910797608
+    second: joggers na vesh|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: -6708809372877003468
+    second: joggers na vesh|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: -452928824467264295
+    second: joggers na vesh|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: 880799735897692197
+    second: joggers na vesh|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: 5777015313560989406
+    second: joggers na vesh|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: -6928132558384582842
+    second: joggers na vesh|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: -4140110367207431044
+    second: joggers na vesh|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: -3700634868033585078
+    second: joggers na vesh|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: 6838151604463768398
+    second: joggers na vesh|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: -6136864728845371134
+    second: joggers na vesh|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: -3470638134485904422
+    second: joggers na vesh|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: -2474747301457935828
+    second: joggers na vesh|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: 7170783601480608527
+    second: joggers na vesh|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: -7791387380650895274
+    second: joggers na vesh|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: 183975110209818725
+    second: joggers na vesh|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: 2534226373881009283
+    second: joggers na vesh|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: -104642087207846238
+    second: joggers na vesh|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: -3236818033769356881
+    second: joggers na vesh|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: -5473133814841579710
+    second: joggers na vesh|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: 545368119679299693
+    second: joggers na vesh|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: -285374153352334277
+    second: joggers na vesh|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: -591583768000724199
+    second: joggers na vesh|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: 5408268728991085845
+    second: joggers na vesh|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: -6736103421405547873
+    second: joggers na vesh|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: -7506652974942787715
+    second: joggers na vesh|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: -7558685059895188696
+    second: joggers na vesh|plechi004|Take 001|BaseLayer
+  - first:
+      74: 4543888323357457999
+    second: joggers na vesh|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: 6520215062701612799
+    second: joggers na vesh|plechi005|Take 001|BaseLayer
+  - first:
+      74: -7514364822181124481
+    second: joggers na vesh|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: 4413866425707820596
+    second: joggers na vesh|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: -5940974531689092015
+    second: joggers na vesh|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: -8162459421357577431
+    second: joggers na vesh|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: -3685118222555689931
+    second: joggers na vesh|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: -4182852433937339805
+    second: joggers na vesh|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: 5084251805056754347
+    second: joggers na vesh|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: -8994076956209075789
+    second: joggers na vesh|Power Feed Right_011|Take 001|BaseLayer
+  - first:
+      74: 841251602573303036
+    second: Obj_Avatar_Shape|Box001|Take 001|BaseLayer
+  - first:
+      74: -1863742001724082604
+    second: Obj_Avatar_Shape|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -3851400316236416877
+    second: Obj_Avatar_Shape|Box002|Take 001|BaseLayer
+  - first:
+      74: 1862737434273072635
+    second: Obj_Avatar_Shape|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -3579226746027315445
+    second: Obj_Avatar_Shape|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: -8611230927666957025
+    second: Obj_Avatar_Shape|Group460|Take 001|BaseLayer
+  - first:
+      74: -4088434488773073307
+    second: Obj_Avatar_Shape|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: -3862789835619661701
+    second: Obj_Avatar_Shape|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: -5620800324697349046
+    second: Obj_Avatar_Shape|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: 2739605171488265607
+    second: Obj_Avatar_Shape|hoodie001|Take 001|BaseLayer
+  - first:
+      74: 2355748920551907004
+    second: Obj_Avatar_Shape|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: -4668795334913934239
+    second: Obj_Avatar_Shape|hoodie002|Take 001|BaseLayer
+  - first:
+      74: 3675465303647980516
+    second: Obj_Avatar_Shape|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: 5686550302258507827
+    second: Obj_Avatar_Shape|hoodie003|Take 001|BaseLayer
+  - first:
+      74: 319987374471986325
+    second: Obj_Avatar_Shape|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: 4764741532741848659
+    second: Obj_Avatar_Shape|hoodie|Take 001|BaseLayer
+  - first:
+      74: 3315255986453543885
+    second: Obj_Avatar_Shape|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: 4599320886316992051
+    second: Obj_Avatar_Shape|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: -3791118128393305290
+    second: Obj_Avatar_Shape|joggers|Take 001|BaseLayer
+  - first:
+      74: -5579566155766961830
+    second: Obj_Avatar_Shape|joggers|Take 001|BaseLayer.001
+  - first:
+      74: -219795922870232069
+    second: Obj_Avatar_Shape|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: 5852274072317416582
+    second: Obj_Avatar_Shape|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: 7601365591371984117
+    second: Obj_Avatar_Shape|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: 4498360721272967567
+    second: Obj_Avatar_Shape|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: 6958614085023499599
+    second: Obj_Avatar_Shape|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: -659133250433292502
+    second: Obj_Avatar_Shape|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: 7896415346231347065
+    second: Obj_Avatar_Shape|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: -6857011372840826444
+    second: Obj_Avatar_Shape|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: -5243201847994684985
+    second: Obj_Avatar_Shape|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: -2505527135091375365
+    second: Obj_Avatar_Shape|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: -6618492494310000210
+    second: Obj_Avatar_Shape|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: -1021281489521137389
+    second: Obj_Avatar_Shape|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: -8237459225687761954
+    second: Obj_Avatar_Shape|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: 7740512417911706865
+    second: Obj_Avatar_Shape|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: -8656495806748262147
+    second: Obj_Avatar_Shape|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: 8927886513704097745
+    second: Obj_Avatar_Shape|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: 2777471283624785626
+    second: Obj_Avatar_Shape|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: 4042645975532508579
+    second: Obj_Avatar_Shape|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: 1241011668387907139
+    second: Obj_Avatar_Shape|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: -5383958102402929044
+    second: Obj_Avatar_Shape|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: 1509600276969958498
+    second: Obj_Avatar_Shape|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: 5886950430478389312
+    second: Obj_Avatar_Shape|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: 2863232092350879210
+    second: Obj_Avatar_Shape|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: 4790291612815483435
+    second: Obj_Avatar_Shape|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: 3219733191099818871
+    second: Obj_Avatar_Shape|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: 2695903512223352761
+    second: Obj_Avatar_Shape|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: -4304940671870635348
+    second: Obj_Avatar_Shape|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: 4751165029494974661
+    second: Obj_Avatar_Shape|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: -1977740652323368736
+    second: Obj_Avatar_Shape|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: -4903393150356571528
+    second: Obj_Avatar_Shape|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: 4642165158345416178
+    second: Obj_Avatar_Shape|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: 8953303006781916213
+    second: Obj_Avatar_Shape|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: -1652883058057994776
+    second: Obj_Avatar_Shape|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: 6418994698876679716
+    second: Obj_Avatar_Shape|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: -1673081436841618578
+    second: Obj_Avatar_Shape|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: -7033639813076164450
+    second: Obj_Avatar_Shape|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: -4729050458629128029
+    second: Obj_Avatar_Shape|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: -5690291313227516296
+    second: Obj_Avatar_Shape|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: -2181723695694442446
+    second: Obj_Avatar_Shape|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: 4219773123617186039
+    second: Obj_Avatar_Shape|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: 4168965731016782951
+    second: Obj_Avatar_Shape|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: 6617228587370413556
+    second: Obj_Avatar_Shape|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: 1194956576947090651
+    second: Obj_Avatar_Shape|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: 8369702720644693656
+    second: Obj_Avatar_Shape|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: -2238433462113422512
+    second: Obj_Avatar_Shape|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: 5332432622313915454
+    second: Obj_Avatar_Shape|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: 4377165755894287366
+    second: Obj_Avatar_Shape|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: -7986437564938968644
+    second: Obj_Avatar_Shape|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: 4485228571311732981
+    second: Obj_Avatar_Shape|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: 2606077343456225118
+    second: Obj_Avatar_Shape|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: 1786509223963431013
+    second: Obj_Avatar_Shape|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: -2875009537886350778
+    second: Obj_Avatar_Shape|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: -5935027111196603775
+    second: Obj_Avatar_Shape|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: 3892169161426591338
+    second: Obj_Avatar_Shape|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: 5784750968298009738
+    second: Obj_Avatar_Shape|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: -3002940076006336534
+    second: Obj_Avatar_Shape|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: -7958552850136529798
+    second: Obj_Avatar_Shape|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: -3042504202424311513
+    second: Obj_Avatar_Shape|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: 8358184837194712360
+    second: Obj_Avatar_Shape|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: -2351941424718869619
+    second: Obj_Avatar_Shape|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: -2832107034524974322
+    second: Obj_Avatar_Shape|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: 2612246014154433406
+    second: Obj_Avatar_Shape|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: 6167665862428796030
+    second: Obj_Avatar_Shape|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: -1172498457593238645
+    second: Obj_Avatar_Shape|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: -8387211742493877861
+    second: Obj_Avatar_Shape|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: -4797794876921116044
+    second: Obj_Avatar_Shape|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: -6545886341812774307
+    second: Obj_Avatar_Shape|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: 9026366046469928849
+    second: Obj_Avatar_Shape|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 5040890540373896384
+    second: Obj_Avatar_Shape|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: -3137632561879322055
+    second: Obj_Avatar_Shape|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: -8380919172762983622
+    second: Obj_Avatar_Shape|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: -2854709198547228265
+    second: Obj_Avatar_Shape|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: -9097560360211767960
+    second: Obj_Avatar_Shape|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: 4248780488898362665
+    second: Obj_Avatar_Shape|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: 3547289614750369606
+    second: Obj_Avatar_Shape|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: 991594523875069119
+    second: Obj_Avatar_Shape|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: -253942356991481080
+    second: Obj_Avatar_Shape|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: 508479556835721350
+    second: Obj_Avatar_Shape|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: 3726064815166193157
+    second: Obj_Avatar_Shape|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: 3428778666247148080
+    second: Obj_Avatar_Shape|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: 4225608259005383868
+    second: Obj_Avatar_Shape|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: 6092735309355762858
+    second: Obj_Avatar_Shape|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: 3771365702636585728
+    second: Obj_Avatar_Shape|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: -2704771977631728912
+    second: Obj_Avatar_Shape|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: -996672621109676070
+    second: Obj_Avatar_Shape|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: -8205273385115219326
+    second: Obj_Avatar_Shape|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: -2959199143604458791
+    second: Obj_Avatar_Shape|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: 6668024675155322454
+    second: Obj_Avatar_Shape|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: 2861698278687660029
+    second: Obj_Avatar_Shape|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: -4764201017214718779
+    second: Obj_Avatar_Shape|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: -5413141715804377683
+    second: Obj_Avatar_Shape|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -2306313807273196990
+    second: Obj_Avatar_Shape|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: -6226402660098935820
+    second: Obj_Avatar_Shape|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: -7280924633183979446
+    second: Obj_Avatar_Shape|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: -379135797705307380
+    second: Obj_Avatar_Shape|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: -4426462701485704749
+    second: Obj_Avatar_Shape|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: -7046374796229386942
+    second: Obj_Avatar_Shape|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: 304144412365239184
+    second: Obj_Avatar_Shape|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: 7364686307294775506
+    second: Obj_Avatar_Shape|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: 1185222206809454067
+    second: Obj_Avatar_Shape|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: -5906404344209765941
+    second: Obj_Avatar_Shape|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: 2090242759385977913
+    second: Obj_Avatar_Shape|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: 470493487127405968
+    second: Obj_Avatar_Shape|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: -1635661496666245293
+    second: Obj_Avatar_Shape|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: 4893501685296151003
+    second: Obj_Avatar_Shape|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: 6900665110806500899
+    second: Obj_Avatar_Shape|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: 5888281101416826668
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: 604048502334084724
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 5210187915592136748
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: -2519217479236735255
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: 750061752619766362
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -3235215060703678667
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: -4031459883952423125
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: -2742836627841134155
+    second: Obj_Avatar_Shape|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: 3713260427333792267
+    second: Obj_Avatar_Shape|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: 257977848431561246
+    second: Obj_Avatar_Shape|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: 2412746147622451659
+    second: Obj_Avatar_Shape|Object001|Take 001|BaseLayer
+  - first:
+      74: 4755344051639452969
+    second: Obj_Avatar_Shape|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -2055711541388240710
+    second: Obj_Avatar_Shape|Object006.002|Take 001|BaseLayer
+  - first:
+      74: -3257460657090193221
+    second: Obj_Avatar_Shape|Object006|Take 001|BaseLayer
+  - first:
+      74: 6377115257759603478
+    second: Obj_Avatar_Shape|Object007|Take 001|BaseLayer
+  - first:
+      74: 5393976297145968546
+    second: Obj_Avatar_Shape|Object007|Take 001|BaseLayer.001
+  - first:
+      74: 6374742457115401160
+    second: Obj_Avatar_Shape|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: 708475614776148747
+    second: Obj_Avatar_Shape|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: -5407828616511159125
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: 3284552618118346276
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: 2782568891988685670
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: 5760681206192871504
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: 4232589204880290676
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: 5865028479121752956
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: 6454220374458576376
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: 9165395142947415331
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: -3867900774401392485
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: -8582955012304291805
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 4470637880501132131
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: -6404677539977911167
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: 7428353631284162013
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: 7411109480260466453
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: -1451644177286020939
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: -522924526942742218
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: -1322295102319654277
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: -9094677568819124825
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: -1190969487598534122
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: -7483033322009156775
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: 8291251954449252562
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: -2085575452669511647
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: -3361221670179846250
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: -2119040462893182441
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: -6904344538141193023
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: -3498685374884062461
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: 6391087267323193159
+    second: Obj_Avatar_Shape|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -8207631704038375393
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: -820865978317476234
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: -2736641636344595485
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: 7578541850051475341
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: 4932548238454732903
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: 9087509603799444042
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: 8298117159977180218
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: 6316410400679222296
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: 7269666522062225280
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: 153150362926424459
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: -513700581152573607
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: -5096332514998970367
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: 3537687534883670151
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: -5181219542796228818
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: 3858133521624834851
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: -3632064277050831629
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: -8858794055219112612
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: -6854493170976444850
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: 763711663080338224
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: 6939437008191131706
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: -2109873642508116261
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: 4460472038511856804
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: -32021054978042485
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: -333809654544411897
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: 509070875308209203
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: -8996945168073107106
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: -1317238209266253517
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: 8903003552605502099
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: 2844109324390983136
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: 2307858757185463546
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: -8260512365050849973
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: -3416475498758051479
+    second: Obj_Avatar_Shape|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: -6439431161281127266
+    second: Obj_Avatar_Shape|plechi004|Take 001|BaseLayer
+  - first:
+      74: 2404225313346152741
+    second: Obj_Avatar_Shape|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: 4046565643723635792
+    second: Obj_Avatar_Shape|plechi005|Take 001|BaseLayer
+  - first:
+      74: -4976500373304224017
+    second: Obj_Avatar_Shape|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: 2668599985716597928
+    second: Obj_Avatar_Shape|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: 2693462181607987799
+    second: Obj_Avatar_Shape|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 1658139806983748456
+    second: Obj_Avatar_Shape|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: -4576476698231553614
+    second: Obj_Avatar_Shape|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: 2715249063319188524
+    second: Obj_Avatar_Shape|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: 9111753362160757188
+    second: Obj_Avatar_Shape|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: -8331525231535768899
+    second: Obj_Avatar_Shape|Power Feed Right_011|Take 001|BaseLayer
+  - first:
+      74: -5441705439692774207
+    second: Object006|Box001|Take 001|BaseLayer
+  - first:
+      74: 4733228479530548512
+    second: Object006|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -7155320017641660265
+    second: Object006|Box002|Take 001|BaseLayer
+  - first:
+      74: -8665486543356499956
+    second: Object006|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 1468879917347182603
+    second: Object006|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: 8650143018924477148
+    second: Object006|Group460|Take 001|BaseLayer
+  - first:
+      74: 5797665435381890019
+    second: Object006|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: -5060803346830601819
+    second: Object006|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: -2269408810975904333
+    second: Object006|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: -1477181998011455785
+    second: Object006|hoodie001|Take 001|BaseLayer
+  - first:
+      74: 6113493899222942172
+    second: Object006|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: -4551857173089119766
+    second: Object006|hoodie002|Take 001|BaseLayer
+  - first:
+      74: 5531552843604243420
+    second: Object006|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: -3684626760136693000
+    second: Object006|hoodie003|Take 001|BaseLayer
+  - first:
+      74: -2589724342713843822
+    second: Object006|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: -4353606765916673636
+    second: Object006|hoodie|Take 001|BaseLayer
+  - first:
+      74: 3241546333529253573
+    second: Object006|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: 3661737152744210912
+    second: Object006|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: 7683867798484653851
+    second: Object006|joggers|Take 001|BaseLayer
+  - first:
+      74: -2770712515999466321
+    second: Object006|joggers|Take 001|BaseLayer.001
+  - first:
+      74: -3107010468457572534
+    second: Object006|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: -5255741995494913075
+    second: Object006|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: -3506086017787931290
+    second: Object006|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: 4325307616333730405
+    second: Object006|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: -2180078827492418438
+    second: Object006|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: 3355577432820651813
+    second: Object006|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: 4564269348145986958
+    second: Object006|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: -8869409033764096853
+    second: Object006|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: 4096132562118227592
+    second: Object006|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: -327606113417807506
+    second: Object006|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: 3096531333804237836
+    second: Object006|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: 153612040609854443
+    second: Object006|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: -8089121506880176232
+    second: Object006|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: 5693551175638484015
+    second: Object006|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: 4029917630584171760
+    second: Object006|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: 3583359422859837924
+    second: Object006|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: -3839835696440728242
+    second: Object006|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: 622718853870621140
+    second: Object006|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: 5087184002507915827
+    second: Object006|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: 2181866369690296404
+    second: Object006|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: 6996266838099101960
+    second: Object006|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: -3510883331921142279
+    second: Object006|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: -6944209546522125710
+    second: Object006|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: -2227781487792417894
+    second: Object006|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: -3092579591327786519
+    second: Object006|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: -4769776712848749257
+    second: Object006|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: 3566635594672028877
+    second: Object006|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: 2353695216506304594
+    second: Object006|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: 6900979467847722201
+    second: Object006|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: 1206109252796782964
+    second: Object006|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: -6740080016795283233
+    second: Object006|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: -1157271233500575353
+    second: Object006|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: 134854373770930349
+    second: Object006|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: 2595972670190604774
+    second: Object006|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: -5714439954410172064
+    second: Object006|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: 9084582772268052865
+    second: Object006|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: 3938891361553303152
+    second: Object006|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: -6022129551602619920
+    second: Object006|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: 3945576467076023731
+    second: Object006|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: 5228367310120271762
+    second: Object006|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: 5283720617385136346
+    second: Object006|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: 7874130175904777490
+    second: Object006|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: 5898710154530709092
+    second: Object006|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: -788713748645460223
+    second: Object006|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: -5427089796756178543
+    second: Object006|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: -3879572498907647261
+    second: Object006|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: 3700646126675816548
+    second: Object006|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: -4361699745924057105
+    second: Object006|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: -4642808548232308289
+    second: Object006|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: 8980708422149074595
+    second: Object006|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: 6464888240655267769
+    second: Object006|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: -1255459831756671698
+    second: Object006|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: -8839573844331923398
+    second: Object006|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: -2105762663957976712
+    second: Object006|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: 1394717154875476691
+    second: Object006|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: -7852552145647777675
+    second: Object006|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: -2795573771406411726
+    second: Object006|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: -7137210657162087986
+    second: Object006|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: 5522963760049156647
+    second: Object006|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: -1862120063838779556
+    second: Object006|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: 4291624111330445482
+    second: Object006|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: 6926701699406198497
+    second: Object006|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: 6248675740308354582
+    second: Object006|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: 5436803166400025143
+    second: Object006|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: -322350459644189057
+    second: Object006|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: -3475026058664751114
+    second: Object006|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: 3793222380809323073
+    second: Object006|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: -5394889608979218274
+    second: Object006|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 1779643253625043413
+    second: Object006|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: 4507246661106113326
+    second: Object006|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: -5323304225844824955
+    second: Object006|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: -3344775269089197716
+    second: Object006|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: 3745123903102189468
+    second: Object006|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: -4742129033887760811
+    second: Object006|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: 2629703526998063724
+    second: Object006|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: -5859794906403552704
+    second: Object006|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: 7125797440325902410
+    second: Object006|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: 1375527615710661053
+    second: Object006|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: -4522441374588411341
+    second: Object006|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: -606782560664424886
+    second: Object006|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: 3555600140173078523
+    second: Object006|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: 329960533067236096
+    second: Object006|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: -4949022377372310553
+    second: Object006|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: -994895055757441974
+    second: Object006|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: 4457664836033793999
+    second: Object006|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: -200347941744839773
+    second: Object006|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: 871627261427266013
+    second: Object006|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: 1751540630193922763
+    second: Object006|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: 5675503554868008821
+    second: Object006|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: 368856311646422440
+    second: Object006|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: 3326880866038334635
+    second: Object006|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -5352549206341341372
+    second: Object006|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: 4356681798136846886
+    second: Object006|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: 7246278995557985506
+    second: Object006|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: 3225028073675374388
+    second: Object006|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: 5567932415375533273
+    second: Object006|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: 4458801145034200617
+    second: Object006|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: -1626315011459295427
+    second: Object006|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: -8314571500492579414
+    second: Object006|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: 3606031958643329250
+    second: Object006|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: -1365859597445916223
+    second: Object006|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: 1024337840496980707
+    second: Object006|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: -7033986503046615618
+    second: Object006|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: 3925360173340472945
+    second: Object006|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: 5714520486080119843
+    second: Object006|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: -1073216516695332225
+    second: Object006|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: -6712336284344285501
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: 7193803814733587524
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 265331692325693039
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: 7385747547244626262
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: -3093003762880551162
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -5914294410645704788
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: 6473220097375103813
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: -4608510987328963745
+    second: Object006|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: -3174462758879521068
+    second: Object006|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: 2700410931353305597
+    second: Object006|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: -1163071072004319530
+    second: Object006|Object001|Take 001|BaseLayer
+  - first:
+      74: 2978408873405841110
+    second: Object006|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -3851839708235521528
+    second: Object006|Object006.002|Take 001|BaseLayer
+  - first:
+      74: 4485848483759978003
+    second: Object006|Object006|Take 001|BaseLayer
+  - first:
+      74: 459653624881690644
+    second: Object006|Object007|Take 001|BaseLayer
+  - first:
+      74: -1876279953409629441
+    second: Object006|Object007|Take 001|BaseLayer.001
+  - first:
+      74: 5305142464186231548
+    second: Object006|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: 4088239636393514191
+    second: Object006|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: 7084444237500290567
+    second: Object006|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -7874920184056265515
+    second: Object006|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: 5060604088149506959
+    second: Object006|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: 6322878150994700416
+    second: Object006|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: 8603079294534099687
+    second: Object006|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -3927123275867461401
+    second: Object006|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: 6209510371737649679
+    second: Object006|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: -8743224690798874371
+    second: Object006|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: -1132481347241096835
+    second: Object006|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: 6375967461292945711
+    second: Object006|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 6248887096450184182
+    second: Object006|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: 6758322480459307933
+    second: Object006|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: -1246447964123066316
+    second: Object006|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: -1994633851324649594
+    second: Object006|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: -3845170760100605844
+    second: Object006|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: 7874377136044304419
+    second: Object006|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 5178235619870190355
+    second: Object006|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 6243631363097948035
+    second: Object006|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: 1870578888604486665
+    second: Object006|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: -1487256545008166253
+    second: Object006|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: -303035119771396428
+    second: Object006|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: 2301196025427196283
+    second: Object006|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: -2379761538777442250
+    second: Object006|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: -8312918569113009968
+    second: Object006|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: -7684640746338484540
+    second: Object006|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: -4539837307182312861
+    second: Object006|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: 1602311147851886792
+    second: Object006|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -1706614790533689050
+    second: Object006|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: 283286255392058439
+    second: Object006|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: 3100809436230091744
+    second: Object006|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: -7318011656599734908
+    second: Object006|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: -3032213195664903716
+    second: Object006|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: -6509970680740048120
+    second: Object006|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: -5575484237830681222
+    second: Object006|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: -4354000437540052052
+    second: Object006|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: -5628685207964584879
+    second: Object006|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: -1992945370098017117
+    second: Object006|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: -7026509035809871459
+    second: Object006|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: 8250098865738419737
+    second: Object006|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: 8620407901445823556
+    second: Object006|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: -6638338633203801868
+    second: Object006|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: -3365339572336461028
+    second: Object006|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: 2689730308777537609
+    second: Object006|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: -6753418806476693751
+    second: Object006|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: -3960767905370305485
+    second: Object006|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: -5056342825907406073
+    second: Object006|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: -3451550644055681500
+    second: Object006|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: -3753028159358950808
+    second: Object006|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: -3548551864523822831
+    second: Object006|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: 7928450634645441593
+    second: Object006|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: -3120404715458950823
+    second: Object006|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: 9112931626204101481
+    second: Object006|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: -8839759338167804157
+    second: Object006|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: 1383617913549267011
+    second: Object006|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: -6290656923195081645
+    second: Object006|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: 4683699089470007869
+    second: Object006|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: -9189090180819094789
+    second: Object006|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: 6356313153077637818
+    second: Object006|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: 6075946809502066414
+    second: Object006|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: 2002072535063263950
+    second: Object006|plechi004|Take 001|BaseLayer
+  - first:
+      74: 4100837421023573887
+    second: Object006|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: 6556832719314072694
+    second: Object006|plechi005|Take 001|BaseLayer
+  - first:
+      74: 3296558481846512169
+    second: Object006|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: -2990100987865820359
+    second: Object006|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: -7816949058437326538
+    second: Object006|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 1309170395694162602
+    second: Object006|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: 1752887158843890964
+    second: Object006|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: -1876536149522028011
+    second: Object006|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: -9137632915528968141
+    second: Object006|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: -2328953100996321202
+    second: Object006|Power Feed Right_011|Take 001|BaseLayer
+  - first:
+      74: -1695023730193317270
+    second: Object006.001|Box001|Take 001|BaseLayer
+  - first:
+      74: -4255853397416378389
+    second: Object006.001|Box001|Take 001|BaseLayer.001
+  - first:
+      74: 9155241014708086198
+    second: Object006.001|Box002|Take 001|BaseLayer
+  - first:
+      74: -3466513745812782510
+    second: Object006.001|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 857797536320312911
+    second: Object006.001|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: 5382644663764784195
+    second: Object006.001|Group460|Take 001|BaseLayer
+  - first:
+      74: 8386557260972728424
+    second: Object006.001|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: 4961304691672484404
+    second: Object006.001|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: -4444193030876260794
+    second: Object006.001|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: 1479513578447252190
+    second: Object006.001|hoodie001|Take 001|BaseLayer
+  - first:
+      74: 960841373293820557
+    second: Object006.001|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: 8671345010827767494
+    second: Object006.001|hoodie002|Take 001|BaseLayer
+  - first:
+      74: -2464801357341556764
+    second: Object006.001|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: -6151590684741976478
+    second: Object006.001|hoodie003|Take 001|BaseLayer
+  - first:
+      74: -359612648892767311
+    second: Object006.001|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: 4729186318667396053
+    second: Object006.001|hoodie|Take 001|BaseLayer
+  - first:
+      74: -2897559487581222590
+    second: Object006.001|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: -3139186233476966229
+    second: Object006.001|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: 9218975897529563059
+    second: Object006.001|joggers|Take 001|BaseLayer
+  - first:
+      74: 1460100008668594113
+    second: Object006.001|joggers|Take 001|BaseLayer.001
+  - first:
+      74: -3990217554973753871
+    second: Object006.001|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: -1016332689278981991
+    second: Object006.001|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: -6613686560862329702
+    second: Object006.001|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: 3261566785773603184
+    second: Object006.001|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: 1726703465114379023
+    second: Object006.001|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: -2460833806509886507
+    second: Object006.001|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: -2150563366438549386
+    second: Object006.001|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: 1488401121385750946
+    second: Object006.001|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: -6488573764054072517
+    second: Object006.001|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: 4005100581298559104
+    second: Object006.001|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: 1498106331034841905
+    second: Object006.001|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: 3400977226000853904
+    second: Object006.001|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: 5292698315136777936
+    second: Object006.001|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: -3638151356819334041
+    second: Object006.001|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: -3847498110935957428
+    second: Object006.001|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: 596988647246295144
+    second: Object006.001|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: -3240564307490462579
+    second: Object006.001|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: 3528400803960611742
+    second: Object006.001|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: 1140603312694473838
+    second: Object006.001|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: 2260933051954352899
+    second: Object006.001|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: 1179924580838080529
+    second: Object006.001|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: -7043963088719015594
+    second: Object006.001|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: -7110245525850971031
+    second: Object006.001|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: 4017037002077581997
+    second: Object006.001|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: 8479110911724907855
+    second: Object006.001|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: 2641058071460798376
+    second: Object006.001|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: 7788941150289711635
+    second: Object006.001|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: 8516342564383058306
+    second: Object006.001|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: 2788651733065869313
+    second: Object006.001|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: -2678957383353975709
+    second: Object006.001|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: -6973273610710896035
+    second: Object006.001|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: -1220212476303892878
+    second: Object006.001|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: 7333221861944402549
+    second: Object006.001|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: -2125416503138312372
+    second: Object006.001|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: 144122080034203703
+    second: Object006.001|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: 3909287233936739248
+    second: Object006.001|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: -4877223757005904417
+    second: Object006.001|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: -8515584931988623020
+    second: Object006.001|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: 8904762596330713825
+    second: Object006.001|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: 4831827737472364
+    second: Object006.001|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: -2135772795470376860
+    second: Object006.001|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: -6493388923299854055
+    second: Object006.001|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: 2170307199247994298
+    second: Object006.001|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: -4553722332102784838
+    second: Object006.001|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: -6836968171941577593
+    second: Object006.001|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: 3411279408073398897
+    second: Object006.001|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: 5955779009521377855
+    second: Object006.001|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: 7677243417209185135
+    second: Object006.001|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: 779154850938086630
+    second: Object006.001|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: -4484881976167235379
+    second: Object006.001|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: -1554383739947813593
+    second: Object006.001|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: 7440372056278870080
+    second: Object006.001|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: -8049609429854911199
+    second: Object006.001|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: -2088617894885136125
+    second: Object006.001|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: 732686876389878483
+    second: Object006.001|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: 2505185656449233392
+    second: Object006.001|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: 564611120882007957
+    second: Object006.001|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: 5447831382965627643
+    second: Object006.001|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: -6507421106709460333
+    second: Object006.001|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: -5310022316356534854
+    second: Object006.001|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: 8217036417698850288
+    second: Object006.001|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: 3366039582364018788
+    second: Object006.001|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: 2255376623365819654
+    second: Object006.001|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: 6662558315283066959
+    second: Object006.001|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: -3503140665504965686
+    second: Object006.001|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: 6994066706858201996
+    second: Object006.001|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: -8273146282891272968
+    second: Object006.001|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: 8607762421902408543
+    second: Object006.001|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 301906345488868884
+    second: Object006.001|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: -46755480908305304
+    second: Object006.001|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: 7261647614909897159
+    second: Object006.001|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: 3391282879555196236
+    second: Object006.001|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: 3906209202712806021
+    second: Object006.001|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: -7399907186957195400
+    second: Object006.001|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: -7099668865677174566
+    second: Object006.001|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: 3170489829513957992
+    second: Object006.001|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: -9037954057786563248
+    second: Object006.001|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: -5000525664114783844
+    second: Object006.001|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: -6351890333903806762
+    second: Object006.001|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: 2355914180582568838
+    second: Object006.001|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: -2164949623010693867
+    second: Object006.001|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: -199341092937109474
+    second: Object006.001|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: 4633511442523597000
+    second: Object006.001|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: 7077152213471064694
+    second: Object006.001|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: 4863170098785896925
+    second: Object006.001|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: 7876557197000703582
+    second: Object006.001|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: 4499212875154848871
+    second: Object006.001|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: -533165796262688915
+    second: Object006.001|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: 5100155224613761143
+    second: Object006.001|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: 7369337256432344740
+    second: Object006.001|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: -3146428909254516151
+    second: Object006.001|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -247043339542320452
+    second: Object006.001|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: 8096026901898417560
+    second: Object006.001|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: 6905882777893822999
+    second: Object006.001|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: 5037796130733759791
+    second: Object006.001|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: -4784856017577857223
+    second: Object006.001|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: 5733747126890195849
+    second: Object006.001|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: 6188439386400720416
+    second: Object006.001|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: 3950732301092675966
+    second: Object006.001|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: 3083677095842860951
+    second: Object006.001|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: 6425408932606905332
+    second: Object006.001|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: 6305151803402494655
+    second: Object006.001|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: 6457705519296931435
+    second: Object006.001|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: -2172772916034004180
+    second: Object006.001|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: -6589748329102421762
+    second: Object006.001|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: 5503074672276238497
+    second: Object006.001|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: -2994199006303447611
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: 6672931702737376080
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 7059803910400749768
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: -2784142543442115514
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: -3785121894045830742
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -4032343563443603374
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: 2757133729772537984
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: -6378180086703258704
+    second: Object006.001|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: 7818220980905404860
+    second: Object006.001|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: 149333892609264511
+    second: Object006.001|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: -2083658923681142837
+    second: Object006.001|Object001|Take 001|BaseLayer
+  - first:
+      74: 1877633754732904692
+    second: Object006.001|Object001|Take 001|BaseLayer.001
+  - first:
+      74: 8515435885043251167
+    second: Object006.001|Object006.002|Take 001|BaseLayer
+  - first:
+      74: -698668936450945996
+    second: Object006.001|Object006|Take 001|BaseLayer
+  - first:
+      74: -117408742988332211
+    second: Object006.001|Object007|Take 001|BaseLayer
+  - first:
+      74: -7494567332915890437
+    second: Object006.001|Object007|Take 001|BaseLayer.001
+  - first:
+      74: -1349872127448915347
+    second: Object006.001|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: -1570152373347091559
+    second: Object006.001|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: -7612419555330196001
+    second: Object006.001|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -2818574115107210620
+    second: Object006.001|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: -6584989903612324941
+    second: Object006.001|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: -3018546095482402324
+    second: Object006.001|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: -8771746603027874326
+    second: Object006.001|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -3497046855271249104
+    second: Object006.001|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: -7598670053661793636
+    second: Object006.001|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: -4702565872384432796
+    second: Object006.001|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: 2584971324796317066
+    second: Object006.001|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: -6983711940862907466
+    second: Object006.001|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 8190261995804713535
+    second: Object006.001|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: -6105710680533047247
+    second: Object006.001|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: 971488541077859888
+    second: Object006.001|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: -8341275185114022962
+    second: Object006.001|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: 6239003251791439782
+    second: Object006.001|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: 82801262654473530
+    second: Object006.001|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 4464520975529402497
+    second: Object006.001|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 4968612433794158284
+    second: Object006.001|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: 7528641262421259850
+    second: Object006.001|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: -5275622273574206127
+    second: Object006.001|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: -852174202173787459
+    second: Object006.001|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: -4658597582948077404
+    second: Object006.001|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: 4120216517001426922
+    second: Object006.001|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: 4822810775288874937
+    second: Object006.001|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: -1019084809752945492
+    second: Object006.001|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: 4136587782041351977
+    second: Object006.001|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: 5096963822998649328
+    second: Object006.001|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -2312467073302203901
+    second: Object006.001|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: 171637448464026542
+    second: Object006.001|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: 1313562297327034160
+    second: Object006.001|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: -3177271734985985384
+    second: Object006.001|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: -1823159755353130724
+    second: Object006.001|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: -2205540296243654881
+    second: Object006.001|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: 6779986564277422751
+    second: Object006.001|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: -6812380275778117423
+    second: Object006.001|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: -2996930696177565337
+    second: Object006.001|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: -8536382611709429976
+    second: Object006.001|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: 6732245859916982975
+    second: Object006.001|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: 8176636888041270074
+    second: Object006.001|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: -6693901110581313043
+    second: Object006.001|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: 4029320837459792262
+    second: Object006.001|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: -230773257282546088
+    second: Object006.001|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: -3877164740853717381
+    second: Object006.001|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: -7976726359564715443
+    second: Object006.001|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: -8487437276947988272
+    second: Object006.001|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: -8925114444713683615
+    second: Object006.001|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: 529843473111569126
+    second: Object006.001|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: 6080414159783760064
+    second: Object006.001|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: -6457702619873278116
+    second: Object006.001|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: 5258862545229839849
+    second: Object006.001|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: 8341893463024923871
+    second: Object006.001|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: 6065320850978910035
+    second: Object006.001|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: -5514386378560410699
+    second: Object006.001|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: 7050070636815006934
+    second: Object006.001|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: 8276016854874340822
+    second: Object006.001|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: -128799266134446840
+    second: Object006.001|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: 7300413032264715152
+    second: Object006.001|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: 2418950036033711825
+    second: Object006.001|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: -4131595444199422369
+    second: Object006.001|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: 7382325627931036425
+    second: Object006.001|plechi004|Take 001|BaseLayer
+  - first:
+      74: 2389831739178736955
+    second: Object006.001|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: 7702846693140219897
+    second: Object006.001|plechi005|Take 001|BaseLayer
+  - first:
+      74: -8808024745251034862
+    second: Object006.001|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: 5184396698590756078
+    second: Object006.001|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: -3399556653669404088
+    second: Object006.001|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 4619301696678431889
+    second: Object006.001|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: 677078354997670696
+    second: Object006.001|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: -3471135898934511181
+    second: Object006.001|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: 892390802239867266
+    second: Object006.001|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: 331266693235620182
+    second: Object006.001|Power Feed Right_011|Take 001|BaseLayer
+  - first:
+      74: -7911097153439068625
+    second: Object006.002|Box001|Take 001|BaseLayer
+  - first:
+      74: -8358057774012735529
+    second: Object006.002|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -7693724524780940938
+    second: Object006.002|Box002|Take 001|BaseLayer
+  - first:
+      74: 5504195821843423755
+    second: Object006.002|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -1759024236277397874
+    second: Object006.002|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: -601930775265962475
+    second: Object006.002|Group460|Take 001|BaseLayer
+  - first:
+      74: 7738278223018900691
+    second: Object006.002|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: -943813453037780322
+    second: Object006.002|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: -8391630168735946549
+    second: Object006.002|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: 3441000840607619308
+    second: Object006.002|hoodie001|Take 001|BaseLayer
+  - first:
+      74: 4502304741241622856
+    second: Object006.002|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: 2568064042833030344
+    second: Object006.002|hoodie002|Take 001|BaseLayer
+  - first:
+      74: 3489086039271092896
+    second: Object006.002|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: 8160698417122349365
+    second: Object006.002|hoodie003|Take 001|BaseLayer
+  - first:
+      74: -2690067794020511755
+    second: Object006.002|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: 4286107159453018585
+    second: Object006.002|hoodie|Take 001|BaseLayer
+  - first:
+      74: -7686154574399183502
+    second: Object006.002|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: 666819423994955994
+    second: Object006.002|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: 2422634671655943724
+    second: Object006.002|joggers|Take 001|BaseLayer
+  - first:
+      74: -3964078744513369758
+    second: Object006.002|joggers|Take 001|BaseLayer.001
+  - first:
+      74: -3173944522617357332
+    second: Object006.002|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: -1904114652657357241
+    second: Object006.002|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: 410225103637122928
+    second: Object006.002|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: 1089654588134509434
+    second: Object006.002|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: -5974055209607557907
+    second: Object006.002|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: 7643523207434161032
+    second: Object006.002|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: 4126009768315889211
+    second: Object006.002|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: 7361357177304214082
+    second: Object006.002|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: 7353651305986909336
+    second: Object006.002|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: -6267821507057199519
+    second: Object006.002|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: 224725318027393432
+    second: Object006.002|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: -3131143329932629233
+    second: Object006.002|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: 1351128142856243299
+    second: Object006.002|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: 4697882105051808407
+    second: Object006.002|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: -2490355889872255345
+    second: Object006.002|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: -4702289863959474895
+    second: Object006.002|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: 3587275082290735476
+    second: Object006.002|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: 1115828838724477686
+    second: Object006.002|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: -4259663745368807425
+    second: Object006.002|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: -5700593586561487162
+    second: Object006.002|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: 8669145396707863133
+    second: Object006.002|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: -8941914101049489340
+    second: Object006.002|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: -6067524137317175272
+    second: Object006.002|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: -6272643649048537187
+    second: Object006.002|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: -7924401800970016721
+    second: Object006.002|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: 2300799773518854430
+    second: Object006.002|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: -3803314045063119653
+    second: Object006.002|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: 1839657978301416153
+    second: Object006.002|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: 1723290071838400399
+    second: Object006.002|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: 4225441325999418587
+    second: Object006.002|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: -2134982313648745838
+    second: Object006.002|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: 1894755220469808529
+    second: Object006.002|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: 6824321454531034495
+    second: Object006.002|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: -2984468713723515697
+    second: Object006.002|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: -3797118776835745648
+    second: Object006.002|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: 7569740291782595348
+    second: Object006.002|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: 302440238611776502
+    second: Object006.002|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: -7734784569817233934
+    second: Object006.002|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: -8589540645268322849
+    second: Object006.002|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: -4969243230568035827
+    second: Object006.002|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: -7451937212412146883
+    second: Object006.002|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: -134656578702385642
+    second: Object006.002|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: -8332167951827627212
+    second: Object006.002|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: 4230540689803151256
+    second: Object006.002|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: -7844542682113679797
+    second: Object006.002|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: -2766268960041869098
+    second: Object006.002|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: -507507047948484661
+    second: Object006.002|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: 906874418301933762
+    second: Object006.002|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: -2379031857366316827
+    second: Object006.002|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: 5418110974946552599
+    second: Object006.002|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: -3253009096469289448
+    second: Object006.002|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: -5368067508095538399
+    second: Object006.002|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: 6588162961370111935
+    second: Object006.002|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: -6411733651018501498
+    second: Object006.002|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: -4496249174636130557
+    second: Object006.002|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: 6243526305516075532
+    second: Object006.002|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: 2716529369345073140
+    second: Object006.002|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: -4503230795313688836
+    second: Object006.002|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: 7578744761731937234
+    second: Object006.002|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: 6692673078608455170
+    second: Object006.002|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: 5254930325660921007
+    second: Object006.002|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: -2558567055176101574
+    second: Object006.002|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: -2653344727848224213
+    second: Object006.002|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: -7925424710226392102
+    second: Object006.002|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: 4813725914091611219
+    second: Object006.002|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: -8834524872276859847
+    second: Object006.002|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: 4579272382564623693
+    second: Object006.002|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: -6281879685216746586
+    second: Object006.002|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 1800509133960124242
+    second: Object006.002|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: -6169987622864986362
+    second: Object006.002|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: 3045994894918146853
+    second: Object006.002|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: -3006425016727944975
+    second: Object006.002|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: -4391986808919504929
+    second: Object006.002|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: -4461558148293872514
+    second: Object006.002|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: -8337711876280339293
+    second: Object006.002|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: 2586133997474361052
+    second: Object006.002|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: 2852409827983148053
+    second: Object006.002|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: -2721681651627711928
+    second: Object006.002|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: 4746072638524345653
+    second: Object006.002|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: 5143134980191396182
+    second: Object006.002|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: -7742657949501658887
+    second: Object006.002|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: 3705566737378326747
+    second: Object006.002|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: 5404517339976278753
+    second: Object006.002|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: 6322036208533627509
+    second: Object006.002|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: 4126549816528456871
+    second: Object006.002|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: 4366364805045619023
+    second: Object006.002|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: 8873830894982750075
+    second: Object006.002|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: 8987742540738750578
+    second: Object006.002|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: -3078223912747594929
+    second: Object006.002|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: -3535812070154045843
+    second: Object006.002|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: -5011865513580815940
+    second: Object006.002|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -868721815251104097
+    second: Object006.002|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: -8998789928785482155
+    second: Object006.002|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: 4301929124357472682
+    second: Object006.002|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: 4236065999461556271
+    second: Object006.002|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: 2965721709071578473
+    second: Object006.002|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: -1006775161715768662
+    second: Object006.002|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: 2280811600383479345
+    second: Object006.002|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: -6418587363722095273
+    second: Object006.002|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: -6454416881134194146
+    second: Object006.002|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: -8309143948382498882
+    second: Object006.002|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: -856235950228206608
+    second: Object006.002|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: 4538121561425499974
+    second: Object006.002|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: 164745934094477212
+    second: Object006.002|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: 6512265260989110321
+    second: Object006.002|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: 1646619366541172477
+    second: Object006.002|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: 1630810992707438126
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: -5135632348011726405
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 1852143272968543922
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: 3901418120363658024
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: -1491345936387168266
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -5416167806848185091
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: -8309219010175243245
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: 7078179055826430510
+    second: Object006.002|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: -1235058988466699798
+    second: Object006.002|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: 7970671903685252258
+    second: Object006.002|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: 5232465231075393004
+    second: Object006.002|Object001|Take 001|BaseLayer
+  - first:
+      74: 9042819762541599426
+    second: Object006.002|Object001|Take 001|BaseLayer.001
+  - first:
+      74: 8294456069506937984
+    second: Object006.002|Object006.002|Take 001|BaseLayer
+  - first:
+      74: -5758170098721973089
+    second: Object006.002|Object006|Take 001|BaseLayer
+  - first:
+      74: -5831204058140494985
+    second: Object006.002|Object007|Take 001|BaseLayer
+  - first:
+      74: -8246872020612468285
+    second: Object006.002|Object007|Take 001|BaseLayer.001
+  - first:
+      74: -4892701317570937011
+    second: Object006.002|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: 2865632693151468726
+    second: Object006.002|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: 616260650133854387
+    second: Object006.002|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -3114282295306006894
+    second: Object006.002|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: 4308560025390617014
+    second: Object006.002|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: -5416870040227813079
+    second: Object006.002|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: -8354152393141713731
+    second: Object006.002|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -7635181213169856179
+    second: Object006.002|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: 5166318668118809243
+    second: Object006.002|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: 7763877360444191847
+    second: Object006.002|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: -5689898288919818572
+    second: Object006.002|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: 195426096405747107
+    second: Object006.002|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: -4632502621142159525
+    second: Object006.002|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: -4857042067907805896
+    second: Object006.002|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: 837049453014794982
+    second: Object006.002|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: -2718151082356281481
+    second: Object006.002|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: -1281672865717278002
+    second: Object006.002|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: -2425435285095310890
+    second: Object006.002|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 1230909358861885840
+    second: Object006.002|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 5105819276423558214
+    second: Object006.002|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: 1307797676397201784
+    second: Object006.002|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: 8241792253234323732
+    second: Object006.002|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: -2854781739005541553
+    second: Object006.002|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: 6470852722077704480
+    second: Object006.002|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: 1321428726002016152
+    second: Object006.002|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: -4659699256284054140
+    second: Object006.002|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: -6221862697117995270
+    second: Object006.002|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: 732396985572243195
+    second: Object006.002|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: -8827649576142544608
+    second: Object006.002|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: 8038644216718801019
+    second: Object006.002|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: -408057394423786712
+    second: Object006.002|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: 8486129594286464758
+    second: Object006.002|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: 976689103845526405
+    second: Object006.002|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: -8511516386150720155
+    second: Object006.002|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: -1044122813960063746
+    second: Object006.002|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: -144773898032225228
+    second: Object006.002|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: 3744925520001610048
+    second: Object006.002|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: 4684722892773287585
+    second: Object006.002|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: 6303086328885702330
+    second: Object006.002|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: 3359374361948476695
+    second: Object006.002|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: 468682284013827424
+    second: Object006.002|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: -2477602754883358403
+    second: Object006.002|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: 7370805532163604410
+    second: Object006.002|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: -4870885929456315112
+    second: Object006.002|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: 3135618057768669041
+    second: Object006.002|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: 3781871149064875669
+    second: Object006.002|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: -8177136144120661190
+    second: Object006.002|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: 8904075620416382371
+    second: Object006.002|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: -166134688233429327
+    second: Object006.002|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: -6485487269142836643
+    second: Object006.002|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: -3591931022792626003
+    second: Object006.002|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: -1843092400995105277
+    second: Object006.002|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: 2852188035757983971
+    second: Object006.002|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: 7101882361166931391
+    second: Object006.002|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: 1289749807198377181
+    second: Object006.002|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: -188589359238980264
+    second: Object006.002|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: -5463490680896075061
+    second: Object006.002|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: -3442304639848771676
+    second: Object006.002|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: -5546440466151216794
+    second: Object006.002|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: 5789699913409056425
+    second: Object006.002|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: -2535227777568144241
+    second: Object006.002|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: -5574779280730675430
+    second: Object006.002|plechi004|Take 001|BaseLayer
+  - first:
+      74: 5580638978568587661
+    second: Object006.002|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: -7406805977290019314
+    second: Object006.002|plechi005|Take 001|BaseLayer
+  - first:
+      74: -3630050342399187336
+    second: Object006.002|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: -1718514567198306899
+    second: Object006.002|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: -2696762465775842759
+    second: Object006.002|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 6761585036839564229
+    second: Object006.002|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: 6553144747902259692
+    second: Object006.002|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: -9012600677581263524
+    second: Object006.002|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: -870250016882331075
+    second: Object006.002|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: 2919374088110870711
+    second: Object006.002|Power Feed Right_011|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
