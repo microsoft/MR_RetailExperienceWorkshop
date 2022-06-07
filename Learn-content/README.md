@@ -1,2 +1,0 @@
-# workshops
-Spatial Computing Workshops
