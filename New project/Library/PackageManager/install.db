@@ -56,6 +56,22 @@
         "size": 3713403,
         "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.standardassets-3.0.0-pre.2 (1).tgz"
       }
+    },
+    "com.microsoft.mrtk.uxcore": {
+      "tarball": {
+        "hash": "d20d243a6bc8",
+        "mtime": 1652789375434,
+        "size": 50333,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.uxcore-3.0.0-pre.2 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.windowsspeech": {
+      "tarball": {
+        "hash": "b89647f52e28",
+        "mtime": 1652789375435,
+        "size": 4464,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.windowsspeech-3.0.0-pre.2 (1).tgz"
+      }
     }
   }
 }
