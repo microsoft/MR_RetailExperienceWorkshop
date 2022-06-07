@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902076196460006
-    m_Hash: 880232885
+      ticks: 637902078835225336
+    m_Hash: 3212848780
   m_LockFileStatus:
     m_FilePath: C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New
       project/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902076196520022
-    m_Hash: 1526470447
+      ticks: 637902078835405378
+    m_Hash: 3420529789
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -383,6 +383,62 @@ m_PackageAssets:
         url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
         revision: 
         path: 
+    - packageId: com.microsoft.mrtk.extendedassets@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.extendedassets-3.0.0-pre.2
+        (5).tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.0-pre.2
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mrtk.extendedassets@df6b9bc9d255
+      assetPath: Packages/com.microsoft.mrtk.extendedassets
+      name: com.microsoft.mrtk.extendedassets
+      displayName: MRTK Extended Assets
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: This package offers additional assets helpful for example scenes
+        or rapid prototyping. These assets are in addition to the more commonly-used
+        assets located in StandardAssets.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.microsoft.mrtk.standardassets
+        version: 3.0.0-pre.2
+      resolvedDependencies:
+      - name: com.microsoft.mrtk.standardassets
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.graphicstools.unity
+        version: 0.3.0
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
+        revision: 
+        path: 
     - packageId: com.microsoft.mrtk.graphicstools.unity@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.graphicstools.unity-0.3.0
         (1).tgz
@@ -559,6 +615,105 @@ m_PackageAssets:
         url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
         revision: 
         path: 
+    - packageId: com.microsoft.mrtk.spatialmanipulation@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.2
+        (2).tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.0-pre.2
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mrtk.spatialmanipulation@23cd59d98ea8
+      assetPath: Packages/com.microsoft.mrtk.spatialmanipulation
+      name: com.microsoft.mrtk.spatialmanipulation
+      displayName: MRTK Spatial Manipulation
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Spatial manipulation features, including ObjectManipulator, BoundsControl,
+        and the Solvers/Constraints systems.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.uxcore
+        version: 3.0.0-pre.2
+      - name: com.unity.inputsystem
+        version: 1.3.0
+      - name: com.unity.xr.interaction.toolkit
+        version: 2.0.0
+      resolvedDependencies:
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.3
+      - name: com.unity.xr.interaction.toolkit
+        version: 2.0.0
+      - name: com.unity.inputsystem
+        version: 1.3.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.xr.core-utils
+        version: 2.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.xr.management
+        version: 4.2.1
+      - name: com.unity.subsystemregistration
+        version: 1.1.0
+      - name: com.microsoft.mrtk.uxcore
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.graphicstools.unity
+        version: 0.3.0
+      - name: com.unity.textmeshpro
+        version: 3.0.6
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
+        revision: 
+        path: 
     - packageId: com.microsoft.mrtk.standardassets@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.standardassets-3.0.0-pre.2
         (1).tgz
@@ -591,6 +746,108 @@ m_PackageAssets:
       resolvedDependencies:
       - name: com.microsoft.mrtk.graphicstools.unity
         version: 0.3.0
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
+        revision: 
+        path: 
+    - packageId: com.microsoft.mrtk.uxcomponents@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.uxcomponents-3.0.0-pre.2
+        (2).tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.0-pre.2
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mrtk.uxcomponents@c604a8fe2888
+      assetPath: Packages/com.microsoft.mrtk.uxcomponents
+      name: com.microsoft.mrtk.uxcomponents
+      displayName: MRTK UX Components
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: MRTK UX component library, containing prefabs, visuals, pre-made
+        controls, and everything to get started building 3D user interfaces for mixed
+        reality.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.microsoft.mrtk.uxcore
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.spatialmanipulation
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.standardassets
+        version: 3.0.0-pre.2
+      resolvedDependencies:
+      - name: com.microsoft.mrtk.uxcore
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.3
+      - name: com.unity.xr.interaction.toolkit
+        version: 2.0.0
+      - name: com.unity.inputsystem
+        version: 1.3.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.xr.core-utils
+        version: 2.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.xr.management
+        version: 4.2.1
+      - name: com.unity.subsystemregistration
+        version: 1.1.0
+      - name: com.microsoft.mrtk.graphicstools.unity
+        version: 0.3.0
+      - name: com.unity.textmeshpro
+        version: 3.0.6
+      - name: com.microsoft.mrtk.spatialmanipulation
+        version: 3.0.0-pre.2
+      - name: com.microsoft.mrtk.standardassets
+        version: 3.0.0-pre.2
       keywords: []
       registry:
         id: main
@@ -5581,6 +5838,24 @@ m_PackageAssets:
         ticks: 637883861752215720
       m_Hash: 502734535
     - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.extendedassets-3.0.0-pre.2
+        (5).tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.extendedassets-3.0.0-pre.2
+        (5).tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637883861753856089
+      m_Hash: 285878962
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.graphicstools.unity-0.3.0
         (1).tgz/package.json
       m_PathExists: 0
@@ -5617,6 +5892,24 @@ m_PackageAssets:
         ticks: 637883861754156159
       m_Hash: 4089184339
     - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.2
+        (2).tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.2
+        (2).tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637883861754166160
+      m_Hash: 1021605937
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.standardassets-3.0.0-pre.2
         (1).tgz/package.json
       m_PathExists: 0
@@ -5634,6 +5927,24 @@ m_PackageAssets:
         serializedVersion: 2
         ticks: 637883861754306196
       m_Hash: 2894684611
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.uxcomponents-3.0.0-pre.2
+        (2).tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.uxcomponents-3.0.0-pre.2
+        (2).tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637883861754326197
+      m_Hash: 2912677631
     - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.uxcore-3.0.0-pre.2
         (1).tgz/package.json
