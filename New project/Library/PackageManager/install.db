@@ -8,6 +8,14 @@
         "size": 99954,
         "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.core-3.0.0-pre.3 (1).tgz"
       }
+    },
+    "com.microsoft.mrtk.data": {
+      "tarball": {
+        "hash": "24cf63c93f9c",
+        "mtime": 1652789375025,
+        "size": 86913,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.data-1.0.0-pre.2 (1).tgz"
+      }
     }
   }
 }

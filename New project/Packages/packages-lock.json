@@ -9,6 +9,16 @@
         "com.unity.xr.management": "4.2.1"
       }
     },
+    "com.microsoft.mrtk.data": {
+      "version": "file:../Assets/MR_RetailShowroom/MRTKv3 Artifacts/com.microsoft.mrtk.data-1.0.0-pre.2 (1).tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.microsoft.mrtk.core": "1.0.0-pre.2",
+        "com.unity.nuget.newtonsoft-json": "2.0.2",
+        "com.unity.textmeshpro": "3.0.6"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.15",
       "depth": 0,
@@ -61,6 +71,13 @@
     },
     "com.unity.mathematics": {
       "version": "1.1.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "2.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
