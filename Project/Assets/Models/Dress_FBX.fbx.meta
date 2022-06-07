@@ -1,0 +1,1494 @@
+fileFormatVersion: 2
+guid: db81cd967f2ff374f80ba9d72eb42ce1
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7847951959986284423
+    second: hoodie|Box001|Take 001|BaseLayer
+  - first:
+      74: 1077423056751044680
+    second: hoodie|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -7420936486666695709
+    second: hoodie|Box002|Take 001|BaseLayer
+  - first:
+      74: -5504903394178003795
+    second: hoodie|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -645384465962021039
+    second: hoodie|Electric cable_I_001|Take 001|BaseLayer
+  - first:
+      74: 8574369504602540725
+    second: hoodie|Group460|Take 001|BaseLayer
+  - first:
+      74: 312560589335636749
+    second: hoodie|hoodie na krychke|Take 001|BaseLayer
+  - first:
+      74: -3258404095194788728
+    second: hoodie|hoodie na krychke|Take 001|BaseLayer.001
+  - first:
+      74: 5358601820328438412
+    second: hoodie|hoodie.001|Take 001|BaseLayer
+  - first:
+      74: -5787976560629824055
+    second: hoodie|hoodie001|Take 001|BaseLayer
+  - first:
+      74: 1869522619720536968
+    second: hoodie|hoodie001|Take 001|BaseLayer.001
+  - first:
+      74: 7325984891466046151
+    second: hoodie|hoodie002|Take 001|BaseLayer
+  - first:
+      74: 7425416979224161251
+    second: hoodie|hoodie002|Take 001|BaseLayer.001
+  - first:
+      74: -1290864991662445130
+    second: hoodie|hoodie003|Take 001|BaseLayer
+  - first:
+      74: 3967785797017668205
+    second: hoodie|hoodie003|Take 001|BaseLayer.001
+  - first:
+      74: 2470706922148625018
+    second: hoodie|hoodie|Take 001|BaseLayer
+  - first:
+      74: -7715756232392234193
+    second: hoodie|joggers na vesh.001|Take 001|BaseLayer
+  - first:
+      74: -3914891259691100045
+    second: hoodie|joggers na vesh|Take 001|BaseLayer
+  - first:
+      74: -4256060700573771111
+    second: hoodie|joggers|Take 001|BaseLayer
+  - first:
+      74: 5795936392898739343
+    second: hoodie|joggers|Take 001|BaseLayer.001
+  - first:
+      74: 6981027172976745640
+    second: hoodie|kitchen accessories02000|Take 001|BaseLayer
+  - first:
+      74: -2010134772266496095
+    second: hoodie|kitchen accessories02000|Take 001|BaseLayer.001
+  - first:
+      74: -4806117014225688060
+    second: hoodie|kitchen accessories02000|Take 001|BaseLayer.002
+  - first:
+      74: -5069001625865939994
+    second: hoodie|kitchen accessories02001|Take 001|BaseLayer
+  - first:
+      74: 2331832532657020632
+    second: hoodie|kitchen accessories02001|Take 001|BaseLayer.001
+  - first:
+      74: -6759721528346684936
+    second: hoodie|kitchen accessories02001|Take 001|BaseLayer.002
+  - first:
+      74: 7621488203107961839
+    second: hoodie|kitchen accessories02002|Take 001|BaseLayer
+  - first:
+      74: -4707364623258442094
+    second: hoodie|kitchen accessories02002|Take 001|BaseLayer.001
+  - first:
+      74: -9106844544073937794
+    second: hoodie|kitchen accessories02002|Take 001|BaseLayer.002
+  - first:
+      74: 5101364316791371233
+    second: hoodie|kitchen accessories02003|Take 001|BaseLayer
+  - first:
+      74: -2157323715215732373
+    second: hoodie|kitchen accessories02003|Take 001|BaseLayer.001
+  - first:
+      74: -902435676342465834
+    second: hoodie|kitchen accessories02003|Take 001|BaseLayer.002
+  - first:
+      74: 3239286508039012964
+    second: hoodie|kitchen accessories02004|Take 001|BaseLayer
+  - first:
+      74: -182888652690885256
+    second: hoodie|kitchen accessories02004|Take 001|BaseLayer.001
+  - first:
+      74: -7629508642068732487
+    second: hoodie|kitchen accessories02004|Take 001|BaseLayer.002
+  - first:
+      74: -4191859538191033669
+    second: hoodie|kitchen accessories02005|Take 001|BaseLayer
+  - first:
+      74: -5614873156795205063
+    second: hoodie|kitchen accessories02005|Take 001|BaseLayer.001
+  - first:
+      74: -72925371583828491
+    second: hoodie|kitchen accessories02005|Take 001|BaseLayer.002
+  - first:
+      74: -1373767619659375840
+    second: hoodie|kitchen accessories02006|Take 001|BaseLayer
+  - first:
+      74: -7363680154547463494
+    second: hoodie|kitchen accessories02006|Take 001|BaseLayer.001
+  - first:
+      74: -8820701823643923866
+    second: hoodie|kitchen accessories02006|Take 001|BaseLayer.002
+  - first:
+      74: 3843315100077633142
+    second: hoodie|kitchen accessories02007|Take 001|BaseLayer
+  - first:
+      74: -2243241929066869396
+    second: hoodie|kitchen accessories02007|Take 001|BaseLayer.001
+  - first:
+      74: 173584683077746666
+    second: hoodie|kitchen accessories02007|Take 001|BaseLayer.002
+  - first:
+      74: -2843959497140998826
+    second: hoodie|kitchen accessories02008|Take 001|BaseLayer
+  - first:
+      74: -7610914618282142546
+    second: hoodie|kitchen accessories02008|Take 001|BaseLayer.001
+  - first:
+      74: 3199122250166405350
+    second: hoodie|kitchen accessories02008|Take 001|BaseLayer.002
+  - first:
+      74: -1628409449843302571
+    second: hoodie|kitchen accessories02009|Take 001|BaseLayer
+  - first:
+      74: -2655935129033104597
+    second: hoodie|kitchen accessories02009|Take 001|BaseLayer.001
+  - first:
+      74: -3968242886831199980
+    second: hoodie|kitchen accessories02009|Take 001|BaseLayer.002
+  - first:
+      74: 3168006826141945947
+    second: hoodie|kitchen accessories02010|Take 001|BaseLayer
+  - first:
+      74: 4658979876583881999
+    second: hoodie|kitchen accessories02010|Take 001|BaseLayer.001
+  - first:
+      74: -3123123061680378607
+    second: hoodie|kitchen accessories02010|Take 001|BaseLayer.002
+  - first:
+      74: -3229403076550578206
+    second: hoodie|kitchen accessories02011|Take 001|BaseLayer
+  - first:
+      74: 8701774826922646266
+    second: hoodie|kitchen accessories02011|Take 001|BaseLayer.001
+  - first:
+      74: -7771197157607113292
+    second: hoodie|kitchen accessories02011|Take 001|BaseLayer.002
+  - first:
+      74: 1952209189046634223
+    second: hoodie|kitchen accessories02012|Take 001|BaseLayer
+  - first:
+      74: -3150107132988787732
+    second: hoodie|kitchen accessories02012|Take 001|BaseLayer.001
+  - first:
+      74: 741595363976209965
+    second: hoodie|kitchen accessories02012|Take 001|BaseLayer.002
+  - first:
+      74: 1059252567443062336
+    second: hoodie|kitchen accessories02013|Take 001|BaseLayer
+  - first:
+      74: -5208000312912089711
+    second: hoodie|kitchen accessories02013|Take 001|BaseLayer.001
+  - first:
+      74: -9206536445500870483
+    second: hoodie|kitchen accessories02013|Take 001|BaseLayer.002
+  - first:
+      74: 3996439201912303904
+    second: hoodie|kitchen accessories02014|Take 001|BaseLayer
+  - first:
+      74: 6851100390366946151
+    second: hoodie|kitchen accessories02014|Take 001|BaseLayer.001
+  - first:
+      74: -6298553802773546547
+    second: hoodie|kitchen accessories02014|Take 001|BaseLayer.002
+  - first:
+      74: -5857280609472326486
+    second: hoodie|kitchen accessories02015|Take 001|BaseLayer
+  - first:
+      74: 7405397655226740157
+    second: hoodie|kitchen accessories02015|Take 001|BaseLayer.001
+  - first:
+      74: 7495070890674881464
+    second: hoodie|kitchen accessories02015|Take 001|BaseLayer.002
+  - first:
+      74: -791614034868968605
+    second: hoodie|kitchen accessories02016|Take 001|BaseLayer
+  - first:
+      74: -4134030162413102811
+    second: hoodie|kitchen accessories02016|Take 001|BaseLayer.001
+  - first:
+      74: 4671055557398096214
+    second: hoodie|kitchen accessories02016|Take 001|BaseLayer.002
+  - first:
+      74: -8771231329846421327
+    second: hoodie|kitchen accessories02017|Take 001|BaseLayer
+  - first:
+      74: -7286071436001278988
+    second: hoodie|kitchen accessories02017|Take 001|BaseLayer.001
+  - first:
+      74: 8054475420371539488
+    second: hoodie|kitchen accessories02017|Take 001|BaseLayer.002
+  - first:
+      74: 2345440859674490977
+    second: hoodie|kitchen accessories02018|Take 001|BaseLayer
+  - first:
+      74: 7761946295970247877
+    second: hoodie|kitchen accessories02018|Take 001|BaseLayer.001
+  - first:
+      74: -7612250168436019983
+    second: hoodie|kitchen accessories02018|Take 001|BaseLayer.002
+  - first:
+      74: -3737459125989722220
+    second: hoodie|kitchen accessories02019|Take 001|BaseLayer
+  - first:
+      74: -508414410195483600
+    second: hoodie|kitchen accessories02019|Take 001|BaseLayer.001
+  - first:
+      74: 2525398340088673255
+    second: hoodie|kitchen accessories02019|Take 001|BaseLayer.002
+  - first:
+      74: 3793619561196949640
+    second: hoodie|kitchen accessories02020|Take 001|BaseLayer
+  - first:
+      74: -7310819543781128616
+    second: hoodie|kitchen accessories02020|Take 001|BaseLayer.001
+  - first:
+      74: 3736868976606937728
+    second: hoodie|kitchen accessories02020|Take 001|BaseLayer.002
+  - first:
+      74: 2079153180541211407
+    second: hoodie|kitchen accessories02021|Take 001|BaseLayer
+  - first:
+      74: 3948246305537817714
+    second: hoodie|kitchen accessories02021|Take 001|BaseLayer.001
+  - first:
+      74: -1873209027117636339
+    second: hoodie|kitchen accessories02021|Take 001|BaseLayer.002
+  - first:
+      74: -148738400091494522
+    second: hoodie|kitchen accessories02022|Take 001|BaseLayer
+  - first:
+      74: -8822501611199003022
+    second: hoodie|kitchen accessories02022|Take 001|BaseLayer.001
+  - first:
+      74: -1607350363251706637
+    second: hoodie|kitchen accessories02022|Take 001|BaseLayer.002
+  - first:
+      74: 4517547761836953703
+    second: hoodie|kitchen accessories02023|Take 001|BaseLayer
+  - first:
+      74: -2054340843454782014
+    second: hoodie|kitchen accessories02023|Take 001|BaseLayer.001
+  - first:
+      74: 6247678516271263297
+    second: hoodie|kitchen accessories02023|Take 001|BaseLayer.002
+  - first:
+      74: 1323916672086500392
+    second: hoodie|kitchen accessories02024|Take 001|BaseLayer
+  - first:
+      74: -6398804353877838258
+    second: hoodie|kitchen accessories02024|Take 001|BaseLayer.001
+  - first:
+      74: -8447116804122187901
+    second: hoodie|kitchen accessories02024|Take 001|BaseLayer.002
+  - first:
+      74: 5165869638216145176
+    second: hoodie|kitchen accessories02025|Take 001|BaseLayer
+  - first:
+      74: 7924834878665566556
+    second: hoodie|kitchen accessories02025|Take 001|BaseLayer.001
+  - first:
+      74: -6735359436778667347
+    second: hoodie|kitchen accessories02025|Take 001|BaseLayer.002
+  - first:
+      74: 8930220058006875080
+    second: hoodie|kitchen accessories02026|Take 001|BaseLayer
+  - first:
+      74: 8253552672050765007
+    second: hoodie|kitchen accessories02026|Take 001|BaseLayer.001
+  - first:
+      74: -5350309882042501558
+    second: hoodie|kitchen accessories02026|Take 001|BaseLayer.002
+  - first:
+      74: -597144339251420970
+    second: hoodie|kitchen accessories02027|Take 001|BaseLayer
+  - first:
+      74: -8749010388851899596
+    second: hoodie|kitchen accessories02027|Take 001|BaseLayer.001
+  - first:
+      74: -6814427766367491259
+    second: hoodie|kitchen accessories02027|Take 001|BaseLayer.002
+  - first:
+      74: 5915840766330895220
+    second: hoodie|kitchen accessories02028|Take 001|BaseLayer
+  - first:
+      74: 7403709347068708815
+    second: hoodie|kitchen accessories02028|Take 001|BaseLayer.001
+  - first:
+      74: 6833792114538484399
+    second: hoodie|kitchen accessories02028|Take 001|BaseLayer.002
+  - first:
+      74: 5663901589706007374
+    second: hoodie|kitchen accessories02029|Take 001|BaseLayer
+  - first:
+      74: 333854229057129765
+    second: hoodie|kitchen accessories02029|Take 001|BaseLayer.001
+  - first:
+      74: 1874822893666267809
+    second: hoodie|kitchen accessories02029|Take 001|BaseLayer.002
+  - first:
+      74: 3745212819378869105
+    second: hoodie|kitchen accessories02030|Take 001|BaseLayer
+  - first:
+      74: 7501687943764017082
+    second: hoodie|kitchen accessories02030|Take 001|BaseLayer.001
+  - first:
+      74: -3891770496810942532
+    second: hoodie|kitchen accessories02030|Take 001|BaseLayer.002
+  - first:
+      74: -2550274425878970090
+    second: hoodie|kitchen accessories02031|Take 001|BaseLayer
+  - first:
+      74: -672744504479477447
+    second: hoodie|kitchen accessories02031|Take 001|BaseLayer.001
+  - first:
+      74: 2860647257072457047
+    second: hoodie|kitchen accessories02031|Take 001|BaseLayer.002
+  - first:
+      74: -1498587373355792252
+    second: hoodie|kitchen accessories02032|Take 001|BaseLayer
+  - first:
+      74: 6505754551117563654
+    second: hoodie|kitchen accessories02032|Take 001|BaseLayer.001
+  - first:
+      74: 4076157488608138716
+    second: hoodie|kitchen accessories02032|Take 001|BaseLayer.002
+  - first:
+      74: -6617807769244954116
+    second: hoodie|kitchen accessories02033|Take 001|BaseLayer
+  - first:
+      74: -7818613930049517490
+    second: hoodie|kitchen accessories02033|Take 001|BaseLayer.001
+  - first:
+      74: 3246378757681514158
+    second: hoodie|kitchen accessories02033|Take 001|BaseLayer.002
+  - first:
+      74: 391190471553789950
+    second: hoodie|kitchen accessories02034|Take 001|BaseLayer
+  - first:
+      74: -1302427855625573974
+    second: hoodie|kitchen accessories02034|Take 001|BaseLayer.001
+  - first:
+      74: 7195221003398511691
+    second: hoodie|kitchen accessories02034|Take 001|BaseLayer.002
+  - first:
+      74: 6104394646837649978
+    second: hoodie|kitchen accessories02035|Take 001|BaseLayer
+  - first:
+      74: -6396960819234793552
+    second: hoodie|kitchen accessories02035|Take 001|BaseLayer.001
+  - first:
+      74: 1904432184346610291
+    second: hoodie|kitchen accessories02035|Take 001|BaseLayer.002
+  - first:
+      74: -4948601121884130049
+    second: hoodie|kitchen accessories02036|Take 001|BaseLayer
+  - first:
+      74: -2152688484941425285
+    second: hoodie|kitchen accessories02036|Take 001|BaseLayer.001
+  - first:
+      74: 3332624124431668154
+    second: hoodie|kitchen accessories02036|Take 001|BaseLayer.002
+  - first:
+      74: 9124048100669795809
+    second: hoodie|kitchen accessories02037|Take 001|BaseLayer
+  - first:
+      74: 4889009322214139296
+    second: hoodie|kitchen accessories02037|Take 001|BaseLayer.001
+  - first:
+      74: -2503462791157049615
+    second: hoodie|kitchen accessories02037|Take 001|BaseLayer.002
+  - first:
+      74: -7778123381882580823
+    second: hoodie|kitchen accessories02038|Take 001|BaseLayer
+  - first:
+      74: 9182018294303848749
+    second: hoodie|kitchen accessories02038|Take 001|BaseLayer.001
+  - first:
+      74: -1784354547521600507
+    second: hoodie|kitchen accessories02038|Take 001|BaseLayer.002
+  - first:
+      74: 7489536071514858052
+    second: hoodie|kitchen accessories02039|Take 001|BaseLayer
+  - first:
+      74: 1067254222942848648
+    second: hoodie|kitchen accessories02039|Take 001|BaseLayer.001
+  - first:
+      74: 1035588677580687251
+    second: hoodie|kitchen accessories02039|Take 001|BaseLayer.002
+  - first:
+      74: 2507692617124649314
+    second: hoodie|kitchen accessories02040|Take 001|BaseLayer
+  - first:
+      74: -6537442428592994917
+    second: hoodie|kitchen accessories02040|Take 001|BaseLayer.001
+  - first:
+      74: -4026218612702389141
+    second: hoodie|kitchen accessories02040|Take 001|BaseLayer.002
+  - first:
+      74: 3231479044999337261
+    second: hoodie|kitchen accessories02041|Take 001|BaseLayer
+  - first:
+      74: -8857063145214574752
+    second: hoodie|kitchen accessories02041|Take 001|BaseLayer.001
+  - first:
+      74: 5149713148507249692
+    second: hoodie|kitchen accessories02041|Take 001|BaseLayer.002
+  - first:
+      74: -6652603878955785407
+    second: hoodie|kitchen accessories02042|Take 001|BaseLayer
+  - first:
+      74: 2476517104776304609
+    second: hoodie|kitchen accessories02042|Take 001|BaseLayer.001
+  - first:
+      74: 603050103994189848
+    second: hoodie|kitchen accessories02042|Take 001|BaseLayer.002
+  - first:
+      74: 3489420996561126648
+    second: hoodie|kitchen accessories02043|Take 001|BaseLayer
+  - first:
+      74: 7558169131345604876
+    second: hoodie|kitchen accessories02043|Take 001|BaseLayer.001
+  - first:
+      74: 4041831876085772097
+    second: hoodie|kitchen accessories02043|Take 001|BaseLayer.002
+  - first:
+      74: -3409743381071074164
+    second: hoodie|kitchen accessories02044|Take 001|BaseLayer
+  - first:
+      74: 6294166571526481859
+    second: hoodie|kitchen accessories02044|Take 001|BaseLayer.001
+  - first:
+      74: 6844464911380025986
+    second: hoodie|kitchen accessories02044|Take 001|BaseLayer.002
+  - first:
+      74: 6784717608564214451
+    second: hoodie|kitchen accessories02045|Take 001|BaseLayer
+  - first:
+      74: -4296711995152241319
+    second: hoodie|kitchen accessories02045|Take 001|BaseLayer.001
+  - first:
+      74: -111022543776860143
+    second: hoodie|kitchen accessories02045|Take 001|BaseLayer.002
+  - first:
+      74: -3957245183595057465
+    second: hoodie|kitchen accessories02046|Take 001|BaseLayer
+  - first:
+      74: -2122939387192178775
+    second: hoodie|kitchen accessories02046|Take 001|BaseLayer.001
+  - first:
+      74: -2273404424311687409
+    second: hoodie|kitchen accessories02046|Take 001|BaseLayer.002
+  - first:
+      74: 1249072071769642697
+    second: hoodie|kitchen accessories02047|Take 001|BaseLayer
+  - first:
+      74: -7047771167304222485
+    second: hoodie|kitchen accessories02047|Take 001|BaseLayer.001
+  - first:
+      74: -411897239494471302
+    second: hoodie|kitchen accessories02047|Take 001|BaseLayer.002
+  - first:
+      74: -5298526110685890628
+    second: hoodie|kitchen accessories02048|Take 001|BaseLayer
+  - first:
+      74: 2277838439843986210
+    second: hoodie|kitchen accessories02048|Take 001|BaseLayer.001
+  - first:
+      74: 950411637713409880
+    second: hoodie|kitchen accessories02048|Take 001|BaseLayer.002
+  - first:
+      74: 6739665890676813710
+    second: hoodie|kitchen accessories02049|Take 001|BaseLayer
+  - first:
+      74: 4846633716781560603
+    second: hoodie|kitchen accessories02049|Take 001|BaseLayer.001
+  - first:
+      74: 2090516414064818047
+    second: hoodie|kitchen accessories02049|Take 001|BaseLayer.002
+  - first:
+      74: 3218749819686202257
+    second: hoodie|kitchen accessories02050|Take 001|BaseLayer
+  - first:
+      74: 5831635201621664679
+    second: hoodie|kitchen accessories02050|Take 001|BaseLayer.001
+  - first:
+      74: 7730661657817646437
+    second: hoodie|kitchen accessories02050|Take 001|BaseLayer.002
+  - first:
+      74: -3388161122638254660
+    second: hoodie|kitchen accessories02051|Take 001|BaseLayer
+  - first:
+      74: 3543594987736871982
+    second: hoodie|kitchen accessories02051|Take 001|BaseLayer.001
+  - first:
+      74: -3746787117997156847
+    second: hoodie|kitchen accessories02051|Take 001|BaseLayer.002
+  - first:
+      74: 1244858265139914006
+    second: hoodie|kitchen accessories02052|Take 001|BaseLayer
+  - first:
+      74: -7026723433395690051
+    second: hoodie|kitchen accessories02052|Take 001|BaseLayer.001
+  - first:
+      74: 8202373658874095646
+    second: hoodie|kitchen accessories02052|Take 001|BaseLayer.002
+  - first:
+      74: 6276669944990864955
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_002|Take 001|BaseLayer
+  - first:
+      74: -5417544845380998683
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_005|Take 001|BaseLayer
+  - first:
+      74: 8488499062004286304
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_006|Take 001|BaseLayer
+  - first:
+      74: 2859149918431503166
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_007|Take 001|BaseLayer
+  - first:
+      74: 9012019528897437033
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_008|Take 001|BaseLayer
+  - first:
+      74: -109328314022585611
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_009|Take 001|BaseLayer
+  - first:
+      74: -5804186716361137328
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_010|Take 001|BaseLayer
+  - first:
+      74: 5745308686084553968
+    second: hoodie|LED GEAR FOR SURFACE INSTALLATION_011|Take 001|BaseLayer
+  - first:
+      74: -1431833644336446479
+    second: hoodie|Obj_Avatar_Shape.001|Take 001|BaseLayer
+  - first:
+      74: -987183762493835174
+    second: hoodie|Obj_Avatar_Shape|Take 001|BaseLayer
+  - first:
+      74: 4372229597057728319
+    second: hoodie|Object001|Take 001|BaseLayer
+  - first:
+      74: 2286617748253078421
+    second: hoodie|Object001|Take 001|BaseLayer.001
+  - first:
+      74: -1677565875840749440
+    second: hoodie|Object006.002|Take 001|BaseLayer
+  - first:
+      74: -8427004361035530987
+    second: hoodie|Object006|Take 001|BaseLayer
+  - first:
+      74: 2890050891718339236
+    second: hoodie|Object007|Take 001|BaseLayer
+  - first:
+      74: 3255460701437739358
+    second: hoodie|Object007|Take 001|BaseLayer.001
+  - first:
+      74: -8066372775864311570
+    second: hoodie|Pattern2D_185218|Take 001|BaseLayer
+  - first:
+      74: -3509051277294582310
+    second: hoodie|Pattern2D_185218|Take 001|BaseLayer.001
+  - first:
+      74: 1811077121800345355
+    second: hoodie|PISTA LINEAR LED_001.001|Take 001|BaseLayer
+  - first:
+      74: -8081127811911461425
+    second: hoodie|PISTA LINEAR LED_001|Take 001|BaseLayer
+  - first:
+      74: 5085898534430779356
+    second: hoodie|PISTA LINEAR LED_003|Take 001|BaseLayer
+  - first:
+      74: 2422930587692023428
+    second: hoodie|PISTA LINEAR LED_004|Take 001|BaseLayer
+  - first:
+      74: -3076816009893973669
+    second: hoodie|PISTA LINEAR LED_005.001|Take 001|BaseLayer
+  - first:
+      74: -7400367870500162619
+    second: hoodie|PISTA LINEAR LED_005.002|Take 001|BaseLayer
+  - first:
+      74: 984325792692825343
+    second: hoodie|PISTA LINEAR LED_005|Take 001|BaseLayer
+  - first:
+      74: 4544058634016547298
+    second: hoodie|PISTA LINEAR LED_006.001|Take 001|BaseLayer
+  - first:
+      74: 6470848012601492072
+    second: hoodie|PISTA LINEAR LED_006.002|Take 001|BaseLayer
+  - first:
+      74: 2062067625301038713
+    second: hoodie|PISTA LINEAR LED_006|Take 001|BaseLayer
+  - first:
+      74: 1062999650772891508
+    second: hoodie|PISTA LINEAR LED_007.001|Take 001|BaseLayer
+  - first:
+      74: 7860573264369188030
+    second: hoodie|PISTA LINEAR LED_007.002|Take 001|BaseLayer
+  - first:
+      74: 9121031046379829973
+    second: hoodie|PISTA LINEAR LED_007|Take 001|BaseLayer
+  - first:
+      74: -3883378327842184855
+    second: hoodie|PISTA LINEAR LED_008.001|Take 001|BaseLayer
+  - first:
+      74: 7888647093570797097
+    second: hoodie|PISTA LINEAR LED_008.002|Take 001|BaseLayer
+  - first:
+      74: 5617838629248213082
+    second: hoodie|PISTA LINEAR LED_008|Take 001|BaseLayer
+  - first:
+      74: 6116041692816332863
+    second: hoodie|PISTA LINEAR LED_009.001|Take 001|BaseLayer
+  - first:
+      74: 7024718003305412991
+    second: hoodie|PISTA LINEAR LED_009.002|Take 001|BaseLayer
+  - first:
+      74: -3428557414673094508
+    second: hoodie|PISTA LINEAR LED_009|Take 001|BaseLayer
+  - first:
+      74: 6949757954799999124
+    second: hoodie|PISTA LINEAR LED_010.001|Take 001|BaseLayer
+  - first:
+      74: 1640245054052253135
+    second: hoodie|PISTA LINEAR LED_010.002|Take 001|BaseLayer
+  - first:
+      74: 86533611034423612
+    second: hoodie|PISTA LINEAR LED_010|Take 001|BaseLayer
+  - first:
+      74: 7814203997419043589
+    second: hoodie|PISTA LINEAR LED_011.001|Take 001|BaseLayer
+  - first:
+      74: -1202419322146538823
+    second: hoodie|PISTA LINEAR LED_011.002|Take 001|BaseLayer
+  - first:
+      74: 3492298098567238132
+    second: hoodie|PISTA LINEAR LED_011|Take 001|BaseLayer
+  - first:
+      74: 5578232488994750791
+    second: hoodie|PISTA LINEAR LED_Light001|Take 001|BaseLayer
+  - first:
+      74: -6987181678180958753
+    second: hoodie|PISTA LINEAR LED_Light003|Take 001|BaseLayer
+  - first:
+      74: -4208936414415938648
+    second: hoodie|Pista Smart surface tubed_001.001|Take 001|BaseLayer
+  - first:
+      74: 1956639021591363816
+    second: hoodie|Pista Smart surface tubed_001|Take 001|BaseLayer
+  - first:
+      74: 8143981437754456509
+    second: hoodie|Pista Smart surface tubed_003|Take 001|BaseLayer
+  - first:
+      74: -1291149796512173860
+    second: hoodie|Pista Smart surface tubed_004|Take 001|BaseLayer
+  - first:
+      74: 3023700430017569293
+    second: hoodie|Pista Smart surface tubed_005.001|Take 001|BaseLayer
+  - first:
+      74: 7224367933883959754
+    second: hoodie|Pista Smart surface tubed_005a|Take 001|BaseLayer
+  - first:
+      74: -4129500636263943939
+    second: hoodie|Pista Smart surface tubed_005b|Take 001|BaseLayer
+  - first:
+      74: -3083756139768895802
+    second: hoodie|Pista Smart surface tubed_005|Take 001|BaseLayer
+  - first:
+      74: -2419678807544326344
+    second: hoodie|Pista Smart surface tubed_006.001|Take 001|BaseLayer
+  - first:
+      74: -7669200005672449574
+    second: hoodie|Pista Smart surface tubed_006a|Take 001|BaseLayer
+  - first:
+      74: -2558167052149818151
+    second: hoodie|Pista Smart surface tubed_006b|Take 001|BaseLayer
+  - first:
+      74: 7309699651925740411
+    second: hoodie|Pista Smart surface tubed_006|Take 001|BaseLayer
+  - first:
+      74: 4795135394606213411
+    second: hoodie|Pista Smart surface tubed_007.001|Take 001|BaseLayer
+  - first:
+      74: 1978246307726593322
+    second: hoodie|Pista Smart surface tubed_007a|Take 001|BaseLayer
+  - first:
+      74: -7416283499483340928
+    second: hoodie|Pista Smart surface tubed_007b|Take 001|BaseLayer
+  - first:
+      74: 5089126116406606831
+    second: hoodie|Pista Smart surface tubed_007|Take 001|BaseLayer
+  - first:
+      74: 5258035312236078016
+    second: hoodie|Pista Smart surface tubed_009.001|Take 001|BaseLayer
+  - first:
+      74: 8179924323024196402
+    second: hoodie|Pista Smart surface tubed_009a|Take 001|BaseLayer
+  - first:
+      74: -9211143980361748376
+    second: hoodie|Pista Smart surface tubed_009b|Take 001|BaseLayer
+  - first:
+      74: -8181088053556850211
+    second: hoodie|Pista Smart surface tubed_009|Take 001|BaseLayer
+  - first:
+      74: 7404007756030872269
+    second: hoodie|Pista Smart surface tubed_010.001|Take 001|BaseLayer
+  - first:
+      74: 4581082103910119644
+    second: hoodie|Pista Smart surface tubed_010a|Take 001|BaseLayer
+  - first:
+      74: 2506558771207579706
+    second: hoodie|Pista Smart surface tubed_010b|Take 001|BaseLayer
+  - first:
+      74: -4221373978816543677
+    second: hoodie|Pista Smart surface tubed_010|Take 001|BaseLayer
+  - first:
+      74: -8424835342560889201
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed
+  - first:
+      74: -261151284167208305
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.001
+  - first:
+      74: -3569642080824561197
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.002
+  - first:
+      74: -4241181155220390392
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.003
+  - first:
+      74: 2732222048243618575
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.004
+  - first:
+      74: 538881083580727567
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.005
+  - first:
+      74: -7122789743701633680
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.006
+  - first:
+      74: 230497385847282005
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.007
+  - first:
+      74: -365161656947170167
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.008
+  - first:
+      74: -57100679479951948
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.009
+  - first:
+      74: 8830507173943425904
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.010
+  - first:
+      74: -2701755640172871870
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.011
+  - first:
+      74: -646108491727187097
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.012
+  - first:
+      74: 9022810901979575450
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.013
+  - first:
+      74: -552553664992604737
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.014
+  - first:
+      74: 9111023745019760927
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.015
+  - first:
+      74: -5225269808649896085
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.016
+  - first:
+      74: -7636688419553244844
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.017
+  - first:
+      74: 1701425494591966483
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.018
+  - first:
+      74: -6633247810673261387
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.019
+  - first:
+      74: 6483847234999859862
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.020
+  - first:
+      74: 1695691965128414472
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.021
+  - first:
+      74: -6051438193514669172
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.022
+  - first:
+      74: 4052531352455969419
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.023
+  - first:
+      74: 188901239961898320
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.024
+  - first:
+      74: 2248264970032820005
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.025
+  - first:
+      74: -691417709852426688
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.026
+  - first:
+      74: -8483462250063590428
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.027
+  - first:
+      74: 1677989025862425817
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.028
+  - first:
+      74: 2757212970569490689
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.029
+  - first:
+      74: 4241173988897062925
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.030
+  - first:
+      74: 2665536353949151555
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.031
+  - first:
+      74: 7465734977001935143
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.032
+  - first:
+      74: 250427116485936015
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.033
+  - first:
+      74: 6480818055613231468
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.034
+  - first:
+      74: -5830224355383283808
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.035
+  - first:
+      74: 7940144341281502464
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.036
+  - first:
+      74: 731914217025196746
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.037
+  - first:
+      74: 7077225127135076838
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.038
+  - first:
+      74: -5398811171994452770
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.039
+  - first:
+      74: 7345972755329234697
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.040
+  - first:
+      74: -8546470931531095565
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.041
+  - first:
+      74: -8243490154731428026
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.042
+  - first:
+      74: -7765184213005699209
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.043
+  - first:
+      74: -6575186787808172684
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.044
+  - first:
+      74: -4659072119329288570
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.045
+  - first:
+      74: -3207862701445608351
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.046
+  - first:
+      74: 5578364016281860674
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.047
+  - first:
+      74: 7325429797260917680
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.048
+  - first:
+      74: -7746361649554751275
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.049
+  - first:
+      74: -8673737811059788377
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.050
+  - first:
+      74: -1197762505148884908
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.051
+  - first:
+      74: 3806284091472811828
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.052
+  - first:
+      74: 5853809569606216283
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.053
+  - first:
+      74: 8006913806590909504
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.054
+  - first:
+      74: -6385290421498881390
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.055
+  - first:
+      74: 1274432859243484405
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.056
+  - first:
+      74: 2959975692896102755
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.057
+  - first:
+      74: 298067573136175257
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.058
+  - first:
+      74: -2286961074462351339
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.059
+  - first:
+      74: -9201764568648131189
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.060
+  - first:
+      74: 6646790242226889559
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.061
+  - first:
+      74: 3140610949198008516
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.062
+  - first:
+      74: -3403628406563606732
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.063
+  - first:
+      74: -9055734630790065936
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.064
+  - first:
+      74: 1484339654790809464
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.065
+  - first:
+      74: 4974319339489517731
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.066
+  - first:
+      74: -3107659499297964205
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.067
+  - first:
+      74: -1787279802883418728
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.068
+  - first:
+      74: -2432266095535060894
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.069
+  - first:
+      74: 3136455728283795009
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.070
+  - first:
+      74: 3784950629742661773
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.071
+  - first:
+      74: 791153178965896816
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.072
+  - first:
+      74: 7241215656721592503
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.073
+  - first:
+      74: -7081521558958805696
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed.074
+  - first:
+      74: 2981457518784379813
+    second: hoodie|Pista Smart surface tubed_011.001|Pista Smart surface tubed_011
+  - first:
+      74: 1205643577279803178
+    second: hoodie|Pista Smart surface tubed_011.001|Take 001|BaseLayer
+  - first:
+      74: -1058784069374736051
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed
+  - first:
+      74: 6037399519971753145
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.001
+  - first:
+      74: -4573637994976000447
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.002
+  - first:
+      74: 1376478285295412581
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.003
+  - first:
+      74: 1188988921421116000
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.004
+  - first:
+      74: 4445866060360763156
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.005
+  - first:
+      74: 3979365547653664769
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.006
+  - first:
+      74: 1805081873337215183
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.007
+  - first:
+      74: 7716569221733358293
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.008
+  - first:
+      74: 8873921937916186050
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.009
+  - first:
+      74: 5195600026314160953
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.010
+  - first:
+      74: 4552069454324528347
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.011
+  - first:
+      74: 1087568712145276459
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.012
+  - first:
+      74: 7718593124012050482
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.013
+  - first:
+      74: -2438647174300213401
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.014
+  - first:
+      74: -2935715718632960515
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.015
+  - first:
+      74: 1000602926169051475
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.016
+  - first:
+      74: 578999695577796505
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.017
+  - first:
+      74: 6761851045353244208
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.018
+  - first:
+      74: 5087341476497664019
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.019
+  - first:
+      74: 5909852277214055669
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.020
+  - first:
+      74: 5124805940809201967
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.021
+  - first:
+      74: -3273174476242444723
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.022
+  - first:
+      74: -3236065025310205007
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.023
+  - first:
+      74: -1280735820174025698
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.024
+  - first:
+      74: 5515597351608893953
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.025
+  - first:
+      74: 840060395452503719
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.026
+  - first:
+      74: 2589768699686115441
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.027
+  - first:
+      74: -181427099537917085
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.028
+  - first:
+      74: 1438147873230472141
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.029
+  - first:
+      74: 5663629854603660958
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.030
+  - first:
+      74: -9125677518500480793
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.031
+  - first:
+      74: 6060705867033076640
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.032
+  - first:
+      74: 1767452332335243770
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.033
+  - first:
+      74: 3894628092915241969
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.034
+  - first:
+      74: 2909300275123937004
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.035
+  - first:
+      74: -8383447957097258118
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.036
+  - first:
+      74: 301838963508632255
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.037
+  - first:
+      74: -2571796871712439965
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.038
+  - first:
+      74: 2150272905279280480
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.039
+  - first:
+      74: 7980736084032445045
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.040
+  - first:
+      74: -5245897422713329522
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.041
+  - first:
+      74: 1020118449951095334
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.042
+  - first:
+      74: -2288143453090620975
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.043
+  - first:
+      74: -7527128153326164506
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.044
+  - first:
+      74: -1205074774804152059
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.045
+  - first:
+      74: -3902479591083561276
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.046
+  - first:
+      74: -7538967882390380062
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.047
+  - first:
+      74: -4413748123751766176
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.048
+  - first:
+      74: 4073559364706818395
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.049
+  - first:
+      74: 863899230850561398
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.050
+  - first:
+      74: -19819722166054959
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.051
+  - first:
+      74: 819881670313842819
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.052
+  - first:
+      74: 2808138556133537073
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.053
+  - first:
+      74: 4318995068579689480
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.054
+  - first:
+      74: 7707889588150365625
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.055
+  - first:
+      74: -1787151046111239120
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.056
+  - first:
+      74: -4873899101335578847
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.057
+  - first:
+      74: -4013436053513097404
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.058
+  - first:
+      74: 4673539496877676784
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.059
+  - first:
+      74: -3360275718076074290
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.060
+  - first:
+      74: 5115735862075889362
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.061
+  - first:
+      74: -5314282713197222072
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.062
+  - first:
+      74: -2917282343548503253
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.063
+  - first:
+      74: -6505226444856226003
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.064
+  - first:
+      74: -6744393976132660536
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.065
+  - first:
+      74: 3853365637365572804
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.066
+  - first:
+      74: -2428030500519346084
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.067
+  - first:
+      74: -1901532935715062592
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.068
+  - first:
+      74: 3733542287492198211
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.069
+  - first:
+      74: -847992705159598186
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.070
+  - first:
+      74: 3236966765852583611
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.071
+  - first:
+      74: -8420332297350422556
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.072
+  - first:
+      74: 4641132772647223498
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.073
+  - first:
+      74: -4449715026221347769
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed.074
+  - first:
+      74: 5490882709457773460
+    second: hoodie|Pista Smart surface tubed_011.005|Pista Smart surface tubed_011
+  - first:
+      74: 5578674866757086995
+    second: hoodie|Pista Smart surface tubed_011a|Take 001|BaseLayer
+  - first:
+      74: -9119214482533312896
+    second: hoodie|Pista Smart surface tubed_011b|Take 001|BaseLayer
+  - first:
+      74: -179082141707258155
+    second: hoodie|Pista Smart surface tubed_011|Take 001|BaseLayer
+  - first:
+      74: -2608868702920591985
+    second: hoodie|Pista Smart surface tubed_Light001|Take 001|BaseLayer
+  - first:
+      74: 6032750014967935535
+    second: hoodie|Pista Smart surface tubed_Light002|Take 001|BaseLayer
+  - first:
+      74: -5093209679845887974
+    second: hoodie|Pista Smart surface tubed_Light005|Take 001|BaseLayer
+  - first:
+      74: 250776915205136632
+    second: hoodie|Pista Smart surface tubed_Light006|Take 001|BaseLayer
+  - first:
+      74: -4515263871691207843
+    second: hoodie|plechi004|Take 001|BaseLayer
+  - first:
+      74: -7294696438208502856
+    second: hoodie|plechi004|Take 001|BaseLayer.004
+  - first:
+      74: -6854667965743650237
+    second: hoodie|plechi005|Take 001|BaseLayer
+  - first:
+      74: -4672207103912780100
+    second: hoodie|plechi005|Take 001|BaseLayer.001
+  - first:
+      74: 8592685749704378582
+    second: hoodie|Power Feed Right_002|Take 001|BaseLayer
+  - first:
+      74: 8669722887045799888
+    second: hoodie|Power Feed Right_005.001|Take 001|BaseLayer
+  - first:
+      74: 1679771142177511951
+    second: hoodie|Power Feed Right_006.001|Take 001|BaseLayer
+  - first:
+      74: 6062035131712805997
+    second: hoodie|Power Feed Right_007|Take 001|BaseLayer
+  - first:
+      74: 7396249071304962633
+    second: hoodie|Power Feed Right_009|Take 001|BaseLayer
+  - first:
+      74: 7882419267558383859
+    second: hoodie|Power Feed Right_010|Take 001|BaseLayer
+  - first:
+      74: -2579613775823842491
+    second: hoodie|Power Feed Right_011|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium Brushed Clean
+    second: {fileID: 2100000, guid: b33c7b11dbee96949bef44a0d64305f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hanger_metall
+    second: {fileID: 2100000, guid: 8e7e3503fdd43e844aa6d5d2418e2d2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoody_1_fabric
+    second: {fileID: 2100000, guid: 737597fa1096b354aa4aa3a751f2781e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoody_1_lace
+    second: {fileID: 2100000, guid: c2fe2b5c3cc4ddf439b708d49cb7b61e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hoody_2
+    second: {fileID: 2100000, guid: cf60e24cc51e44049878f84e33344a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: c8e2c11e5616c1644af5f864c06db048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nickel Satin Clean
+    second: {fileID: 2100000, guid: 06c41ef85088964448b62cb7fadea03d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants.001
+    second: {fileID: 2100000, guid: 9a124f29944dad34083186243a1e93f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-shirt_black
+    second: {fileID: 2100000, guid: a78957c3516913541bc7576a1fa584a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-shirt_fabric_cloth
+    second: {fileID: 2100000, guid: d51a9dee8398ddd479e865c6c5dead5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-shirt_white_lable
+    second: {fileID: 2100000, guid: f1f98c723d7b4394193d153a35cb8d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Velvet
+    second: {fileID: 2100000, guid: f85cd350ec01e3f4094647c14917ebbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fleece white
+    second: {fileID: 2100000, guid: db6168bd083871549bb53b14f7ed5976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hanger anime metall
+    second: {fileID: 2100000, guid: 0365a94d2b48322498ee9cde0529306b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hanger anime wood
+    second: {fileID: 2100000, guid: 8499cab53fadb47418a997f91da3d758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lable anime
+    second: {fileID: 2100000, guid: f3d61fadf4f419048b2f3e9e14790556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lable anime.001
+    second: {fileID: 2100000, guid: 4903870cfe84e4a4fbb486ca90523e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lable anime.002
+    second: {fileID: 2100000, guid: 20a0d997188329a4d8de781a6333aae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lable anime.003
+    second: {fileID: 2100000, guid: c7217ed76e6a9f24bb24d9a21e1ed8dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rack_metall
+    second: {fileID: 2100000, guid: 0a48d4048fd1c1c40abd2e083446e1c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sneakers_plastic
+    second: {fileID: 2100000, guid: 95e566881240d8444b4f28b7696e30f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t-shirt anime
+    second: {fileID: 2100000, guid: 328bc6c048fcd4b408829bfc57cd6848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t-shirt anime kn green
+    second: {fileID: 2100000, guid: 51f3b003511a8124cb2f12334a2f615d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t-shirt anime.001
+    second: {fileID: 2100000, guid: 834cf77daed8f414f9a7b2e1a2bbf37c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t-shirt anime.002
+    second: {fileID: 2100000, guid: 189dcaa624465a24790e8b0f2e9dc9b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 96e5bb43414954b40863934f8f0c5e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041D\u043E\u043Edy_1_metall"
+    second: {fileID: 2100000, guid: ff9b8d359a4e55b4d9825c8d25169172, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
