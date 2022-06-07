@@ -16,6 +16,22 @@
         "size": 86913,
         "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.data-1.0.0-pre.2 (1).tgz"
       }
+    },
+    "com.microsoft.mrtk.diagnostics": {
+      "tarball": {
+        "hash": "521df34e5805",
+        "mtime": 1652789375025,
+        "size": 19392,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.diagnostics-3.0.0-pre.1 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.environment": {
+      "tarball": {
+        "hash": "af3a46fbee8b",
+        "mtime": 1652789375222,
+        "size": 15951,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.environment-3.0.0-pre.1 (1).tgz"
+      }
     }
   }
 }

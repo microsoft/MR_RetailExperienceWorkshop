@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902069176172123
-    m_Hash: 2002976863
+      ticks: 637902070329002292
+    m_Hash: 2628187689
   m_LockFileStatus:
     m_FilePath: C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New
       project/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902069176282147
-    m_Hash: 629428447
+      ticks: 637902070329090306
+    m_Hash: 1289926100
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -184,6 +184,184 @@ m_PackageAssets:
         version: 2.0.2
       - name: com.unity.textmeshpro
         version: 3.0.6
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
+        revision: 
+        path: 
+    - packageId: com.microsoft.mrtk.diagnostics@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.diagnostics-3.0.0-pre.1
+        (1).tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.0-pre.1
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mrtk.diagnostics@521df34e5805
+      assetPath: Packages/com.microsoft.mrtk.diagnostics
+      name: com.microsoft.mrtk.diagnostics
+      displayName: MRTK Diagnostics
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Subsystems and utilities for common diagnostic and performance
+        monitoring tasks.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.1
+      - name: com.unity.xr.management
+        version: 4.2.1
+      resolvedDependencies:
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.3
+      - name: com.unity.xr.interaction.toolkit
+        version: 2.0.0
+      - name: com.unity.inputsystem
+        version: 1.2.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.xr.core-utils
+        version: 2.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.xr.management
+        version: 4.2.1
+      - name: com.unity.subsystemregistration
+        version: 1.0.6
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
+        revision: 
+        path: 
+    - packageId: com.microsoft.mrtk.environment@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.environment-3.0.0-pre.1
+        (1).tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.0-pre.1
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mrtk.environment@af3a46fbee8b
+      assetPath: Packages/com.microsoft.mrtk.environment
+      name: com.microsoft.mrtk.environment
+      displayName: MRTK Environment
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Extra support for environment features like room boundary and
+        MR-specific spatial awareness APIs.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.1
+      - name: com.unity.xr.management
+        version: 4.2.1
+      resolvedDependencies:
+      - name: com.microsoft.mrtk.core
+        version: 3.0.0-pre.3
+      - name: com.unity.xr.interaction.toolkit
+        version: 2.0.0
+      - name: com.unity.inputsystem
+        version: 1.2.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.xr.core-utils
+        version: 2.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.xr.management
+        version: 4.2.1
+      - name: com.unity.subsystemregistration
+        version: 1.0.6
       keywords: []
       registry:
         id: main
@@ -3584,6 +3762,144 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
         revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
         path: 
+    - packageId: com.unity.xr.management@4.2.1
+      testable: 0
+      isDirectDependency: 0
+      version: 4.2.1
+      source: 1
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.unity.xr.management@4.2.1
+      assetPath: Packages/com.unity.xr.management
+      name: com.unity.xr.management
+      displayName: XR Plugin Management
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Package that provides simple management of XR plug-ins. Manages
+        and offers help with loading, initialization, settings, and build support
+        for XR plug-ins.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.0-preview.8
+        - 0.1.0-preview.12
+        - 1.0.0-preview.2
+        - 2.0.0-preview.3
+        - 2.0.0-preview.6
+        - 2.0.0-preview.9
+        - 2.0.0-preview.10
+        - 2.0.0-preview.13
+        - 2.0.0-preview.21
+        - 2.0.0-preview.22
+        - 2.0.0-preview.24
+        - 2.0.0-preview.25
+        - 2.0.0-preview.26
+        - 3.0.1
+        - 3.0.2-preview.1
+        - 3.0.2-preview.2
+        - 3.0.3
+        - 3.0.4-preview.1
+        - 3.0.4-preview.3
+        - 3.0.4
+        - 3.0.5-preview.1
+        - 3.0.5
+        - 3.0.6-preview.2
+        - 3.0.6
+        - 3.1.0-preview.2
+        - 3.2.4
+        - 3.2.6
+        - 3.2.7
+        - 3.2.9
+        - 3.2.10
+        - 3.2.11-preview.1
+        - 3.2.12
+        - 3.2.13
+        - 3.2.15
+        - 3.2.16
+        - 3.2.17
+        - 4.0.0-exp.2
+        - 4.0.0-pre.2
+        - 4.0.0-pre.3
+        - 4.0.1
+        - 4.0.3
+        - 4.0.5
+        - 4.0.6
+        - 4.0.7
+        - 4.1.0-pre.1
+        - 4.1.0-pre.2
+        - 4.1.0
+        - 4.2.0
+        - 4.2.1
+        compatible:
+        - 4.0.1
+        - 4.0.3
+        - 4.0.5
+        - 4.0.6
+        - 4.0.7
+        - 4.1.0-pre.1
+        - 4.1.0-pre.2
+        - 4.1.0
+        - 4.2.0
+        - 4.2.1
+        verified: 4.2.1
+      dependencies:
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.7
+      - name: com.unity.subsystemregistration
+        version: 1.0.6
+      resolvedDependencies:
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.subsystemregistration
+        version: 1.0.6
+      keywords:
+      - xr
+      - sdk
+      - ar
+      - vr
+      - management
+      - build
+      - plugin
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637769778170000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
+        revision: 9c99228887ff65cc0729434b3b9371d22b707cb9
+        path: 
     - packageId: com.unity.nuget.newtonsoft-json@2.0.2
       testable: 0
       isDirectDependency: 0
@@ -3804,144 +4120,6 @@ m_PackageAssets:
         type: git
         url: https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit.git
         revision: 7c1007f607973aedebdc6d7627aa1dafce6b2930
-        path: 
-    - packageId: com.unity.xr.management@4.2.1
-      testable: 0
-      isDirectDependency: 0
-      version: 4.2.1
-      source: 1
-      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
-        project\Library\PackageCache\com.unity.xr.management@4.2.1
-      assetPath: Packages/com.unity.xr.management
-      name: com.unity.xr.management
-      displayName: XR Plugin Management
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Package that provides simple management of XR plug-ins. Manages
-        and offers help with loading, initialization, settings, and build support
-        for XR plug-ins.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.1.0-preview.8
-        - 0.1.0-preview.12
-        - 1.0.0-preview.2
-        - 2.0.0-preview.3
-        - 2.0.0-preview.6
-        - 2.0.0-preview.9
-        - 2.0.0-preview.10
-        - 2.0.0-preview.13
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.0.0-preview.24
-        - 2.0.0-preview.25
-        - 2.0.0-preview.26
-        - 3.0.1
-        - 3.0.2-preview.1
-        - 3.0.2-preview.2
-        - 3.0.3
-        - 3.0.4-preview.1
-        - 3.0.4-preview.3
-        - 3.0.4
-        - 3.0.5-preview.1
-        - 3.0.5
-        - 3.0.6-preview.2
-        - 3.0.6
-        - 3.1.0-preview.2
-        - 3.2.4
-        - 3.2.6
-        - 3.2.7
-        - 3.2.9
-        - 3.2.10
-        - 3.2.11-preview.1
-        - 3.2.12
-        - 3.2.13
-        - 3.2.15
-        - 3.2.16
-        - 3.2.17
-        - 4.0.0-exp.2
-        - 4.0.0-pre.2
-        - 4.0.0-pre.3
-        - 4.0.1
-        - 4.0.3
-        - 4.0.5
-        - 4.0.6
-        - 4.0.7
-        - 4.1.0-pre.1
-        - 4.1.0-pre.2
-        - 4.1.0
-        - 4.2.0
-        - 4.2.1
-        compatible:
-        - 4.0.1
-        - 4.0.3
-        - 4.0.5
-        - 4.0.6
-        - 4.0.7
-        - 4.1.0-pre.1
-        - 4.1.0-pre.2
-        - 4.1.0
-        - 4.2.0
-        - 4.2.1
-        verified: 4.2.1
-      dependencies:
-      - name: com.unity.modules.subsystems
-        version: 1.0.0
-      - name: com.unity.modules.vr
-        version: 1.0.0
-      - name: com.unity.modules.xr
-        version: 1.0.0
-      - name: com.unity.xr.legacyinputhelpers
-        version: 2.1.7
-      - name: com.unity.subsystemregistration
-        version: 1.0.6
-      resolvedDependencies:
-      - name: com.unity.modules.subsystems
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.vr
-        version: 1.0.0
-      - name: com.unity.modules.physics
-        version: 1.0.0
-      - name: com.unity.modules.xr
-        version: 1.0.0
-      - name: com.unity.xr.legacyinputhelpers
-        version: 2.1.9
-      - name: com.unity.subsystemregistration
-        version: 1.0.6
-      keywords:
-      - xr
-      - sdk
-      - ar
-      - vr
-      - management
-      - build
-      - plugin
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637769778170000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-        revision: 9c99228887ff65cc0729434b3b9371d22b707cb9
         path: 
     - packageId: com.unity.searcher@4.3.2
       testable: 0
@@ -4427,6 +4605,42 @@ m_PackageAssets:
         serializedVersion: 2
         ticks: 637883861750245272
       m_Hash: 1502119378
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.diagnostics-3.0.0-pre.1
+        (1).tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.diagnostics-3.0.0-pre.1
+        (1).tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637883861750245272
+      m_Hash: 3160572553
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.environment-3.0.0-pre.1
+        (1).tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.environment-3.0.0-pre.1
+        (1).tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637883861752215720
+      m_Hash: 502734535
 m_ProjectPath: C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New
   project/Packages
 m_EditorVersion: 2020.3.33f1 (915a7af8b0d5)
