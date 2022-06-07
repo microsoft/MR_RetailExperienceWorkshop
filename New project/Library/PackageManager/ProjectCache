@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902072431423427
-    m_Hash: 1178749542
+      ticks: 637902074305260278
+    m_Hash: 1778259848
   m_LockFileStatus:
     m_FilePath: C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New
       project/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902072431593575
-    m_Hash: 2783490680
+      ticks: 637902074305400319
+    m_Hash: 1704532985
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -538,6 +538,59 @@ m_PackageAssets:
         version: 4.1.9
       - name: com.unity.modules.particlesystem
         version: 1.0.0
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/microsoft/MixedRealityToolkit-Unity.git
+        revision: 
+        path: 
+    - packageId: com.microsoft.mrtk.standardassets@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.standardassets-3.0.0-pre.2
+        (1).tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.0-pre.2
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mrtk.standardassets@8b61242de68a
+      assetPath: Packages/com.microsoft.mrtk.standardassets
+      name: com.microsoft.mrtk.standardassets
+      displayName: MRTK Standard Assets
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Common assets used by the MRTK packages, including common fonts,
+        materials, and models. Relies on the Graphics Tools collection of shaders.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.microsoft.mrtk.graphicstools.unity
+        version: 0.3.0
+      resolvedDependencies:
+      - name: com.microsoft.mrtk.graphicstools.unity
+        version: 0.3.0
       keywords: []
       registry:
         id: main
@@ -5371,6 +5424,24 @@ m_PackageAssets:
         serializedVersion: 2
         ticks: 637883861754156159
       m_Hash: 4089184339
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.standardassets-3.0.0-pre.2
+        (1).tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.standardassets-3.0.0-pre.2
+        (1).tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637883861754306196
+      m_Hash: 2894684611
 m_ProjectPath: C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New
   project/Packages
 m_EditorVersion: 2020.3.33f1 (915a7af8b0d5)

@@ -57,6 +57,14 @@
         "com.unity.xr.arfoundation": "4.1.9"
       }
     },
+    "com.microsoft.mrtk.standardassets": {
+      "version": "file:../Assets/MR_RetailShowroom/MRTKv3 Artifacts/com.microsoft.mrtk.standardassets-3.0.0-pre.2 (1).tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.microsoft.mrtk.graphicstools.unity": "0.3.0"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.15",
       "depth": 0,
