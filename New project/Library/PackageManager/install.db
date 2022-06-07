@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mrtk.core": {
+      "tarball": {
+        "hash": "e0d55dc11c42",
+        "mtime": 1652789375023,
+        "size": 99954,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.core-3.0.0-pre.3 (1).tgz"
+      }
+    }
+  }
+}

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.microsoft.mrtk.core": "file:../Assets/MR_RetailShowroom/MRTKv3 Artifacts/com.microsoft.mrtk.core-3.0.0-pre.3 (1).tgz",
     "com.unity.collab-proxy": "1.15.15",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.14",
