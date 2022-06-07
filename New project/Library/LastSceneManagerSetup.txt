@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset.unity
+- path: Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset - Functional.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
