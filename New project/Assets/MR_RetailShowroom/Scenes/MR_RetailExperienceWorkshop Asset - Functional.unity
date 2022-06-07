@@ -2945,10 +2945,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Functional T-shirt_black_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1525690331283832553, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Function food pouch
+      objectReference: {fileID: 0}
+    - target: {fileID: 1882189607075119216, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Functional food pouch
+      objectReference: {fileID: 0}
     - target: {fileID: 2091138477981653476, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 151636348}
+    - target: {fileID: 2298099466548042197, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Functional Book
+      objectReference: {fileID: 0}
     - target: {fileID: 2298099466548042197, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -2974,8 +2986,16 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4666719792563705909, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Functional Book
+      objectReference: {fileID: 0}
+    - target: {fileID: 4666719792563705909, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4857416995422218161, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Functional food pouch
       objectReference: {fileID: 0}
     - target: {fileID: 5079506143420222572, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_InteractionManager
@@ -2984,6 +3004,10 @@ PrefabInstance:
     - target: {fileID: 5306014216841585474, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5334840584993317671, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Function food pouch
       objectReference: {fileID: 0}
     - target: {fileID: 5606336363004852958, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_IsActive
@@ -3037,6 +3061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5831224055091686016, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Function food pouch
+      objectReference: {fileID: 0}
     - target: {fileID: 6000736708182655729, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_Name
       value: 'Functional T-shirt_black_01 '
@@ -3054,8 +3082,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151636348}
     - target: {fileID: 8723368387013011288, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Functional Book
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723368387013011288, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8819584291614018055, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_Name
+      value: Function food pouch
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
@@ -5188,7 +5224,7 @@ MonoBehaviour:
   onClicked:
     m_PersistentCalls:
       m_Calls: []
-  hostTransform: {fileID: 0}
+  hostTransform: {fileID: 5606336361842558238}
   allowedManipulations: 7
   allowedInteractionTypes: -2147483641
   useForcesForNearManipulation: 0
@@ -8144,5 +8180,10 @@ MonoBehaviour:
 --- !u!4 &5606336361842558237 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4030217970281009180, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+  m_PrefabInstance: {fileID: 5606336361842558130}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5606336361842558238 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1506295070413938212, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
   m_PrefabInstance: {fileID: 5606336361842558130}
   m_PrefabAsset: {fileID: 0}
