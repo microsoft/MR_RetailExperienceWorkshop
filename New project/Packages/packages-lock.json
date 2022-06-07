@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.microsoft.mixedreality.openxr": {
+      "version": "file:MixedReality/com.microsoft.mixedreality.openxr-1.4.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.xr.arfoundation": "4.1.7",
+        "com.unity.xr.management": "4.2.0",
+        "com.unity.xr.openxr": "1.3.1"
+      }
+    },
     "com.microsoft.mrtk.core": {
       "version": "file:../Assets/MR_RetailShowroom/MRTKv3 Artifacts/com.microsoft.mrtk.core-3.0.0-pre.3 (1).tgz",
       "depth": 0,
@@ -322,7 +332,7 @@
     },
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.9",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
@@ -345,7 +355,7 @@
     },
     "com.unity.xr.openxr": {
       "version": "1.3.1",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.xr.management": "4.0.1",

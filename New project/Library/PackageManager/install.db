@@ -1,6 +1,14 @@
 {
   "schemaVersion": 1,
   "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "a4cc3ecd3f67",
+        "mtime": 1651059457321,
+        "size": 10611639,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.0.tgz"
+      }
+    },
     "com.microsoft.mrtk.core": {
       "tarball": {
         "hash": "e0d55dc11c42",

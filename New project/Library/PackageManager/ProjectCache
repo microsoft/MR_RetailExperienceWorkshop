@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902078835225336
-    m_Hash: 3212848780
+      ticks: 637902245165106564
+    m_Hash: 2014374092
   m_LockFileStatus:
     m_FilePath: C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New
       project/Packages/packages-lock.json
@@ -15,13 +15,107 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637902078835405378
-    m_Hash: 3420529789
+      ticks: 637902245165166575
+    m_Hash: 1589399260
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.microsoft.mixedreality.openxr@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.4.0.tgz
+      testable: 0
+      isDirectDependency: 1
+      version: 1.4.0
+      source: 6
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.microsoft.mixedreality.openxr@a4cc3ecd3f67
+      assetPath: Packages/com.microsoft.mixedreality.openxr
+      name: com.microsoft.mixedreality.openxr
+      displayName: Mixed Reality OpenXR Plugin
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Extension to Unity OpenXR Plugin to support a suite of features
+        for HoloLens 2 and Windows Mixed Reality headsets.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.unity.xr.arfoundation
+        version: 4.1.7
+      - name: com.unity.xr.management
+        version: 4.2.0
+      - name: com.unity.xr.openxr
+        version: 1.3.1
+      resolvedDependencies:
+      - name: com.unity.xr.arfoundation
+        version: 4.1.9
+      - name: com.unity.xr.arsubsystems
+        version: 4.1.9
+      - name: com.unity.subsystemregistration
+        version: 1.1.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.xr.management
+        version: 4.2.1
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      - name: com.unity.xr.openxr
+        version: 1.3.1
+      - name: com.unity.inputsystem
+        version: 1.3.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - microsoft
+      - mixed
+      - reality
+      - openxr
+      - hololens
+      - xreditorsubsystem
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
     - packageId: com.microsoft.mrtk.core@file:C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.core-3.0.0-pre.3
         (1).tgz
@@ -2108,6 +2202,120 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: com.unity.xr.openxr@1.3.1
+      testable: 0
+      isDirectDependency: 1
+      version: 1.3.1
+      source: 1
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.unity.xr.openxr@1.3.1
+      assetPath: Packages/com.unity.xr.openxr
+      name: com.unity.xr.openxr
+      displayName: OpenXR Plugin
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: OpenXR is an open, royalty-free standard developed by Khronos
+        that aims to simplify AR/VR development by allowing developers to target
+        a wide range of AR/VR devices. Use this plug-in to enable OpenXR in XR Plug-in
+        Management.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.1-preview.1
+        - 0.1.2-preview.2
+        - 1.0.0-pre.1
+        - 1.0.2
+        - 1.0.3
+        - 1.1.1
+        - 1.2.0
+        - 1.2.2
+        - 1.2.3
+        - 1.2.8
+        - 1.3.0
+        - 1.3.1
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        compatible:
+        - 0.1.1-preview.1
+        - 0.1.2-preview.2
+        - 1.0.2
+        - 1.0.3
+        - 1.1.1
+        - 1.2.0
+        - 1.2.2
+        - 1.2.3
+        - 1.2.8
+        - 1.3.0
+        - 1.3.1
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        verified: 1.3.1
+      dependencies:
+      - name: com.unity.xr.management
+        version: 4.0.1
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.2
+      - name: com.unity.inputsystem
+        version: 1.0.2
+      resolvedDependencies:
+      - name: com.unity.xr.management
+        version: 4.2.1
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.xr.legacyinputhelpers
+        version: 2.1.9
+      - name: com.unity.subsystemregistration
+        version: 1.1.0
+      - name: com.unity.inputsystem
+        version: 1.3.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - openxr
+      - xr
+      - reality
+      - xreditorsubsystem
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637740218810000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/xr.sdk.openxr.git
+        revision: dd3e43afc5c298c91f87b3f41a640f4d0c1da50e
+        path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
       isDirectDependency: 1
@@ -3883,6 +4091,101 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: com.unity.xr.legacyinputhelpers@2.1.9
+      testable: 0
+      isDirectDependency: 0
+      version: 2.1.9
+      source: 1
+      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.9
+      assetPath: Packages/com.unity.xr.legacyinputhelpers
+      name: com.unity.xr.legacyinputhelpers
+      displayName: XR Legacy Input Helpers
+      author:
+        name: 
+        email: 
+        url: 
+      category: XR
+      type: 
+      description: This package includes the tracked pose driver for the legacy input
+        system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+        Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects
+        to track input devices, the XR Bindings Seeding Tool adds a menu item under
+        the 'Assets' menu which populates the Input Asset with Unity's crossplatform
+        Input Bindings
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        - 1.0.2
+        - 1.0.3
+        - 1.3.1
+        - 1.3.2
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.11
+        - 2.0.1
+        - 2.0.2
+        - 2.0.4
+        - 2.0.6
+        - 2.0.8
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.6
+        - 2.1.7
+        - 2.1.8
+        - 2.1.9
+        compatible:
+        - 2.1.9
+        verified: 2.1.9
+      dependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      keywords:
+      - TPD
+      - Tracked Pose Driver
+      - XR
+      - Input
+      - Helpers
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637812095140000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+        revision: 8e4581a11c14b64d41aabb67f51b0d8a0c75f5c4
+        path: 
     - packageId: com.unity.ext.nunit@1.0.6
       testable: 0
       isDirectDependency: 0
@@ -4848,120 +5151,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
         revision: 9c99228887ff65cc0729434b3b9371d22b707cb9
         path: 
-    - packageId: com.unity.xr.openxr@1.3.1
-      testable: 0
-      isDirectDependency: 0
-      version: 1.3.1
-      source: 1
-      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
-        project\Library\PackageCache\com.unity.xr.openxr@1.3.1
-      assetPath: Packages/com.unity.xr.openxr
-      name: com.unity.xr.openxr
-      displayName: OpenXR Plugin
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: OpenXR is an open, royalty-free standard developed by Khronos
-        that aims to simplify AR/VR development by allowing developers to target
-        a wide range of AR/VR devices. Use this plug-in to enable OpenXR in XR Plug-in
-        Management.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.1.1-preview.1
-        - 0.1.2-preview.2
-        - 1.0.0-pre.1
-        - 1.0.2
-        - 1.0.3
-        - 1.1.1
-        - 1.2.0
-        - 1.2.2
-        - 1.2.3
-        - 1.2.8
-        - 1.3.0
-        - 1.3.1
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        compatible:
-        - 0.1.1-preview.1
-        - 0.1.2-preview.2
-        - 1.0.2
-        - 1.0.3
-        - 1.1.1
-        - 1.2.0
-        - 1.2.2
-        - 1.2.3
-        - 1.2.8
-        - 1.3.0
-        - 1.3.1
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        verified: 1.3.1
-      dependencies:
-      - name: com.unity.xr.management
-        version: 4.0.1
-      - name: com.unity.xr.legacyinputhelpers
-        version: 2.1.2
-      - name: com.unity.inputsystem
-        version: 1.0.2
-      resolvedDependencies:
-      - name: com.unity.xr.management
-        version: 4.2.1
-      - name: com.unity.modules.subsystems
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.vr
-        version: 1.0.0
-      - name: com.unity.modules.physics
-        version: 1.0.0
-      - name: com.unity.modules.xr
-        version: 1.0.0
-      - name: com.unity.xr.legacyinputhelpers
-        version: 2.1.9
-      - name: com.unity.subsystemregistration
-        version: 1.1.0
-      - name: com.unity.inputsystem
-        version: 1.3.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      keywords:
-      - openxr
-      - xr
-      - reality
-      - xreditorsubsystem
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637740218810000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/xr.sdk.openxr.git
-        revision: dd3e43afc5c298c91f87b3f41a640f4d0c1da50e
-        path: 
     - packageId: com.unity.xr.arfoundation@4.1.9
       testable: 0
       isDirectDependency: 0
@@ -5457,101 +5646,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.core-utils.git
         revision: 64e94d2afd538c154dd9f9fad875ef0afdc2ecd1
         path: 
-    - packageId: com.unity.xr.legacyinputhelpers@2.1.9
-      testable: 0
-      isDirectDependency: 0
-      version: 2.1.9
-      source: 1
-      resolvedPath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
-        project\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.9
-      assetPath: Packages/com.unity.xr.legacyinputhelpers
-      name: com.unity.xr.legacyinputhelpers
-      displayName: XR Legacy Input Helpers
-      author:
-        name: 
-        email: 
-        url: 
-      category: XR
-      type: 
-      description: This package includes the tracked pose driver for the legacy input
-        system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
-        Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects
-        to track input devices, the XR Bindings Seeding Tool adds a menu item under
-        the 'Assets' menu which populates the Input Asset with Unity's crossplatform
-        Input Bindings
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0
-        - 1.0.2
-        - 1.0.3
-        - 1.3.1
-        - 1.3.2
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
-        - 1.3.11
-        - 2.0.1
-        - 2.0.2
-        - 2.0.4
-        - 2.0.6
-        - 2.0.8
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
-        - 2.1.4
-        - 2.1.6
-        - 2.1.7
-        - 2.1.8
-        - 2.1.9
-        compatible:
-        - 2.1.9
-        verified: 2.1.9
-      dependencies:
-      - name: com.unity.modules.vr
-        version: 1.0.0
-      - name: com.unity.modules.xr
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.modules.vr
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.physics
-        version: 1.0.0
-      - name: com.unity.modules.xr
-        version: 1.0.0
-      - name: com.unity.modules.subsystems
-        version: 1.0.0
-      keywords:
-      - TPD
-      - Tracked Pose Driver
-      - XR
-      - Input
-      - Helpers
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637812095140000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-        revision: 8e4581a11c14b64d41aabb67f51b0d8a0c75f5c4
-        path: 
     - packageId: com.unity.xr.arsubsystems@4.1.9
       testable: 0
       isDirectDependency: 0
@@ -5765,6 +5859,22 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus:
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.4.0.tgz/package.json
+      m_PathExists: 0
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 0
+      m_Hash: 0
+    - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
+        project\Packages\MixedReality\com.microsoft.mixedreality.openxr-1.4.0.tgz
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637866562573205341
+      m_Hash: 3343198222
     - m_FilePath: C:\Users\RYZEN 5\Documents\GitHub\MR_RetailExperienceWorkshop\New
         project\Assets\MR_RetailShowroom\MRTKv3 Artifacts\com.microsoft.mrtk.core-3.0.0-pre.3
         (1).tgz/package.json
