@@ -32,6 +32,22 @@
         "size": 15951,
         "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.environment-3.0.0-pre.1 (1).tgz"
       }
+    },
+    "com.microsoft.mrtk.graphicstools.unity": {
+      "tarball": {
+        "hash": "4550a2cb150e",
+        "mtime": 1652789375414,
+        "size": 7188699,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.graphicstools.unity-0.3.0 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.input": {
+      "tarball": {
+        "hash": "e3af6955d6a3",
+        "mtime": 1652789375416,
+        "size": 151155,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.input-3.0.0-pre.2 (1).tgz"
+      }
     }
   }
 }
