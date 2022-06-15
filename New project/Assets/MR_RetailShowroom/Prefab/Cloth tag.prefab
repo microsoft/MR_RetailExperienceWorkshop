@@ -916,7 +916,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "17oz selvedge \n   denim shirt"
+  m_text: "17oz salvaged \n   denim shirt"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9add2568274a5fc468fa8957f51b8018, type: 2}
   m_sharedMaterial: {fileID: -4227838494077238315, guid: 9add2568274a5fc468fa8957f51b8018, type: 2}
