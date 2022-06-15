@@ -110,8 +110,12 @@ ScriptsOnlyBuild:
     Unity.XR.Interaction.Toolkit.Editor.dll:
     - UnityEditor.XR.Interaction.Toolkit.XRInteractionEditorSettings
     Unity.XR.Interaction.Toolkit.dll:
+    - UnityEngine.XR.Interaction.Toolkit.ActionBasedSnapTurnProvider
     - UnityEngine.XR.Interaction.Toolkit.Inputs.InputActionManager
     - UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings
+    - UnityEngine.XR.Interaction.Toolkit.LocomotionSystem
+    - UnityEngine.XR.Interaction.Toolkit.TeleportationArea
+    - UnityEngine.XR.Interaction.Toolkit.TeleportationProvider
     - UnityEngine.XR.Interaction.Toolkit.XRInteractionManager
     - UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual
     - UnityEngine.XR.Interaction.Toolkit.XRRayInteractor
@@ -162,7 +166,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset.unity:
+    Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset - Functionality.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -216,6 +220,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2230}
     - Class: 114
+      Script: {instanceID: 2308}
+    - Class: 114
       Script: {instanceID: 2536}
     - Class: 114
       Script: {instanceID: 2744}
@@ -229,6 +235,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3522}
     - Class: 114
       Script: {instanceID: 3656}
+    - Class: 114
+      Script: {instanceID: 3724}
     - Class: 114
       Script: {instanceID: 3766}
     - Class: 114
@@ -258,6 +266,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4650}
     - Class: 114
+      Script: {instanceID: 4706}
+    - Class: 114
       Script: {instanceID: 4778}
     - Class: 114
       Script: {instanceID: 4794}
@@ -269,6 +279,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5094}
     - Class: 114
       Script: {instanceID: 5140}
+    - Class: 114
+      Script: {instanceID: 5164}
     - Class: 114
       Script: {instanceID: 5184}
     - Class: 114
@@ -3032,6 +3044,6 @@ ScriptsOnlyBuild:
     className: DataSourceDynamicList
   platform: 21
   scenePathNames:
-  - Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset.unity
+  - Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset - Functionality.unity
   playerPath: C:/Users/RYZEN 5/Documents/GitHub/MicrosoftMRTK_V3 Project Output/New
     Update
