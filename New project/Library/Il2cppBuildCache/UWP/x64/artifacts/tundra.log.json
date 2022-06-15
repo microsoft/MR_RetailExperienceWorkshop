@@ -1,0 +1,6 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"all_tundra_nodes","enqueuedNodeIndex":0}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Il2Cpp C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
+{"msg":"newNode","annotation":"Il2Cpp C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat","index":1}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"all_tundra_nodes","index":0}
