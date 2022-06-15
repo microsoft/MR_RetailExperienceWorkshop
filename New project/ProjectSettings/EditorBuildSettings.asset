@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset.unity
     guid: 2327599433b1c4c4abd013d660deeb77
-  - enabled: 1
+  - enabled: 0
     path: Assets/MR_RetailShowroom/Scenes/MR_RetailExperienceWorkshop Asset - Functionality.unity
     guid: 1209af782b1fbe644a0581f55548cc98
   m_configObjects:
