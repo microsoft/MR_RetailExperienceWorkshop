@@ -11509,7 +11509,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SuperCamera__ctor_m2D5DF21B9F75016763866
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TeleportHeight_Update_m604A631CE187D3567523B3549146B7BB95AB92D3 (TeleportHeight_t0EB53DBFDB8A3105115172F39D204CC39FFE91C5 * __this, const RuntimeMethod* method)
 {
 	{
-		// gameObject.transform.position = new Vector3(gameObject.transform.position.x,5 , gameObject.transform.position.z);
+		// gameObject.transform.position = new Vector3(gameObject.transform.position.x,0 , gameObject.transform.position.z);
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_0;
 		L_0 = Component_get_gameObject_m55DC35B149AFB9157582755383BA954655FE0C5B(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
@@ -11535,7 +11535,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TeleportHeight_Update_m604A631CE187D3567
 		float L_9 = L_8.get_z_4();
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_10;
 		memset((&L_10), 0, sizeof(L_10));
-		Vector3__ctor_m57495F692C6CE1CEF278CAD9A98221165D37E636_inline((&L_10), L_5, (5.0f), L_9, /*hidden argument*/NULL);
+		Vector3__ctor_m57495F692C6CE1CEF278CAD9A98221165D37E636_inline((&L_10), L_5, (0.0f), L_9, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91(L_1, L_10, /*hidden argument*/NULL);
 		// }
