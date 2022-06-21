@@ -1,14 +1,20 @@
-# Project
+# Mixed Reality Retail Showroom MRTK3 Workshop
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+In this workshop, you will learn how to create a multi-platform virtual showroom using the Mixed Reality Toolkit. The latest generation of the toolkit, [MRTK3](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/), is an open source, Microsoft-driven project that provides a set of components and features used to accelerate cross-platform mixed reality app development in Unity. 
 
-As the maintainer of this project, please make a few updates:
+This workshop highlights some of the core features of MRTK3, where you will utilize various components to create a functional showroom for the HoloLens 2 and Meta Quest.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Learning Objectives
+- Learn how to import and configure MRTK3 for mixed reality development within Unity. For a basic tutorial for getting started with Unity, please see [the roll-a-ball tutorial.](https://learn.unity.com/project/roll-a-ball) 
+- Understand the core features of MRTK3.
+- Learn how to create a functional mixed reality application using MRTK3.
+- Learn how to build and deploy your application for multiple platforms.
+
+## Workshop Tutorial Instructions
+- Download the tutorial [here.](https://github.com/microsoft/MR_RetailExperienceWorkshop/releases/tag/v0.2)
+
+## Prerequisites
+- Please see [Install the Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools) for a comprehensive list of prerequisites and installation resources.
 
 ## Contributing
 
