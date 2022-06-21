@@ -1,0 +1,180 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.33f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --incremental-g-c-time-slice=3 --baselib-directory=\"Temp\\StagingArea\\Il2CppOutputProject\\IL2CPP\\build\\baselib\\x64\\Release\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppOutput\" --stats-output-dir=\"C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppStats\"",
+      "Inputs": [
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/I18N.CJK.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/I18N.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/I18N.MidEast.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/I18N.Other.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/I18N.Rare.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/I18N.West.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.GraphicsTools.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.OpenXR.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Core.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Data.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Diagnostics.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Environment.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Input.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SpatialManipulation.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Speech.Windows.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.UXCore.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/netstandard.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Newtonsoft.Json.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Data.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Diagnostics.StackTrace.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Globalization.Extensions.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.IO.Compression.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Numerics.Vectors.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.ObjectModel.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Runtime.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.WindowsRuntime.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Xml.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Runtime.WindowsRuntime.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Runtime.WindowsRuntime.UI.Xaml.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Xml.Linq.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/System.Xml.XPath.XDocument.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.InputSystem.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.Mathematics.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.CoreUtils.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.Interaction.Toolkit.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "\"C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "C:/Users/RYZEN 5/Documents/GitHub/MR_RetailExperienceWorkshop/New project/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}

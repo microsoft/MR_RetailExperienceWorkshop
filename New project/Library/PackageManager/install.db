@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "a4cc3ecd3f67",
+        "mtime": 1651059457321,
+        "size": 10611639,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.0.tgz"
+      }
+    },
+    "com.microsoft.mrtk.core": {
+      "tarball": {
+        "hash": "e0d55dc11c42",
+        "mtime": 1652789375023,
+        "size": 99954,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.core-3.0.0-pre.3 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.data": {
+      "tarball": {
+        "hash": "24cf63c93f9c",
+        "mtime": 1652789375025,
+        "size": 86913,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.data-1.0.0-pre.2 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.diagnostics": {
+      "tarball": {
+        "hash": "521df34e5805",
+        "mtime": 1652789375025,
+        "size": 19392,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.diagnostics-3.0.0-pre.1 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.environment": {
+      "tarball": {
+        "hash": "af3a46fbee8b",
+        "mtime": 1652789375222,
+        "size": 15951,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.environment-3.0.0-pre.1 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.extendedassets": {
+      "tarball": {
+        "hash": "df6b9bc9d255",
+        "mtime": 1652789375386,
+        "size": 48473274,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.extendedassets-3.0.0-pre.2 (5).tgz"
+      }
+    },
+    "com.microsoft.mrtk.graphicstools.unity": {
+      "tarball": {
+        "hash": "4550a2cb150e",
+        "mtime": 1652789375414,
+        "size": 7188699,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.graphicstools.unity-0.3.0 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.input": {
+      "tarball": {
+        "hash": "e3af6955d6a3",
+        "mtime": 1652789375416,
+        "size": 151155,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.input-3.0.0-pre.2 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.spatialmanipulation": {
+      "tarball": {
+        "hash": "23cd59d98ea8",
+        "mtime": 1652789375417,
+        "size": 129651,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.2 (2).tgz"
+      }
+    },
+    "com.microsoft.mrtk.standardassets": {
+      "tarball": {
+        "hash": "8b61242de68a",
+        "mtime": 1652789375431,
+        "size": 3713403,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.standardassets-3.0.0-pre.2 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.uxcomponents": {
+      "tarball": {
+        "hash": "c604a8fe2888",
+        "mtime": 1652789375433,
+        "size": 128605,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.uxcomponents-3.0.0-pre.2 (2).tgz"
+      }
+    },
+    "com.microsoft.mrtk.uxcore": {
+      "tarball": {
+        "hash": "d20d243a6bc8",
+        "mtime": 1652789375434,
+        "size": 50333,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.uxcore-3.0.0-pre.2 (1).tgz"
+      }
+    },
+    "com.microsoft.mrtk.windowsspeech": {
+      "tarball": {
+        "hash": "b89647f52e28",
+        "mtime": 1652789375435,
+        "size": 4464,
+        "localPath": "C:\\Users\\RYZEN 5\\Documents\\GitHub\\MR_RetailExperienceWorkshop\\New project\\Assets\\MR_RetailShowroom\\MRTKv3 Artifacts\\com.microsoft.mrtk.windowsspeech-3.0.0-pre.2 (1).tgz"
+      }
+    }
+  }
+}
