@@ -4,7 +4,7 @@ title: Introduction
 
 # Introduction
 
-The latest generation of the Mixed Reality Toolkit, known as MRTK3 is an open source, Microsoft-driven project that provides a set of components and features used to accelerate cross-platform mixed reality app development in Unity. MRTK3 is currently available as a pubic preview.
+The latest generation of the Mixed Reality Toolkit, known as MRTK3 is an open source, Microsoft-driven project that provides a set of components and features used to accelerate cross-platform mixed reality app development in Unity. MRTK3 is currently available as a public preview.
 
 MRTK3 supports a variety of features such as a cross-platform input system, building blocks for spatial interactions, and an intuitive system for building UI elements. MRTK3's support for in-editor simulation also facilitates faster iterations. Built on top of OpenXR, MRTK3 supports a wide range of devices now and in the future.
 
