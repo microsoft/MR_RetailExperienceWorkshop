@@ -2,7 +2,7 @@
 title: Configuring the virtual showroom
 ---
 
-# Configure your virtual showroom with interactivity
+# Configure your Virtual Showroom With Interactivity
 
 1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects.
 
@@ -10,39 +10,39 @@ title: Configuring the virtual showroom
 
     - The **ObjectManipulator** script makes an object movable, scalable, and rotatable using one or two hands. When you add the Object Manipulator script, the **Constraint Manager** script is automatically added as well because the Object Manipulator script depends on it.
 
-        ![A screenshot of adding object manipulator.]({{ site.baseurl }}/assets/img/add-object-manupilator.png)
+        ![A screenshot of adding object manipulator.](img/add-object-manupilator.png)
 
     - Next, follow the same procedure to add the **Box Collider** component.
 
-        ![A screenshot of adding box collider.]({{ site.baseurl }}/assets/img/add-box-collider.png)
+        ![A screenshot of adding box collider.](img/add-box-collider.png)
 
 2. In the hierarchy window, expand **Retail Dress Showroom** > **Table**, select the gameobject **Food pouch 2** to add Bounds Control Script to make the gameobject "Scalable". With the game object still selected in the **Hierarchy** window, click on the **Add component** button and select **Bounds Control**.
 
-    ![A screenshot of adding bounds control]({{ site.baseurl }}/assets/img/bounds-control.png)
+    ![A screenshot of adding bounds control](img/bounds-control.png)
 
 3. Follow the same procedure to add the **Box Collider**
 
 4. Also, add the **Min Max Scale Constraint** Script to the gameobject. This is a convenient component to constrain scaling to a minimum and maximum size that is customizable.
 
-    ![A screenshot of adding min max scale contsraint]({{ site.baseurl }}/assets/img/min-max-scale-contsraint.png)
+    ![A screenshot of adding min max scale contsraint](img/min-max-scale-contsraint.png)
 
 ## Include UX elements
 
 Here we plan to integrate the product details into a **UX slate** and display it along with the product. This will provide an intuitive way for users to learn more about the products in our virtual showroom. 
 
-1. In the **Project window**, navigate to the **Assets** > **MR_RetailShowroom** > **Prefabs** folder, click-and-drag one of the **Tag prefab** onto the **T-shirt_black_01** object that we were working with previously. Since we are incorporating it to the gameobject T-shirt_black_01, we use **Cloth tag**.
+1. In the **Project window**, navigate to the **Assets** > **MR_RetailShowroom** > **Prefabs** folder, click-and-drag one of the **Tag prefabs** onto the **T-shirt_black_01** object that we were working with previously. Since we are incorporating it to the gameobject T-shirt_black_01, we use **Cloth tag**.
 
     - Drag and drop the **Cloth tag** onto the gameobject T-shirt_black_01 to make it, its **child** as shown below.
 
-        ![A screenshot of dragging and dropping the UI tag.]({{ site.baseurl }}/assets/img/add-cloth-tag.png)
+        ![A screenshot of dragging and dropping the UI tag.](img/add-cloth-tag.png)
 
     - You will be prompted to install TMP(TextMeshPro) in a pop-up window. Ensure to click Import TMP Essentials and close the pop-up window.
 
-        ![A screenshot of importing TextMeshPro.]({{ site.baseurl }}/assets/img/import-tmp.png)
+        ![A screenshot of importing TextMeshPro.](img/import-tmp.png)
 
 2. Adjust transform component of the UI tag to place it comfortably and correctly near the product (T-shirt_black_01.) This may involve moving, scaling, and rotating the product tag.
 
-3. We would like to have the UI tag appear when the user is interacting with the product, and hidden when the user is not interacting with the product. To automatically activate and deactivate the tags, follow the instructions below.  
+3. We would like to have the UI tag appear when the user is interacting with the product and hidden when the user is not interacting with the product. To automatically activate and deactivate the tags, follow the instructions below.  
 
     - In the **Inspector window** of the **T-shirt_black_01** gameobject, expand the **Object Manipulator** script to configure the **Manipulation Started** event by clicking on the + icon to add new event.
 
@@ -50,15 +50,15 @@ Here we plan to integrate the product details into a **UX slate** and display it
 
     - From the dropdown list that says **No Function**, select **GameObject** > **SetActive(bool)** to set this function as the action to be run when the event is triggered. Ensure that the argument checkbox is **checked**.
 
-        ![A screenshot of configuring the manipulation started.]({{ site.baseurl }}/assets/img/manupilation-started.png)
+        ![A screenshot of configuring the manipulation started.](img/manupilation-started.png)
 
     - Follow the same procedure for the **Manipulation Ended** event. Ensure that the argument checkbox is **unchecked**.
 
-        ![A screenshot of configuring the manipulation ended]({{ site.baseurl }}/assets/img/manupilation-ended.png)
+        ![A screenshot of configuring the manipulation ended](img/manupilation-ended.png)
 
      -  Select the **Cloth tag** in hierarchy, then in the **Inspector** window ensure the Cloth tag is **unchecked** as shown in the image below. This ensures that the tag is not active by default.
 
-        ![A screenshot of unchecking the cloth tag]({{ site.baseurl }}/assets/img/uncheck-cloth-tag.png)
+        ![A screenshot of unchecking the cloth tag](img/uncheck-cloth-tag.png)
 
 4. To reposition the product to its original position, go to the inspector window of the T-shirt_black_01 gameobject and select the **Add Component** button and add the **Reposition Object** script.  
 
@@ -68,7 +68,7 @@ Here we plan to integrate the product details into a **UX slate** and display it
 
     - From the **No Function** dropdown list, and select **RepositionObject** > **ProductLeft()** as shown in the image below.
 
-        ![A screenshot of adding the reposition]({{ site.baseurl }}/assets/img/add-reposition.png)
+        ![A screenshot of adding the reposition](img/add-reposition.png)
 
 ## Using solvers
 
@@ -82,10 +82,10 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
 
     - Add a **Box Collider** to the Cloth tag gameobject.
 
-        ![A screenshot of configuring solver handler script]({{ site.baseurl }}/assets/img/add-solver.png)
+        ![A screenshot of configuring solver handler script](img/add-solver.png)
 
 2. Again with the Cloth UI Tag selected, use the **Add Component** button in the **Inspector window** to add the Follow(Script). Configure the component as shown in the picture.
 
-    ![A screenshot of adding follow script]({{ site.baseurl }}/assets/img/add-follow.png)
+    ![A screenshot of adding follow script](img/add-follow.png)
 
 3. To make other products in the showroom interactable, repeat all steps from this lesson on each product that you would like to be interactable.

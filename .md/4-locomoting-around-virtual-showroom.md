@@ -2,7 +2,7 @@
 title: Locomotion and hand menus
 ---
 
-# Locomotion and hand menus
+# Locomotion and Hand Menus
 
 Locomotion is a movement that transports the users to their desired location. To incorporate locomotion in your project, follow the steps outlined below.
 
@@ -11,31 +11,31 @@ Locomotion is a movement that transports the users to their desired location. To
     - **Teleportation Provider**
     - **Snap Turn Provider**
     - **Locomotion System**
-    - **TeleportHeight**
+    - **Teleport Height**
 
-    ![A screenshot adding components]({{ site.baseurl }}/assets/img/components.png)
+    ![A screenshot adding components](img/components.png)
 
 2. In the **Inspector window**, select **Teleportation Provider** script, then to the **System** field drag and drop the **MRTK XR Rig**.
 
-    ![A screenshot adding MRTK XR Rig to Teleportation Provider]({{ site.baseurl }}/assets/img/select-teleportation-provider.png)
+    ![A screenshot adding MRTK XR Rig to Teleportation Provider](img/select-teleportation-provider.png)
 
 3. Select the **Snap Turn Provider** script and to the System field drag and drop the **MRTK XR Rig**, as shown in the image.  
 
-    ![A screenshot adding MRTK XR Rig to Snap Turn Provider]({{ site.baseurl }}/assets/img/select-snap-turn-provider.png)
+    ![A screenshot adding MRTK XR Rig to Snap Turn Provider](img/select-snap-turn-provider.png)
 
 4. Now click on **Locomotion System**, drag and drop the **MRTK XR Rig** to the **XR Origin** field.
 
-    ![A screenshot adding MRTK XR Rig to Locomotion System]({{ site.baseurl }}/assets/img/select-locomotion-system.png)
+    ![A screenshot adding MRTK XR Rig to Locomotion System](img/select-locomotion-system.png)
 
-5. Select **floor** gameobject, and in the **Inspector Window** add the following components:
+5. Select the **floor** GameObject, and in the **Inspector Window** add the following components:
 
     - Add a **Box Collider** to detect the floor for teleportation.
 
-        ![A screenshot adding box collider to the floor game object.]({{ site.baseurl }}/assets/img/add-box-collider-teleport.png)
+        ![A screenshot adding box collider to the floor game object.](img/add-box-collider-teleport.png)
 
     - Add a **Teleportation Area** script
 
-        ![A screenshot adding teleportation area to the floor game object.]({{ site.baseurl }}/assets/img/add-teleportion-area.png)
+        ![A screenshot adding teleportation area to the floor game object.](img/add-teleportion-area.png)
 
 When testing the app later, to teleport, point the ray from your hands or controllers to the desired location that you would like to teleport to and perform the select gesture or trigger.
 
@@ -49,7 +49,7 @@ This section walks you through implementation of both the hand menu and the slat
 
 1. From your project window, navigate to **Assets**>**MR_RetailShowroom**> **Prefab** and add the **HandMenu** prefab to the hierarchy window. From the same folder, add the **Feature Slate** prefab as a child of the **HandMenu** gameobject.
 
-    ![A screenshot adding handmenu to the project.]({{ site.baseurl }}/assets/img/hand-menu.png)
+    ![A screenshot adding handmenu to the project.](img/hand-menu.png)
 
 2. You may customize the slate by adding a **title** to **Feature Slate**>**TitleBar**>**Title** and editing the text in the **TextMeshPro-Text component** . You can also edit the text content in the Feature list by editing the TextMeshPro-Text component in **Feature Slate**>**TitleBar**>**Feature list**. Feel free to copy the text below for the Feature list content.
 
@@ -81,11 +81,11 @@ This section walks you through implementation of both the hand menu and the slat
 
     *To indicate that the hologram can be interacted with, a bounds control will display a box around it. Scaling, rotating, and translating the object is possible using the handles on the corners and edges of the box.*
 
-    ![A screenshot adding title and contents]({{ site.baseurl }}/assets/img/feature-slate.png)
+    ![A screenshot adding title and contents](img/feature-slate.png)
 
 3. Note that the HandMenu prefab contains a child object called **MenuContent**. This gameobject is visible in your scene as a blue button with an info icon. Double click the MenuContent gameobject to view this button in your scene window.
 
-    ![A screenshot customizing hand menu]({{ site.baseurl }}/assets/img/customize-hand-menu.png)
+    ![A screenshot customizing hand menu](img/customize-hand-menu.png)
 
 4. In the **hierarchy window**, select **Menu Content** > **ButtonsRow1** > **buttons** > **Info**, then in the inspector window, expand **pressable button.OnClick()** event as follows:
 
@@ -95,7 +95,7 @@ This section walks you through implementation of both the hand menu and the slat
 
     - Ensure that the **checkbox** is selected.
 
-        ![A screenshot configuring info button]({{ site.baseurl }}/assets/img/button-info.png)
+        ![A screenshot configuring info button](img/button-info.png)
 
     >[!Note]
     > Step 5 and Step 6 may already be preconfigured in your project.
@@ -110,7 +110,7 @@ This section walks you through implementation of both the hand menu and the slat
 
     - Verify that the argument checkbox is **checked**.
 
-        ![A screenshot configuring the On First Hand Detected ()]({{ site.baseurl }}/assets/img/on-first-hand-detected.png)
+        ![A screenshot configuring the On First Hand Detected ()](img/on-first-hand-detected.png)
 
 6. Configure the **On Last Hand Lost ()** as follows:
 
@@ -122,4 +122,4 @@ This section walks you through implementation of both the hand menu and the slat
 
     - Verify that the argument checkbox is **unchecked**.
 
-        ![A screenshot configuring the On last Hand lost ()]({{ site.baseurl }}/assets/img/on-last-hand-lost.png)
+        ![A screenshot configuring the On last Hand lost ()](img/on-last-hand-lost.png)

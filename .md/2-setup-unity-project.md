@@ -2,11 +2,11 @@
 title: Importing MRTK3 into a new Unity project 
 ---
 
-# Starting and configuring a new Unity project
+# Starting and Configuring a new Unity project
 
 We'll start by creating a new Unity project and configuring it for Windows Mixed Reality development.  
 
-# Create a new Unity project
+## Create a New Unity project
 
 1. Launch the **Unity Hub**.
 
@@ -16,8 +16,8 @@ We'll start by creating a new Unity project and configuring it for Windows Mixed
 
 4. Ensure the chosen template is **3D Core** or **3D Sample Scene (URP)**.
 
-    >[!Note]
-    >Creating your project using 3D Sample Scene (URP) may help increase the performance of your application.
+    >**Note:**
+    Creating your project using 3D Sample Scene (URP) may help increase the performance of your application.
 
 5. In the **Project name** box, enter a name for your project--for example, "MRTKV3_Showroom."
 
@@ -25,14 +25,14 @@ We'll start by creating a new Unity project and configuring it for Windows Mixed
 
 7. Click **Create Project**. This opens your project in Unity.
 
-    >[!Caution]
-    >When working on Windows, there is a file path limit of 255 characters. Unity may fail to compile your app if any file path is longer than 255 characters.
+    >**Caution:**
+    When working on Windows, there is a file path limit of 255 characters. Unity may fail to compile your app if any file path is longer than 255 characters.
 
 ## Import the MRTK3 unity package
 
 To import the Mixed Reality Toolkit into your project we'll use the Mixed Reality Feature Tool, which allows developers to discover, update, and import mixed reality feature packages.
 
-1. Download the latest version of the Mixed Reality Feature Tool from the [Microsoft Download Center](https://aka.ms/MRFeatureTool).
+1. Download the latest version of the Mixed Reality Feature Tool from the [**Microsoft Download Center**](https://aka.ms/MRFeatureTool).
 
 2. Unzip the folder and double click **MixedRealityFeatureTool.exe** to launch the Mixed Reality Feature Tool.
 
@@ -52,8 +52,8 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of selecting the Browse button.](img/select-browse-button.png)
 
-    >[!Note]
-    >The Project Path box in the Tool must contain some value, so it inserts a backslash ("_") by default.
+    >**Note:**
+    The Project Path box in the Tool must contain some value, so it inserts a backslash ("_") by default.
 
 7. After you select a folder, the tool checks to ensure that you have selected a folder that contains a valid Unity project. 
 
@@ -61,8 +61,8 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of selecting Discover Features](img/project-path.png)
 
-    >[!Note]
-    >You may need to wait a few seconds while the Tool refreshes the packages from the feeds.
+    >**Note:**
+    You may need to wait a few seconds while the Tool refreshes the packages from the feeds.
 
 9. On the **Discover Features** page, note that there is a list of seven package groups.
 
@@ -72,8 +72,8 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of selecting all.](img/mrtk-packages-ft.png)
 
-    >[!Note]
-    >The Mixed Reality Toolkit Foundation package is the primary package that must be imported and configured in order to use MRTK with your project. This package includes the core components required to create a mixed reality application.
+    >**Note:**
+    The Mixed Reality Toolkit Foundation package is the primary package that must be imported and configured to use MRTK with your project. This package includes the core components required to create a mixed reality application.
 
 11. Click the "+" button to the left of **Platform Support (0 of 5)** and then select the latest version of **Mixed Reality OpenXR Plugin**.
 
@@ -89,7 +89,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 16. Select **Approve**.
 
-17. Return to the Unity Editor. You'll see a progress bar showing you that your packages are being imported. You may need to click anywhere in the Unity window in order to trigger the package import if you do not see the progress bar.
+17. Return to the Unity Editor. You'll see a progress bar showing you that your packages are being imported. You may need to click anywhere in the Unity window to trigger the package import if you do not see the progress bar.
 
 ## Configure the unity project
 
@@ -101,14 +101,14 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of the warning asking if you have backup.](img/backup-created.png)
 
-3. In the menu bar, select **File** > **Build Settings**. If you see an OpenXR Project Validation window or pop-up warning with issues, feel free to ignore the warning as it will be addressed later in this tutorial.
+3. In the menu bar, select **File**  **Build Settings**. If you see an OpenXR Project Validation window or pop-up warning with issues, feel free to ignore the warning as it will be addressed later in this tutorial.
 
 4. In the **Build Settings** window, select **Universal Windows Platform** and click on **Switch Platform**. Follow the instructions below if you do not have the **Universal Windows Platform** module installed in Unity. If you do, feel free to skip to Step 5.
 
     ![A screenshot of switching platform.](img/switch-platform-mrtk3.png)
 
-    >[!Note]
-    >To have the Universal Windows Platform option enabled in the Build Settings Window, ensure that Universal windows platform is checked while you download the respective unity version through Unity Hub
+    >**Note:**
+    To have the Universal Windows Platform option enabled in the Build Settings Window, ensure that Universal windows platform is checked while you download the respective unity version through Unity Hub
 
     - Click on **settings** of the respective version, then select **Add modules**.
 
@@ -117,10 +117,10 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     - Now ensure that **Universal Windows Platform Build Support** is **checked**, then click **Install**.
 
         ![A screenshot of ensuring Universal Windows Platform Build Support is checked.](img/uwp.png)
-    >[!Note]
-    >To reload the packages and avoid errors, close and re - open the project.
+    >**Note:**
+    To reload the packages and avoid errors, close and re - open the project.
 
-5. Navigate to **Edit** > **Project settings**. Ensure that you're on the **XR Plug-in Management** section with the **Universal Windows Platform** settings (Windows logo tab) displayed.
+5. Navigate to **Edit**  **Project settings**. Ensure that you're on the **XR Plug-in Management** section with the **Universal Windows Platform** settings (Windows logo tab) displayed.
 
     ![A screenshot of configuring XR-plug-in Management.](img/xr-plugin-management.png)
 
@@ -166,12 +166,12 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of assigning MRTK profile.](img/assign-mrtk-profile.png)
 
-    >Note
-    >Once the MRTK settings are completed the errors in the console can be cleared.
+    Note
+    Once the MRTK settings are completed the errors in the console can be cleared.
 
 ## Create the scene and configure MRTK
 
-1. In the menu bar, select **File** > **New Scene**.
+1. In the menu bar, select **File**  **New Scene**.
 
 2. In the New Scene window select **Basic (Built-in)** and then click **Create**. Save the new scene with a name of your choice.
 
@@ -187,24 +187,24 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 ## Installing URP
 
-1. In **Menu Bar** navigate to **Window** > **Package Manager** and install the latest version of **Universal Render Pipeline**, which may appear listed as **Universal RP**. If you created your Unity project with Universal Render Pipeline previously, then this package may already be installed.
+1. In **Menu Bar** navigate to **Window**  **Package Manager** and install the latest version of **Universal Render Pipeline**, which may appear listed as **Universal RP**. If you created your Unity project with Universal Render Pipeline previously, then this package may already be installed.
 
-2. Now to create the **URP pipeline asset**, in **Project window** right-click on Asset and navigate to **Create** > **Rendering** > **Universal Render Pipeline** > **Pipeline Asset (Forward Renderer)**. The default name for this asset will be UniveralRenderPipelineAsset.
+2. Now to create the **URP pipeline asset**, in **Project window** right-click on Asset and navigate to **Create**  **Rendering**  **Universal Render Pipeline**  **Pipeline Asset (Forward Renderer)**. The default name for this asset will be UniveralRenderPipelineAsset.
 
-3. Configure the Project settings by navigating to **Edit** > **Project settings** > **Graphics**. In **Scriptable Render pipeline settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
+3. Configure the Project settings by navigating to **Edit**  **Project settings**  **Graphics**. In **Scriptable Render pipeline settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
 
 ## Import the virtual showroom Unity package
 
 To get started, first download the following **Unity custom package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
 
-1. In the Unity menu, select **Assets** > **Import Package** > **Custom Package....**
+1. In the Unity menu, select **Assets**  **Import Package**  **Custom Package....**
 
 2. In **Import package**, select the custom unity package that you downloaded, and then select **Open**.
 
 3. In **Import Unity Package** windows, select ensure that all the assets will be imported. Then select **Import**.
 
-    >[!Note]
-    >You may click clear or ignore on any warnings that may appear during the import.
+    >**Note:**
+    You may click clear or ignore on any warnings that may appear during the import.
 
 4. In the Assets folder, click on the **MR_RetailShowroom** folder, then open the **prefab** folder and drag and drop the **Retail Dress Showroom** model to **hierarchy** window and configure the transform component of this prefab as follows:
 
@@ -212,9 +212,9 @@ To get started, first download the following **Unity custom package**: [MR_Retai
     - **Rotation**: X = 0, Y = 0, Z = 0
     - **Scale**: X = 0.83, Y = 0.83, Z = 0.83
 
-    > [!Note]
-    > When in game mode, ignore the index out of range error as it appears recursively.
+     >**Note:**
+     When in game mode, ignore the index out of range error as it appears recursively.
 
-5. In the Hierarchy window, expand **MRTK XR Rig** > **Camera Offset** > **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera** > **Rendering** > **Post processing** and select the checkbox as shown in the figure. This step is optional, but provides enhanced visual effects for the imported showroom. 
+5. In the Hierarchy window, expand **MRTK XR Rig**  **Camera Offset**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera**  **Rendering**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
 
     ![A screenshot of enabling post processing.](img/enable-post-processing.png)
