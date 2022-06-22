@@ -29,3 +29,69 @@ In this workshop, you will learn how to create a multi-platform virtual showroom
 - Basic familiarity with the HoloLens 2 and/or Meta Quest. 
 
 - Please see [this](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools) for a comprehensive list of prerequisites and installation resources.
+
+# Table of Contents 
+1.) [**Introduction**](1-introduction.md)
+    
+- Brief overview of MRTK3
+
+- A list of key improvements included in MRTK3
+
+- Architectural improvements of MRTK3
+
+- Features included in MRTK3.
+
+2.) [**Set up a  New Unity Project with MRTK3**](2-setup-unity-project.md)
+
+- Create a Unity project
+
+- Import MRTK3 into the project
+
+- Configure Unity project 
+
+- Configure MRTK profile
+
+- Create a scene and configure MRTK3
+
+- Import 3D assets of virtual showroom
+
+3.) [**Configure your virtual showroom with interactivity**](3-configure-virtual-showroom.md)
+
+
+-	Make objects interactive
+
+-	Set up UX elements
+
+-	Using solvers
+
+-	Testing your application within the Unity editor
+
+4.) [**Locomotion and hand menus**](4-locomoting-around-virtual-showroom.md)
+
+-	Locomotion on MRTK3
+
+-	Hand menu, UI slate, and Whiteboard features
+
+5.) [**Build and deploy to HoloLens 2 or Oculus Quest**](5-build-deploy.md)
+-	*HoloLens 2*
+
+    -	Build your application from Unity
+
+    -	Build and deploy to HoloLens 2 from Visual Studio
+
+    -	Pairing your device
+
+    -	Running your app on the HoloLens 2
+
+    -	Tips and best practices
+- *Meta Quest*
+
+    - Porting to Meta Quest
+    
+    - Build for Meta Quest
+    - Deploy to Meta Quest
+    - Running your app on the Meta Quest.
+
+
+
+

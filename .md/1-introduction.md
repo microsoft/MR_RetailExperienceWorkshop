@@ -10,20 +10,20 @@ MRTK3 supports a variety of features such as a cross-platform input system, buil
 
 MRTK3 includes several key improvements over previous versions of MRTK, as outlined below:
 
-### Architecture
+### **Architecture**
 
 The MRTK3 architecture is built on the Unity XR Interaction Toolkit and the Unity Input System. The platform is OpenXR-focused with flexible interaction paradigms.
 
-### Performance
+### **Performance**
 
 MRTK3 rewrote a wide range of features to boost performance. As a result, users can expect lower barriers to performant applications on the HoloLens 2 and other mixed reality headsets when building with MRTK3.
 
-### User interface
+### **User interface**
 
 MRTK3 has introduced new interaction models along with an updated mixed reality design language. This includes dynamic auto-layout UI, unified 2D & 3D input support including gamepad and mouse, and increased accessibility support. Data binding for branding, theming, dynamic data, and complex lists are also now included in MRTK3.
 
-### Accessibility
+### **Accessibility**
 
-MRTK3 features low vision aids and input assistance in order to facilitate the creation of applications that are accessible and inclusive.
+MRTK3 features low vision aids and input assistance to facilitate the creation of applications that are accessible and inclusive.
 
 During the course of the workshop, you'll learn about the core offerings of MRTK3 by creating a virtual showroom that touches on the most exciting components that the toolkit has to offer.
