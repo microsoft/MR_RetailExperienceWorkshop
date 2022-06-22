@@ -33,64 +33,63 @@ In this workshop, you will learn how to create a multi-platform virtual showroom
 # Table of Contents 
 1.) [**Introduction**](1-introduction.md)
     
-- Brief overview of MRTK3
+- Brief Overview of MRTK3
 
-- A list of key improvements included in MRTK3
+- Features and Improvements
 
-- Architectural improvements of MRTK3
 
-- Features included in MRTK3.
-
-2.) [**Set up a  New Unity Project with MRTK3**](2-setup-unity-project.md)
+2.) [**Set Up a New Unity Project with MRTK3**](2-setup-unity-project.md)
 
 - Create a Unity project
 
-- Import MRTK3 into the project
+- Import MRTK3 Into the Project
 
-- Configure Unity project 
+- Configure Unity Project 
 
-- Configure MRTK profile
+- Configure MRTK Profile
 
-- Create a scene and configure MRTK3
+- Create a Scene and Configure MRTK3
 
-- Import 3D assets of virtual showroom
+- Import 3D Assets of Virtual Showroom
 
-3.) [**Configure your virtual showroom with interactivity**](3-configure-virtual-showroom.md)
+3.) [**Configure Your Virtual Showroom With Interactivity**](3-configure-virtual-showroom.md)
 
 
--	Make objects interactive
+-	Make Objects Interactive
 
--	Set up UX elements
+-	Set Up UX Elements
 
--	Using solvers
+-	Using Solvers
 
--	Testing your application within the Unity editor
+-	Testing Your Application Within the Unity Editor
 
-4.) [**Locomotion and hand menus**](4-locomoting-around-virtual-showroom.md)
+4.) [**Locomotion and Hand Menus**](4-locomoting-around-virtual-showroom.md)
 
--	Locomotion on MRTK3
+-	Locomotion On MRTK3
 
--	Hand menu, UI slate, and Whiteboard features
+-	Hand Menu, UI Slate, and Whiteboard Features
 
-5.) [**Build and deploy to HoloLens 2 or Oculus Quest**](5-build-deploy.md)
+5.) [**Build and Deploy to HoloLens 2 or Oculus Quest**](5-build-deploy.md)
 -	*HoloLens 2*
 
-    -	Build your application from Unity
+    -	Build Your Application From Unity
 
-    -	Build and deploy to HoloLens 2 from Visual Studio
+    -	Build and Deploy to HoloLens 2 From Visual Studio
 
-    -	Pairing your device
+    -	Pairing Your Device
 
-    -	Running your app on the HoloLens 2
+    -	Running Your App on the HoloLens 2
 
-    -	Tips and best practices
+    -	Tips and Best Practices
 - *Meta Quest*
 
     - Porting to Meta Quest
     
     - Build for Meta Quest
+    
     - Deploy to Meta Quest
-    - Running your app on the Meta Quest.
+    
+    - Running Your App on the Meta Quest.
 
 
 
