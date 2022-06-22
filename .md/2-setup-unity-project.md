@@ -36,21 +36,21 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 2. Unzip the folder and double click **MixedRealityFeatureTool.exe** to launch the Mixed Reality Feature Tool.
 
-    ![A screenshot of launching the Mixed Reality Feature Tool.]({{ site.baseurl }}/assets/img/open-mixed-reality-feature-tool.png)
+    ![A screenshot of launching the Mixed Reality Feature Tool.](img/open-mixed-reality-feature-tool.png)
 
 3. In the Mixed Reality Feature Tool, select **Start**.
 
-    ![A screenshot of selecting start.]({{ site.baseurl }}/assets/img/mixed-reality-feature-tool.png)
+    ![A screenshot of selecting start.]({{ site.baseurl }}/img/mixed-reality-feature-tool.png)
 
 4. To access the **MRTK3 preview packages**, click on the **settings icon** at the bottom-left of the window. Switch to the **Feature** tab and ensure that **Show preview releases** is checked.
 
-    ![A screenshot of accessing MRTK3 preview packages.]({{ site.baseurl }}/assets/img/enable-preview-packages.png)
+    ![A screenshot of accessing MRTK3 preview packages.](img/enable-preview-packages.png)
 
 5. Click on **Ok** to apply the settings.
 
 6. Select the browse button (button highlighted with a red box in the image below), then navigate to your project and open it.
 
-    ![A screenshot of selecting the Browse button.]({{ site.baseurl }}/assets/img/select-browse-button.png)
+    ![A screenshot of selecting the Browse button.](img/select-browse-button.png)
 
     >[!Note]
     >The Project Path box in the Tool must contain some value, so it inserts a backslash ("_") by default.
@@ -59,25 +59,25 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 8. Select **Discover Features**.
 
-    ![A screenshot of selecting Discover Features]({{ site.baseurl }}/assets/img/project-path.png)
+    ![A screenshot of selecting Discover Features](img/project-path.png)
 
     >[!Note]
     >You may need to wait a few seconds while the Tool refreshes the packages from the feeds.
 
 9. On the **Discover Features** page, note that there is a list of seven package groups.
 
-    ![A screenshot of list of seven package groups.]({{ site.baseurl }}/assets/img/mrft-groups.png)
+    ![A screenshot of list of seven package groups.](img/mrft-groups.png)
 
 10. Click the "+" button next to **MRTK3 (0 of 13)** and then click on **Select All**
 
-    ![A screenshot of selecting all.]({{ site.baseurl }}/assets/img/mrtk-packages-ft.png)
+    ![A screenshot of selecting all.](img/mrtk-packages-ft.png)
 
     >[!Note]
     >The Mixed Reality Toolkit Foundation package is the primary package that must be imported and configured in order to use MRTK with your project. This package includes the core components required to create a mixed reality application.
 
 11. Click the "+" button to the left of **Platform Support (0 of 5)** and then select the latest version of **Mixed Reality OpenXR Plugin**.
 
-    ![A screenshot of selecting the latest version of Mixed Reality OpenXR plugin.]({{ site.baseurl }}/assets/img/package-selections.png)
+    ![A screenshot of selecting the latest version of Mixed Reality OpenXR plugin.](img/package-selections.png)
 
 12. After you've made your selection(s), click **Get Features**.
 
@@ -95,46 +95,46 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 1. After Unity has imported the packages, a warning appears asking if you want to enable the backends by restarting the editor. Select **Yes**.
 
-    ![A screenshot of the warning.]({{ site.baseurl }}/assets/img/warning-restart.png)
+    ![A screenshot of the warning.](img/warning-restart.png)
 
 2. You will encounter another warning asking if you have created a backup. Click on **I Made a Backup, Go Ahead!** Wait for the project to **restart**.
 
-    ![A screenshot of the warning asking if you have backup.]({{ site.baseurl }}/assets/img/backup-created.png)
+    ![A screenshot of the warning asking if you have backup.](img/backup-created.png)
 
 3. In the menu bar, select **File** > **Build Settings**. If you see an OpenXR Project Validation window or pop-up warning with issues, feel free to ignore the warning as it will be addressed later in this tutorial.
 
 4. In the **Build Settings** window, select **Universal Windows Platform** and click on **Switch Platform**. Follow the instructions below if you do not have the **Universal Windows Platform** module installed in Unity. If you do, feel free to skip to Step 5.
 
-    ![A screenshot of switching platform.]({{ site.baseurl }}/assets/img/switch-platform-mrtk3.png)
+    ![A screenshot of switching platform.](img/switch-platform-mrtk3.png)
 
     >[!Note]
     >To have the Universal Windows Platform option enabled in the Build Settings Window, ensure that Universal windows platform is checked while you download the respective unity version through Unity Hub
 
     - Click on **settings** of the respective version, then select **Add modules**.
 
-        ![A screenshot of Adding module.]({{ site.baseurl }}/assets/img/add-module.png)
+        ![A screenshot of Adding module.](img/add-module.png)
 
     - Now ensure that **Universal Windows Platform Build Support** is **checked**, then click **Install**.
 
-        ![A screenshot of ensuring Universal Windows Platform Build Support is checked.]({{ site.baseurl }}/assets/img/uwp.png)
+        ![A screenshot of ensuring Universal Windows Platform Build Support is checked.](img/uwp.png)
     >[!Note]
     >To reload the packages and avoid errors, close and re - open the project.
 
 5. Navigate to **Edit** > **Project settings**. Ensure that you're on the **XR Plug-in Management** section with the **Universal Windows Platform** settings (Windows logo tab) displayed.
 
-    ![A screenshot of configuring XR-plug-in Management.]({{ site.baseurl }}/assets/img/xr-plugin-management.png)
+    ![A screenshot of configuring XR-plug-in Management.](img/xr-plugin-management.png)
 
 6. Select **OpenXR** and wait for the packages to install. There may be a yellow warning triangle next to OpenXR. Hover your cursor over the triangle if you wish to read the message in the popup, and then select the triangle to open the OpenXR Project Validation window.
 
-    ![A screenshot of warning to fix OpenXR.]({{ site.baseurl }}/assets/img/warning-fix-openxr.png)
+    ![A screenshot of warning to fix OpenXR.](img/warning-fix-openxr.png)
 
 7. In the **OpenXR Project Validation window**, there are several issues listed. Select the Fix All button. If you see an issue stating that "at least one interaction profile must be added", feel free to ignore this as this will be covered over the next few steps.
 
-    ![A screenshot of selecting Fix All button.]({{ site.baseurl }}/assets/img/fix-all-openxr.png)
+    ![A screenshot of selecting Fix All button.](img/fix-all-openxr.png)
 
 8. Check the **Microsoft HoloLens feature group** checkbox.
 
-    ![A screenshot of enabling the checkbox.]({{ site.baseurl }}/assets/img/microsoft-hololens-feature-group.png)
+    ![A screenshot of enabling the checkbox.](img/microsoft-hololens-feature-group.png)
 
 9. Select the **OpenXR** submenu that is under the XR Plug-in Management menu item, as indicated in the figure. In the **Interaction Profiles** section, select the plus sign (+) button three times, each time choosing one of the following profiles:
 
@@ -142,29 +142,29 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     - Microsoft Hand Interaction Profile
     - Microsoft Motion Controller Profile
 
-    ![A screenshot of choosing different profile.]({{ site.baseurl }}/assets/img/interaction-profiles.png)
+    ![A screenshot of choosing different profile.](img/interaction-profiles.png)
 
 10. If the **Eye Gaze Interaction Profile**, or any other profile, appears with a yellow triangle next to it, select the triangle, and then in the **OpenXR Project Validation window**, click the **Fix** button. When you're finished, close the **OpenXR Project Validation window**
 
-    ![A screenshot of fixing Eye Gaze.]({{ site.baseurl }}/assets/img/eye-gaze-fix.png)
+    ![A screenshot of fixing Eye Gaze.](img/eye-gaze-fix.png)
 
 11. Click the **Depth Submission Mode** drop down and then select **Depth 16 Bit**.
 
-    ![A screenshot of selecting depth 16 Bit.]({{ site.baseurl }}/assets/img/depth.png)
+    ![A screenshot of selecting depth 16 Bit.](img/depth.png)
 
 ## Configure MRTK3 Profile
 
 1. In the **Project settings** window, click on **MRTK3** option.
 
-    ![A screenshot of selecting MRTK3 option.]({{ site.baseurl }}/assets/img/mrtk-profile.png)
+    ![A screenshot of selecting MRTK3 option.](img/mrtk-profile.png)
 
 2. Click on the **circular icon** next to the profile field that says **None (MRTK Profile)** to assign the MRTK profile. In the **Select MRTK Profile** window that appears, click on the eye icon to show the hidden items, and select the **MRTKProfile**.
 
-    ![A screenshot of setting the MRTK profile]({{ site.baseurl }}/assets/img/set-mrtk-profile.png)
+    ![A screenshot of setting the MRTK profile](img/set-mrtk-profile.png)
 
 3. After selecting the profile named MRTKProfile, you may close the Select **MRTK Profile** window. Your MRTK3 section in the **Project Settings** should look like the image below.
 
-    ![A screenshot of assigning MRTK profile.]({{ site.baseurl }}/assets/img/assign-mrtk-profile.png)
+    ![A screenshot of assigning MRTK profile.](img/assign-mrtk-profile.png)
 
     >Note
     >Once the MRTK settings are completed the errors in the console can be cleared.
@@ -183,7 +183,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     - Rotation: X = 0, Y = 0, Z = 0
     - Scale: X = 1, Y = 1, Z = 1
 
-        ![A screenshot of configure transform.]({{ site.baseurl }}/assets/img/filter-all.png)
+        ![A screenshot of configure transform.](img/filter-all.png)
 
 ## Installing URP
 
@@ -217,4 +217,4 @@ To get started, first download the following **Unity custom package**: [MR_Retai
 
 5. In the Hierarchy window, expand **MRTK XR Rig** > **Camera Offset** > **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera** > **Rendering** > **Post processing** and select the checkbox as shown in the figure. This step is optional, but provides enhanced visual effects for the imported showroom. 
 
-    ![A screenshot of enabling post processing.]({{ site.baseurl }}/assets/img/enable-post-processing.png)
+    ![A screenshot of enabling post processing.](img/enable-post-processing.png)
