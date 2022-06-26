@@ -22,8 +22,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: OSB_Text
   m_Shader: {fileID: 4800000, guid: c331f6c43a2ef0945864cb668f2653c9, type: 3}
-  m_ShaderKeywords: _DIRECTIONAL_LIGHT _HOVER_LIGHT _LOCAL_SPACE_TRIPLANAR_MAPPING
-    _NORMAL_MAP _SPECULAR_HIGHLIGHTS _TRIPLANAR_MAPPING _USE_WORLD_SCALE
+  m_ShaderKeywords: _DIRECTIONAL_LIGHT _HOVER_LIGHT _NORMAL_MAP _RIM_LIGHT _SPECULAR_HIGHLIGHTS
+    _USE_WORLD_SCALE
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -68,7 +68,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: c92c72d1fe8118940967e8be5fb8af09, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 4, y: 4}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -138,12 +138,12 @@ Material:
     - _EnableChannelMap: 0
     - _EnableEmission: 0
     - _EnableHoverColorOverride: 0
-    - _EnableLocalSpaceTriplanarMapping: 1
+    - _EnableLocalSpaceTriplanarMapping: 0
     - _EnableNormalMap: 1
     - _EnableProximityLightColorOverride: 0
     - _EnableSSAA: 0
     - _EnableStencil: 0
-    - _EnableTriplanarMapping: 1
+    - _EnableTriplanarMapping: 0
     - _EnvironmentColorIntensity: 0.5
     - _EnvironmentColorThreshold: 1.5
     - _EnvironmentColoring: 0
@@ -182,13 +182,13 @@ Material:
     - _Refraction: 0
     - _RefractiveIndex: 0
     - _RenderQueueOverride: -1
-    - _RimLight: 0
-    - _RimPower: 0.25
+    - _RimLight: 1
+    - _RimPower: 0.17
     - _RoundCornerMargin: 0.01
     - _RoundCornerRadius: 0.25
     - _RoundCorners: 0
     - _RoundCornersHideInterior: 0
-    - _Smoothness: 0.122
+    - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SphericalHarmonics: 0
@@ -199,7 +199,7 @@ Material:
     - _StencilReference: 0
     - _StencilWriteMask: 255
     - _Surface: 0
-    - _TriplanarMappingBlendSharpness: 4
+    - _TriplanarMappingBlendSharpness: 14.67
     - _UVSec: 0
     - _UseWorldScale: 1
     - _VertexColors: 0
@@ -234,7 +234,7 @@ Material:
     - _ProximityLightCenterColorOverride: {r: 1, g: 0, b: 0, a: 0}
     - _ProximityLightMiddleColorOverride: {r: 0, g: 1, b: 0, a: 0.5}
     - _ProximityLightOuterColorOverride: {r: 0, g: 0, b: 1, a: 1}
-    - _RimColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _RimColor: {r: 0.0754717, g: 0.073620506, b: 0.073620506, a: 1}
     - _RoundCornersRadius: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
