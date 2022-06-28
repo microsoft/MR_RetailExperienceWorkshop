@@ -29,4 +29,4 @@ MRTK3 features low vision aids and input assistance to facilitate the creation o
 Throughout this workshop, you'll learn about the core offerings of MRTK3 by creating a virtual showroom that includes some of the most exciting components this toolkit offers.
 
 ---
-## [Next Section: Starting and Configuring a ew Unity project](2-setup-unity-project.md)
+## [Next Section: Starting and Configuring a New Unity project](2-setup-unity-project.md)
