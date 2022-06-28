@@ -37,7 +37,7 @@ In this workshop, you will learn how to create a multi-platform virtual showroom
 - Features and Improvements
 
 
-2.) [**Set Up a New Unity Project with MRTK3**](2-setup-unity-project.md)
+2.) [**Set Up a New Unity Project With MRTK3**](2-setup-unity-project.md)
 
 - Create a Unity project
 

@@ -7,7 +7,7 @@ title: Importing MRTK3 into a new Unity project
 
 We'll start by creating a new Unity project and configuring it for Windows Mixed Reality development.  
 
-## Create a New Unity project
+## Create a New Unity Project
 
 1. Launch the **Unity Hub**.
 
@@ -29,7 +29,7 @@ We'll start by creating a new Unity project and configuring it for Windows Mixed
     >**Caution:**
     When working on Windows, there is a file path limit of 255 characters. Unity may fail to compile your app if any file path is longer than 255 characters.
 
-## Import the MRTK3 unity package
+## Import the MRTK3 Unity Package
 
 To import the Mixed Reality Toolkit into your project we'll use the Mixed Reality Feature Tool, which allows developers to discover, update, and import mixed reality feature packages.
 
@@ -92,7 +92,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 17. Return to the Unity Editor. You'll see a progress bar showing you that your packages are being imported. You may need to click anywhere in the Unity window to trigger the package import if you do not see the progress bar.
 
-## Configure the unity project
+## Configure the Unity Project
 
 1. After Unity has imported the packages, a warning appears asking if you want to enable the backends by restarting the editor. Select **Yes**.
 
@@ -170,7 +170,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     Note
     Once the MRTK settings are completed the errors in the console can be cleared.
 
-## Create the scene and configure MRTK
+## Create the Scene and Configure MRTK
 
 1. In the menu bar, select **File**  **New Scene**.
 
@@ -192,11 +192,11 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 2. Now to create the **URP pipeline asset**, in **Project window** right-click on Asset and navigate to **Create**  **Rendering**  **Universal Render Pipeline**  **Pipeline Asset (Forward Renderer)**. The default name for this asset will be UniveralRenderPipelineAsset.
 
-3. Configure the Project settings by navigating to **Edit**  **Project settings**  **Graphics**. In **Scriptable Render pipeline settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
+3. Configure the Project settings by navigating to **Edit**  **Project Settings**  **Graphics**. In **Scriptable Render Pipeline Settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
 
-## Import the virtual showroom Unity package
+## Import the Virtual Showroom Unity Package
 
-To get started, first download the following **Unity custom package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
+To get started, first download the following **Unity Custom Package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
 
 1. In the Unity menu, select **Assets**  **Import Package**  **Custom Package....**
 
@@ -216,9 +216,9 @@ To get started, first download the following **Unity custom package**: [MR_Retai
      >**Note:**
      When in game mode, ignore the index out of range error as it appears recursively.
 
-5. In the Hierarchy window, expand **MRTK XR Rig**  **Camera Offset**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera**  **Rendering**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
+5. In the Hierarchy window, expand **MRTK XR Rig >**  **Camera Offset >**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera >**  **Rendering >**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
 
     ![A screenshot of enabling post processing.](img/enable-post-processing.png)
 
 ---
-## [Next Section: Configure Your Virtual Showroom With Interactivity](3-configure-virtual-showroom.md)
+## [Next Section: Configure Your Virtual Showroom With Interactivity](3-configure-virtual-showroom.md) 
