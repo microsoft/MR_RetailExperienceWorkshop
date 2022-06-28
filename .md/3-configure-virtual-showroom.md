@@ -7,7 +7,7 @@ title: Configuring the virtual showroom
 
 1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with your hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects.
 
-    - In the hierarchy window, **Retail Dress Showroom** > **Dress_FBX**, select the GameObject **T-shirt_black_01**. Now in inspector window click the **Add Component** button, then search for and select the **ObjectManipulator** script.
+    - In the hierarchy window, **Retail Dress Showroom** > **Dress_FBX**, select the GameObject **T-shirt_black_01**. Now in the inspector window click the **Add Component** button, then search for and select the **ObjectManipulator** script.
 
     - The **ObjectManipulator** script makes an object movable, scalable, and rotatable using one or two hands. When you add the Object Manipulator script, the **Constraint Manager** script is automatically added as well because the Object Manipulator script depends on it.
 
@@ -17,7 +17,7 @@ title: Configuring the virtual showroom
 
         ![A screenshot of adding box collider.](img/add-box-collider.png)
 
-2. In the hierarchy window, expand **Retail Dress Showroom** > **Table**. Then, select the GameObject **Food Pouch 2** to add Bounds Control Script to make the GameObject "Scalable". With the game object still selected in the **Hierarchy** window, click on the **Add Component** button and select **Bounds Control**.
+2. In the hierarchy window, expand **Retail Dress Showroom** > **Table**. Then, select the GameObject **Food Pouch 2** to add the Bounds Control Script to make the GameObject "Scalable". With the game object still selected in the **Hierarchy** window, click on the **Add Component** button and select **Bounds Control**.
 
     ![A screenshot of adding bounds control](img/bounds-control.png)
 
@@ -41,7 +41,7 @@ Here we plan to integrate the product details into a **UX Slate** and display it
 
         ![A screenshot of importing TextMeshPro.](img/import-tmp.png)
 
-2. Adjust transform component of the UI tag to place it comfortably and correctly near the product (T-shirt_black_01.) This may involve moving, scaling, and rotating the product tag.
+2. Adjust the transform component of the UI tag to place it comfortably and correctly near the product (T-shirt_black_01.) This may involve moving, scaling, and rotating the product tag.
 
 3. We would like to have the UI tag appear when the user is interacting with the product and hidden when the user is not interacting with the product. To automatically activate and deactivate the tags, follow the instructions below.  
 
@@ -77,7 +77,7 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
 
 1. In the **Hierarchy window**, select the Cloth UI Tag. Then, in **Inspector**, use **Add Component** to add the **Solver Handler** (Script) component. Configure the component as follows:
 
-    - Verify that the SolverHandler component's Tracked Target Type is set to **Head**.
+    - Verify that the Solver Handler component's Tracked Target Type is set to **Head**.
 
     - Verify that the Update Solvers checkbox is **checked**.
 
