@@ -1,7 +1,7 @@
 ---
 title: Configuring the virtual showroom
 ---
-### [Previous Section: Starting and Configuring a New Unity Project](2-setup.unity.project.md)
+### [Previous Section: Starting and Configuring a New Unity Project](2-setup-unity-project.md)
 
 # Configure Your Virtual Showroom With Interactivity
 
