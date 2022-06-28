@@ -6,7 +6,7 @@ title:  Build and deploy
 
 ## Build Your Application in Unity
 
-1. In the menu bar, **select File**  **Build Settings**.
+1. In the menu bar, select  **File >**  **Build Settings**.
 
 2. In the **Build Settings** window, click the **Add Open Scenes** button to add your current scene to the **Scenes In Build** list. You may need to remove any other scenes from your list if you have more than one scene (e.g., the default "SampleScene").
 
@@ -70,7 +70,7 @@ Before building to your device, the device must be in **Developer Mode** and pai
 
     ![A screenshot of selecting start without debugging](img/select-start-without-debug.png)
 
-### Pairing your device
+### Pairing Your Device
 
 The first time you deploy an app to your HoloLens from your PC, you'll be prompted for a PIN. To create a PIN:
 
@@ -82,7 +82,7 @@ The first time you deploy an app to your HoloLens from your PC, you'll be prompt
 
 4. After pairing is complete, in the HoloLens, select Done. Your PC is now paired with your HoloLens and you can deploy apps automatically. Repeat these steps for every PC that's used to deploy apps to your HoloLens.  
 
-### Running your app on your HoloLens
+### Running Your App on Your HoloLens
 
 1. After your app finishes building, in the HoloLens Start menu, find the app tile for your app and select it.
 
