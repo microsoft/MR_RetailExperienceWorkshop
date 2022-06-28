@@ -129,7 +129,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of warning to fix OpenXR.](img/warning-fix-openxr.png)
 
-7. In the **OpenXR Project Validation window**, there are several issues listed. Select the Fix All button. If you see an issue stating that "at least one interaction profile must be added", feel free to ignore this as this will be covered over the next few steps.
+7. In the **OpenXR Project Validation window**, there may be several issues listed. Select the Fix All button. If you see an issue stating that "at least one interaction profile must be added", feel free to ignore this as this will be covered over the next few steps.
 
     ![A screenshot of selecting Fix All button.](img/fix-all-openxr.png)
 
@@ -159,16 +159,16 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of selecting MRTK3 option.](img/mrtk-profile.png)
 
-2. Click on the **circular icon** next to the profile field that says **None (MRTK Profile)** to assign the MRTK profile. In the **Select MRTK Profile** window that appears, click on the eye icon to show the hidden items, and select the **MRTKProfile**.
+2. Click on the **circular icon** next to the profile field that says **None (MRTK Profile)** to assign the MRTK profile. In the **Select MRTK Profile** window that appears, click on the eye icon to show the hidden items. Then select the **MRTKProfile**.
 
     ![A screenshot of setting the MRTK profile](img/set-mrtk-profile.png)
 
-3. After selecting the profile named MRTKProfile, you may close the Select **MRTK Profile** window. Your MRTK3 section in the **Project Settings** should look like the image below.
+3. After selecting the MRTKProfile, you may close the Select **MRTK Profile** window. Your MRTK3 section in the **Project Settings** should look like the image below.
 
     ![A screenshot of assigning MRTK profile.](img/assign-mrtk-profile.png)
 
-    Note
-    Once the MRTK settings are completed the errors in the console can be cleared.
+    >**Note:**
+    Once the MRTK settings are completed, the errors in the console can be cleared.
 
 ## Create the Scene and Configure MRTK
 
@@ -202,7 +202,7 @@ To get started, first download the following **Unity Custom Package**: [MR_Retai
 
 2. In **Import package**, select the custom unity package that you downloaded, and then select **Open**.
 
-3. In **Import Unity Package** windows, select ensure that all the assets will be imported. Then select **Import**.
+3. In the **Import Unity Package** windows, select ensure that all the assets will be imported. Then select **Import**.
 
     >**Note:**
     You may click clear or ignore on any warnings that may appear during the import.
