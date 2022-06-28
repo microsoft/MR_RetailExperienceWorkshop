@@ -12,6 +12,7 @@ This workshop highlights some of the core features of MRTK3, where you will util
 
 ## Workshop Tutorial Instructions
 - Download the tutorial [here.](https://github.com/microsoft/MR_RetailExperienceWorkshop/releases/tag/v0.2)
+- Access the First Lesson [here.](https://github.com/microsoft/MR_RetailExperienceWorkshop/blob/md-files-update/.md/1-introduction.md)
 
 ## Prerequisites
 - Please see [Install the Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools) for a comprehensive list of prerequisites and installation resources.
