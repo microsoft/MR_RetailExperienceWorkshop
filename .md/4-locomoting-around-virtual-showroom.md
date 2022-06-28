@@ -60,7 +60,7 @@ This section walks you through implementation of both the hand menu and the slat
   
     *Solvers*
 
-    *Solvers are components that facilitate the means of calculating an object's position & orientation according to a predefined algorithm. Solvers offer a range of behaviors to attach objects to other objects or systems.*
+    *Solvers are components that facilitate the means of calculating an object's position and orientation according to a predefined algorithm. Solvers offer a range of behaviors to attach objects to other objects or systems.*
   
     *Locomotion*
   
@@ -98,7 +98,7 @@ This section walks you through implementation of both the hand menu and the slat
 
         ![A screenshot configuring info button](img/button-info.png)
 
-    >[!Note]
+    >**Note:**
     > Step 5 and Step 6 may already be preconfigured in your project.
 
 5. Next select **HandMenu** in the hierarchy, then in the **Inspector window**, configure the **Hand constraint** as follows:

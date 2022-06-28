@@ -56,7 +56,7 @@ Before building to your device, the device must be in **Developer Mode** and pai
 
 4. Click the **Debugger** to launch drop down and then select **Remote Machine** if it's not selected already
 
-    [!Important]  
+    >**Important:**  
     We recommend that you manually enter your IP address rather than depend on the "Auto Detected" feature. To find your IP address, on your HoloLens, go to Settings  Updates & Security  For developers. The IP address is listed towards the bottom of the window under Ethernet.
 
 5. In the **Machine Name field**, enter the **IP address** of your device.
@@ -102,7 +102,7 @@ The first time you deploy an app to your HoloLens from your PC, you'll be prompt
 
 3. Ensure that your project settings are configured correctly to use the **Open XR pipeline** and **MRTK's feature set**. These features are required to deploy your project to Meta Quest.
 
-4. Navigate to **File**  **Build Settings**
+4. Navigate to **File >**  **Build Settings**
 
 5. Now, under Platform, select **Android**. Then, switch the Platform to Android.
 
@@ -155,5 +155,5 @@ If you do not see Meta Quest Support under the OpenXR Feature Groups panel, make
 >**Note:**
 Do not follow the Configure Settings instructions on Meta's documentation page. Their instructions require the use of the Meta Integration SDK, and uses the Meta XR Plug-in rather than the OpenXR Plug-in.
 
->**Tip**
+>**Tip:**
 If you select Build and Run in your build settings window, it will compile and deploy directly onto your Meta Quest.
