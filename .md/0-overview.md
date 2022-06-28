@@ -1,9 +1,6 @@
 ---
 title: Overview
 ---
-
-### Previous
-
 # Overview
 
 In this workshop, you will learn how to create a multi-platform virtual showroom using the Mixed Reality Toolkit (MRTK.) The latest generation of the toolkit, MRTK3, is an open source, Microsoft-driven project that provides a set of components and features used to accelerate cross-platform mixed reality app development in Unity. This workshop highlights some of the core features of MRTK3, where you will utilize various components to create a functional showroom for the HoloLens 2 and Meta Quest.
