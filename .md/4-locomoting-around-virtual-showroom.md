@@ -88,7 +88,7 @@ This section walks you through implementation of both the hand menu and the slat
 
     ![A screenshot customizing hand menu](img/customize-hand-menu.png)
 
-4. In the **hierarchy window**, select **Menu Content** > **ButtonsRow1** > **buttons** > **Info**, then in the inspector window, expand **pressable button.OnClick()** event as follows:
+4. In the **Hierarchy window**, select **Menu Content** > **ButtonsRow1** > **Buttons** > **Info**, then in the inspector window, expand **Pressable Button.OnClick()** event as follows:
 
     - Click on the + icon to add the field and then, drag the **Feature Slate** from the hierarchy to the None (Object) field
 
