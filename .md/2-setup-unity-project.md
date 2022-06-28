@@ -1,6 +1,7 @@
 ---
 title: Importing MRTK3 into a new Unity project 
 ---
+### [Previous](1-introduction.md)
 
 # Starting and Configuring a new Unity project
 
@@ -218,3 +219,6 @@ To get started, first download the following **Unity custom package**: [MR_Retai
 5. In the Hierarchy window, expand **MRTK XR Rig**  **Camera Offset**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera**  **Rendering**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
 
     ![A screenshot of enabling post processing.](img/enable-post-processing.png)
+
+---
+## [Next](3-configure-virtual-showroom.md)

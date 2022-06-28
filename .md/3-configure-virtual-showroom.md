@@ -1,6 +1,7 @@
 ---
 title: Configuring the virtual showroom
 ---
+### [Previous](2-setup.unity.project.md)
 
 # Configure your Virtual Showroom With Interactivity
 
@@ -89,3 +90,5 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
     ![A screenshot of adding follow script](img/add-follow.png)
 
 3. To make other products in the showroom interactable, repeat all steps from this lesson on each product that you would like to be interactable.
+---
+## [Next](4-locomoting-around-virtual-showroom.md)
