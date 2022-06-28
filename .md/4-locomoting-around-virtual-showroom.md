@@ -1,7 +1,8 @@
 ---
 title: Locomotion and hand menus
 ---
-### [Previous](3-configure-virtual-showroom.md)
+### [Previous Section: Configure Your Virtual Showroom With Interactivity](3-configure-virtual-showroom.md)
+
 # Locomotion and Hand Menus
 
 Locomotion is a movement that transports the users to their desired location. To incorporate locomotion in your project, follow the steps outlined below.
@@ -124,4 +125,4 @@ This section walks you through implementation of both the hand menu and the slat
 
         ![A screenshot configuring the On last Hand lost ()](img/on-last-hand-lost.png)
 ---
-## [Next](5-build-deploy.md)
+## [Next Section: Build and Deploy to HoloLens or Meta Quest](5-build-deploy.md)

@@ -1,7 +1,7 @@
 ---
 title:  Build and deploy
 ---
-
+### [Previous Section: Locomotion and Hand Menus](4-locomoting-around-virtual-showroom.md)
 # Build and Deploy to HoloLens or Meta Quest
 
 ## Build Your Application in Unity

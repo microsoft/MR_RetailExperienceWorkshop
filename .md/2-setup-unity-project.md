@@ -1,9 +1,9 @@
 ---
 title: Importing MRTK3 into a new Unity project 
 ---
-### [Previous](1-introduction.md)
+### [Previous Section: Introduction](1-introduction.md)
 
-# Starting and Configuring a new Unity project
+# Starting and Configuring a New Unity Project
 
 We'll start by creating a new Unity project and configuring it for Windows Mixed Reality development.  
 
@@ -221,4 +221,4 @@ To get started, first download the following **Unity custom package**: [MR_Retai
     ![A screenshot of enabling post processing.](img/enable-post-processing.png)
 
 ---
-## [Next](3-configure-virtual-showroom.md)
+## [Next Section: Configure Your Virtual Showroom With Interactivity](3-configure-virtual-showroom.md)

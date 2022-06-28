@@ -1,9 +1,9 @@
 ---
 title: Configuring the virtual showroom
 ---
-### [Previous](2-setup.unity.project.md)
+### [Previous Section: Starting and Configuring a New Unity Project](2-setup.unity.project.md)
 
-# Configure your Virtual Showroom With Interactivity
+# Configure Your Virtual Showroom With Interactivity
 
 1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects.
 
@@ -71,7 +71,7 @@ Here we plan to integrate the product details into a **UX slate** and display it
 
         ![A screenshot of adding the reposition](img/add-reposition.png)
 
-## Using solvers
+## Using Solvers
 
 Wouldn't it be convenient if the UI Tags followed you around, rather than being pinned in place? Follow the instructions below to attach a solver to the UI cards in order to have them naturally follow you.  
 
@@ -91,4 +91,4 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
 
 3. To make other products in the showroom interactable, repeat all steps from this lesson on each product that you would like to be interactable.
 ---
-## [Next](4-locomoting-around-virtual-showroom.md)
+## [Next Section: Locomotion and Hand Menus](4-locomoting-around-virtual-showroom.md)
