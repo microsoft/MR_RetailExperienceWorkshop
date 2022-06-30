@@ -22,8 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: vray_cold_brew_coffee_prints
   m_Shader: {fileID: 4800000, guid: c331f6c43a2ef0945864cb668f2653c9, type: 3}
-  m_ShaderKeywords: _DIRECTIONAL_LIGHT _DISABLE_ALBEDO_MAP _HOVER_LIGHT _SPECULAR_HIGHLIGHTS
-    _USE_WORLD_SCALE
+  m_ShaderKeywords: _DIRECTIONAL_LIGHT _DISABLE_ALBEDO_MAP _SPECULAR_HIGHLIGHTS _USE_WORLD_SCALE
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -158,7 +157,7 @@ Material:
     - _GlossyReflections: 1
     - _GradientAngle: 180
     - _GradientMode: 0
-    - _HoverLight: 1
+    - _HoverLight: 0
     - _IndependentCorners: 0
     - _InnerGlow: 0
     - _InnerGlowPower: 4
