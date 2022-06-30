@@ -1,12 +1,13 @@
 ---
 title: Importing MRTK3 into a new Unity project 
 ---
+### [Previous Section: Introduction](1-introduction.md)
 
-# Starting and Configuring a new Unity project
+# Starting and Configuring a New Unity Project
 
 We'll start by creating a new Unity project and configuring it for Windows Mixed Reality development.  
 
-## Create a New Unity project
+## Create a New Unity Project
 
 1. Launch the **Unity Hub**.
 
@@ -28,7 +29,7 @@ We'll start by creating a new Unity project and configuring it for Windows Mixed
     >**Caution:**
     When working on Windows, there is a file path limit of 255 characters. Unity may fail to compile your app if any file path is longer than 255 characters.
 
-## Import the MRTK3 unity package
+## Import the MRTK3 Unity Package
 
 To import the Mixed Reality Toolkit into your project we'll use the Mixed Reality Feature Tool, which allows developers to discover, update, and import mixed reality feature packages.
 
@@ -91,7 +92,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 17. Return to the Unity Editor. You'll see a progress bar showing you that your packages are being imported. You may need to click anywhere in the Unity window to trigger the package import if you do not see the progress bar.
 
-## Configure the unity project
+## Configure the Unity Project
 
 1. After Unity has imported the packages, a warning appears asking if you want to enable the backends by restarting the editor. Select **Yes**.
 
@@ -128,7 +129,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of warning to fix OpenXR.](img/warning-fix-openxr.png)
 
-7. In the **OpenXR Project Validation window**, there are several issues listed. Select the Fix All button. If you see an issue stating that "at least one interaction profile must be added", feel free to ignore this as this will be covered over the next few steps.
+7. In the **OpenXR Project Validation window**, there may be several issues listed. Select the Fix All button. If you see an issue stating that "at least one interaction profile must be added", feel free to ignore this as this will be covered over the next few steps.
 
     ![A screenshot of selecting Fix All button.](img/fix-all-openxr.png)
 
@@ -158,18 +159,18 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of selecting MRTK3 option.](img/mrtk-profile.png)
 
-2. Click on the **circular icon** next to the profile field that says **None (MRTK Profile)** to assign the MRTK profile. In the **Select MRTK Profile** window that appears, click on the eye icon to show the hidden items, and select the **MRTKProfile**.
+2. Click on the **circular icon** next to the profile field that says **None (MRTK Profile)** to assign the MRTK profile. In the **Select MRTK Profile** window that appears, click on the eye icon to show the hidden items. Then select the **MRTKProfile**.
 
     ![A screenshot of setting the MRTK profile](img/set-mrtk-profile.png)
 
-3. After selecting the profile named MRTKProfile, you may close the Select **MRTK Profile** window. Your MRTK3 section in the **Project Settings** should look like the image below.
+3. After selecting the MRTKProfile, you may close the Select **MRTK Profile** window. Your MRTK3 section in the **Project Settings** should look like the image below.
 
     ![A screenshot of assigning MRTK profile.](img/assign-mrtk-profile.png)
 
-    Note
-    Once the MRTK settings are completed the errors in the console can be cleared.
+    >**Note:**
+    Once the MRTK settings are completed, the errors in the console can be cleared.
 
-## Create the scene and configure MRTK
+## Create the Scene and Configure MRTK
 
 1. In the menu bar, select **File**  **New Scene**.
 
@@ -191,17 +192,17 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 2. Now to create the **URP pipeline asset**, in **Project window** right-click on Asset and navigate to **Create**  **Rendering**  **Universal Render Pipeline**  **Pipeline Asset (Forward Renderer)**. The default name for this asset will be UniveralRenderPipelineAsset.
 
-3. Configure the Project settings by navigating to **Edit**  **Project settings**  **Graphics**. In **Scriptable Render pipeline settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
+3. Configure the Project settings by navigating to **Edit**  **Project Settings**  **Graphics**. In **Scriptable Render Pipeline Settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
 
-## Import the virtual showroom Unity package
+## Import the Virtual Showroom Unity Package
 
-To get started, first download the following **Unity custom package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
+To get started, first download the following **Unity Custom Package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
 
 1. In the Unity menu, select **Assets**  **Import Package**  **Custom Package....**
 
 2. In **Import package**, select the custom unity package that you downloaded, and then select **Open**.
 
-3. In **Import Unity Package** windows, select ensure that all the assets will be imported. Then select **Import**.
+3. In the **Import Unity Package** windows, select ensure that all the assets will be imported. Then select **Import**.
 
     >**Note:**
     You may click clear or ignore on any warnings that may appear during the import.
@@ -215,6 +216,9 @@ To get started, first download the following **Unity custom package**: [MR_Retai
      >**Note:**
      When in game mode, ignore the index out of range error as it appears recursively.
 
-5. In the Hierarchy window, expand **MRTK XR Rig**  **Camera Offset**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera**  **Rendering**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
+5. In the Hierarchy window, expand **MRTK XR Rig >**  **Camera Offset >**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera >**  **Rendering >**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
 
     ![A screenshot of enabling post processing.](img/enable-post-processing.png)
+
+---
+## [Next Section: Configure Your Virtual Showroom With Interactivity](3-configure-virtual-showroom.md) 
