@@ -22,7 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Selen-floor
   m_Shader: {fileID: 4800000, guid: c331f6c43a2ef0945864cb668f2653c9, type: 3}
-  m_ShaderKeywords: _DIRECTIONAL_LIGHT _HOVER_LIGHT _NORMALMAP _NORMAL_MAP _SPECULAR_HIGHLIGHTS
+  m_ShaderKeywords: _DIRECTIONAL_LIGHT _HOVER_LIGHT _NORMALMAP _SPECULAR_HIGHLIGHTS
     _USE_WORLD_SCALE
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -139,7 +139,7 @@ Material:
     - _EnableEmission: 0
     - _EnableHoverColorOverride: 0
     - _EnableLocalSpaceTriplanarMapping: 0
-    - _EnableNormalMap: 1
+    - _EnableNormalMap: 0
     - _EnableProximityLightColorOverride: 0
     - _EnableSSAA: 0
     - _EnableStencil: 0
