@@ -84,7 +84,7 @@ This section walks you through implementation of both the hand menu and the slat
 
     ![A screenshot adding title and contents](img/feature-slate.png)
 
-3. Note that the HandMenu prefab contains a child object called **MenuContent**. This gameobject is visible in your scene as a blue button with an info icon. Double click the MenuContent gameobject to view this button in your scene window.
+3. Note that the HandMenu prefab contains a child object called **MenuContent**. This GameObject is visible in your scene as a blue button with an info icon. Double click the MenuContent GameObject to view this button in your scene window.
 
     ![A screenshot customizing hand menu](img/customize-hand-menu.png)
 
