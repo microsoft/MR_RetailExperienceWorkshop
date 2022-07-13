@@ -215,10 +215,5 @@ To get started, first download the following **Unity Custom Package**: [MR_Retai
 
      >**Note:**
      When in game mode, ignore the index out of range error as it appears recursively.
-
-5. In the Hierarchy window, expand **MRTK XR Rig >**  **Camera Offset >**  **Main camera**. In the inspector window of the **Main Camera**, navigate to **Camera >**  **Rendering >**  **Post processing** and select the checkbox as shown in the figure. This step is optional but provides enhanced visual effects for the imported showroom. 
-
-    ![A screenshot of enabling post processing.](img/enable-post-processing.png)
-
 ---
 ## [Next Section: Configure Your Virtual Showroom With Interactivity](3-configure-virtual-showroom.md) 
