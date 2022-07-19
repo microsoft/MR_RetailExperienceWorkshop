@@ -1,0 +1,54 @@
+- title: "Babylon.js (Grambling)"
+  url: "docs/Grambling"
+  children:
+    - title: Overview
+      url: "docs/Grambling/0-introduction"
+    - title: Create a Playground
+      url: "docs/Grambling/1-create-a-playground"
+    - title: Create a Scene
+      url: "docs/Grambling/2-create-a-scene"
+    - title: Add Materials & Textures
+      url: "docs/Grambling/3-add-materials-textures"
+    - title: Load Models
+      url: "docs/Grambling/4-load-models"
+    - title: Add Character (Girl)
+      url: "docs/Grambling/5-add-character-girl"
+    - title: Add Character (Guy)
+      url: "docs/Grambling/6-add-character-guy"
+- title: "Babylon.js (Southern)"
+  url: "docs/Southern"
+  children:
+    - title: Overview
+      url: "docs/Southern/0-introduction"
+    - title: Create a Playground
+      url: "docs/Southern/1-create-a-playground"
+    - title: Create a Scene
+      url: "docs/Southern/2-create-a-scene"
+    - title: Add Materials & Textures
+      url: "docs/Southern/3-add-materials-textures"
+    - title: Load Models
+      url: "docs/Southern/4-load-models"
+    - title: Add Character (Girl)
+      url: "docs/Southern/5-add-character-girl"
+    - title: Add Character (Guy)
+      url: "docs/Southern/6-add-character-guy"
+
+
+- title: "Build 3D Virtual Showroom using MRTK3.js (Microsoft workshop)"
+  url: "docs/Microsoft workshop"
+  children:
+    - title: Overview
+      url: "docs/Microsoft workshop/0-overview"
+    - title: Introduction
+      url: "docs/Microsoft workshop/1-introduction"
+    - title: Configure your virtual showroom with UI elements 
+      url: "docs/Microsoft workshop/2-setup-unity-project"
+    - title: Locomotion and docking 
+      url: "docs/Microsoft workshop/3-configure-virtual-showroom"
+    - title: Build and deploy to hololens or oculus quest
+      url: "docs/Microsoft workshop/4-locomoting-around-virtual-showroom"
+    - title: Add Character (Girl)
+      url: "docs/Microsoft workshop/5-build-deploy"
+
+
+
