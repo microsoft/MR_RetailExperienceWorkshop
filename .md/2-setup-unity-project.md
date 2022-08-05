@@ -41,7 +41,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 3. In the Mixed Reality Feature Tool, select **Start**.
 
-    ![A screenshot of selecting start.]({{ site.baseurl }}/img/mixed-reality-feature-tool.png)
+    ![A screenshot of selecting start.](img/mixed-reality-feature-tool.png)
 
 4. To access the **MRTK3 preview packages**, click on the **settings icon** at the bottom-left of the window. Switch to the **Feature** tab and ensure that **Show preview releases** is checked.
 
