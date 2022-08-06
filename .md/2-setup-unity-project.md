@@ -15,7 +15,7 @@ We'll start by creating a new Unity project and configuring it for Windows Mixed
 
 3. Click the drop-down under **New project** and select the appropriate editor version (Unity 2020.3 LTS).
 
-4. Ensure the chosen template is **3D Core** or **3D Sample Scene (URP)**.
+4. Ensure the chosen template is **3D Sample Scene (URP)**.
 
     >**Note:**
     Creating your project using 3D Sample Scene (URP) may help increase the performance of your application.
@@ -69,14 +69,14 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of list of seven package groups.](img/mrft-groups.png)
 
-10. Click the "+" button next to **MRTK3 (0 of 13)** and then click on **Select All**
+10. Click the "+" button next to **MRTK3** and then click on **Select All**
 
     ![A screenshot of selecting all.](img/mrtk-packages-ft.png)
 
     >**Note:**
     The Mixed Reality Toolkit Foundation package is the primary package that must be imported and configured to use MRTK with your project. This package includes the core components required to create a mixed reality application.
 
-11. Click the "+" button to the left of **Platform Support (0 of 5)** and then select the latest version of **Mixed Reality OpenXR Plugin**.
+11. Click the "+" button to the left of **Platform Support** and then select the latest version of **Mixed Reality OpenXR Plugin**.
 
     ![A screenshot of selecting the latest version of Mixed Reality OpenXR plugin.](img/package-selections.png)
 
@@ -188,30 +188,30 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 ## Installing URP
 
-1. In **Menu Bar** navigate to **Window**  **Package Manager** and install the latest version of **Universal Render Pipeline**, which may appear listed as **Universal RP**. If you created your Unity project with Universal Render Pipeline previously, then this package may already be installed.
+1. In **Menu Bar** navigate to **Window** > **Package Manager** and install the latest version of **Universal Render Pipeline**, which may appear listed as **Universal RP**. If you created your Unity project with Universal Render Pipeline previously, then this package may already be installed.
 
-2. Now to create the **URP pipeline asset**, in **Project window** right-click on Asset and navigate to **Create**  **Rendering**  **Universal Render Pipeline**  **Pipeline Asset (Forward Renderer)**. The default name for this asset will be UniveralRenderPipelineAsset.
+2. Now to create the **URP pipeline asset**, in the **Project Window** right-click on the Assets floder and navigate to **Create** > **Rendering** > **Universal Render Pipeline** > **Pipeline Asset (Forward Renderer)**. The default name for this asset will be **UniveralRenderPipelineAsset**.
 
-3. Configure the Project settings by navigating to **Edit**  **Project Settings**  **Graphics**. In **Scriptable Render Pipeline Settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
+3. Configure the Project settings by navigating to **Edit** > **Project Settings** > **Graphics**. In **Scriptable Render Pipeline Settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
 
 ## Import the Virtual Showroom Unity Package
 
 To get started, first download the following **Unity Custom Package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
 
-1. In the Unity menu, select **Assets**  **Import Package**  **Custom Package....**
+1. In the Unity menu, select **Assets** > **Import Package** > **Custom Package....**
 
 2. In **Import package**, select the custom unity package that you downloaded, and then select **Open**.
 
-3. In the **Import Unity Package** windows, select ensure that all the assets will be imported. Then select **Import**.
+3. In the **Import Unity Package** windows, select the **All** button to ensure that all of the assets will be imported. Then select **Import**.
 
     >**Note:**
     You may click clear or ignore on any warnings that may appear during the import.
 
-4. In the Assets folder, click on the **MR_RetailShowroom** folder, then open the **prefab** folder and drag and drop the **Retail Dress Showroom** model to **hierarchy** window and configure the transform component of this prefab as follows:
+4. In the Assets folder, click on the **MR_RetailShowroom** folder, then open the **Prefab** folder and drag and drop the **Retail Dress Showroom** model to **hierarchy** window and configure the transform component of this prefab as follows:
 
-    - **Position**: X = 26.6, Y = -5.1, Z = 12.2
+    - **Position**: X = 5.53, Y = -2.28, Z = 3.59
     - **Rotation**: X = 0, Y = 0, Z = 0
-    - **Scale**: X = 0.83, Y = 0.83, Z = 0.83
+    - **Scale**: X = 0.16, Y = 0.16, Z = 0.16
 
      >**Note:**
      When in game mode, ignore the index out of range error as it appears recursively.
