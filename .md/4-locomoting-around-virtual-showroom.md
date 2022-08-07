@@ -7,7 +7,7 @@ title: Locomotion and hand menus
 
 Locomotion is a movement that transports the users to their desired location. To incorporate locomotion in your project, follow the steps outlined below.
 
-1. In the **Hierarchy window**, select the **MRTK XR Rig**. Then, in the **Inspector window** click on the **Add component** button to add the following:
+1. In the **Hierarchy** window, select the **MRTK XR Rig**. Then, in the **Inspector** window click on the **Add Component** button to add the following:
 
     - **Teleportation Provider**
     - **Snap Turn Provider**
