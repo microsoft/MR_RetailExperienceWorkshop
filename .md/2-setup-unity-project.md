@@ -43,7 +43,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of selecting start.](img/mixed-reality-feature-tool.png)
 
-4. To access the **MRTK3 preview packages**, click on the **settings icon** at the bottom-left of the window. Switch to the **Feature** tab and ensure that **Show preview releases** is checked.
+4. To access the **MRTK3 preview packages**, click on the **Settings Icon** at the bottom-left of the window. Switch to the **Feature** tab and ensure that **Show preview releases** is checked.
 
     ![A screenshot of accessing MRTK3 preview packages.](img/enable-preview-packages.png)
 
@@ -67,30 +67,29 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 9. On the **Discover Features** page, note that there is a list of seven package groups.
 
-    ![A screenshot of list of seven package groups.](img/mrft-groups.png)
+    ![A screenshot of list of seven package groups.](img/NewMicrosoftFeatureTool-Step9.png)
 
-10. Click the "+" button next to **MRTK3** and then click on **Select All**
+10. Click the **Select All** button next to **MRTK3**. 
 
-    ![A screenshot of selecting all.](img/mrtk-packages-ft.png)
+    ![A screenshot of selecting all.](img/NewMicrosoftFeatureTool-Step10.png)
 
     >**Note:**
     The Mixed Reality Toolkit Foundation package is the primary package that must be imported and configured to use MRTK with your project. This package includes the core components required to create a mixed reality application.
 
-11. Click the "+" button to the left of **Platform Support** and then select the latest version of **Mixed Reality OpenXR Plugin**.
+11. Click the "+" button to the left of **Platform Support** and then select the latest version of **Mixed Reality OpenXR Plugin**. After you've made your selection(s), click **Get Features**.
 
-    ![A screenshot of selecting the latest version of Mixed Reality OpenXR plugin.](img/package-selections.png)
+    ![A screenshot of selecting the latest version of Mixed Reality OpenXR plugin.](img/NewMicrosoftFeatureTool-Step11.png)
 
-12. After you've made your selection(s), click **Get Features**.
 
-13. Select **Validate** to validate the packages you selected. You should see a dialog that says **No validation issues** were detected. When you do, click **OK**.
+12. Select **Validate** to validate the packages you selected. You should see a dialog that says **No validation issues** were detected. When you do, click **OK**.
 
-14. On the **Import Features** page, the left-side column, the **Features** displays the packages you just selected. The right-side column shows the **required dependencies** displays any dependencies. You can click the **Details** link for any of these items to learn more about them.
+13. On the **Import Features** page, the left-side column, the **Features** displays the packages you just selected. The right-side column shows the **required dependencies** displays any dependencies. You can click the **Details** link for any of these items to learn more about them.
 
-15. When you're ready to move on, select **Import**. On the **Review and Approve** page, you can review information about the packages.
+14. When you're ready to move on, select **Import**. On the **Review and Approve** page, you can review information about the packages.
 
-16. Select **Approve**.
+15. Select **Approve**.
 
-17. Return to the Unity Editor. You'll see a progress bar showing you that your packages are being imported. You may need to click anywhere in the Unity window to trigger the package import if you do not see the progress bar.
+16. Return to the Unity Editor. You'll see a progress bar showing you that your packages are being imported. You may need to click anywhere in the Unity window to trigger the package import if you do not see the progress bar.
 
 ## Configure the Unity Project
 
