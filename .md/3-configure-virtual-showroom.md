@@ -91,6 +91,6 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
     ![A screenshot of adding follow script](img/add-follow.png)
 
 3. To make other products in the showroom interactable, repeat all steps from this lesson on each product that you would like to be interactable.
-    >**Note:** Some of the GameObjects may already have some of the Components already set up. 
+    >**Note:** Some of the GameObjects may already have some of the Components set up. 
 ---
 ## [Next Section: Locomotion and Hand Menus](4-locomoting-around-virtual-showroom.md)
