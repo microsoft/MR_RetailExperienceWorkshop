@@ -8,8 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: InstaVIdeo
-  m_Shader: {fileID: 4800000, guid: 650dd9526735d5b46b79224bc6e94025, type: 3}
-  m_ShaderKeywords: _EMISSION
+  m_Shader: {fileID: 4800000, guid: c331f6c43a2ef0945864cb668f2653c9, type: 3}
+  m_ShaderKeywords: _ABSOLUTE_SIZES__ON _SPECULAR_HIGHLIGHTS _USE_WORLD_SCALE
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -81,11 +81,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _Absolute_Sizes_: 1
     - _AlbedoAlphaMode: 0
     - _AlbedoAssignedAtRuntime: 0
     - _AlphaClip: 0
+    - _Bevel_Radius_: 0.014
+    - _Bias_: 0.5
     - _Blend: 0
     - _BlendOp: 0
+    - _Blend_Exponent_: 1.5
     - _BlendedClippingWidth: 0
     - _Blob_Enable_: 1
     - _Blob_Enable_2_: 1
@@ -126,7 +130,7 @@ Material:
     - _CustomMode: 0
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DirectionalLight: 1
+    - _DirectionalLight: 0
     - _DistortionBlend: 0.5
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
@@ -156,6 +160,7 @@ Material:
     - _Fade_Out_: 1
     - _Fall_End_: 1
     - _Fall_Start_: 0.77
+    - _Falloff_: 2
     - _Far_Center_Fraction_: 1
     - _Filter_Width_: 1.5
     - _Fixed_Radius_: 0
@@ -172,24 +177,29 @@ Material:
     - _Glow_Max_: 0.5
     - _GradientAngle: 180
     - _GradientMode: 0
-    - _HoverLight: 1
+    - _HoverLight: 0
     - _IndependentCorners: 0
     - _InnerGlow: 0
     - _InnerGlowPower: 4
+    - _Intensity_Fade_In_Exponent_: 2
     - _IridescenceAngle: -0.78
     - _IridescenceIntensity: 0.5
     - _IridescenceThreshold: 0.05
     - _LightingEnabled: 0
     - _Line_Width_: 0.001
+    - _Max_Intensity_: 0.7
     - _Metallic: 0
     - _MipmapBias: -2
     - _Mode: 0
+    - _Motion_: 0
     - _NearLightFade: 0
     - _NearPlaneFade: 0
     - _Near_Center_Fraction_: 0
     - _Near_Radius_Fraction_: 0.5
     - _NormalMapScale: 1
     - _OcclusionStrength: 1
+    - _Outer_Fuzz_End_: 0.001
+    - _Outer_Fuzz_Start_: 0.004
     - _Parallax: 0.02
     - _Phase_: 0
     - _Pinched_: 0
@@ -227,7 +237,7 @@ Material:
     - _Shift_: 0
     - _Shrink_Start_Distance_: 0.1
     - _Smooth_Edges_: 1
-    - _Smoothness: 0.5
+    - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SoftParticlesEnabled: 0
     - _SoftParticlesFarFadeDistance: 1
@@ -244,6 +254,7 @@ Material:
     - _Surface: 0
     - _Thickness_: 1
     - _TriplanarMappingBlendSharpness: 4
+    - _Tuning_Motion_: 0
     - _UVSec: 0
     - _UseWorldScale: 1
     - _Use_Global_Left_Index_: 1
@@ -270,10 +281,12 @@ Material:
     - _Color_: {r: 1, g: 1, b: 1, a: 1}
     - _Edge_Color_: {r: 0.18823496, g: 0.18823496, b: 0.18823496, a: 0.502}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveColor: {r: 0.4528303, g: 0.4528303, b: 0.4528303, a: 1}
     - _EnvironmentColorX: {r: 1, g: 0, b: 0, a: 1}
     - _EnvironmentColorY: {r: 0, g: 1, b: 0, a: 1}
     - _EnvironmentColorZ: {r: 0, g: 0, b: 1, a: 1}
+    - _GradientAlpha: {r: 1, g: 1, b: 1, a: 1}
+    - _GradientAlphaTime: {r: 0, g: 0, b: 0, a: 0}
     - _GradientColor0: {r: 0.631373, g: 0.631373, b: 0.631373, a: 0}
     - _GradientColor1: {r: 1, g: 0.690196, b: 0.976471, a: 0.25}
     - _GradientColor2: {r: 0, g: 0.32999998, b: 0.88, a: 0.5}
@@ -281,6 +294,7 @@ Material:
     - _GradientColor4: {r: 1, g: 1, b: 1, a: 1}
     - _HoverColorOverride: {r: 1, g: 1, b: 1, a: 1}
     - _InnerGlowColor: {r: 1, g: 1, b: 1, a: 0.75}
+    - _Inner_Color_: {r: 0.356863, g: 0.392157, b: 0.796078, a: 1}
     - _ProximityLightCenterColorOverride: {r: 1, g: 0, b: 0, a: 0}
     - _ProximityLightMiddleColorOverride: {r: 0, g: 1, b: 0, a: 0.5}
     - _ProximityLightOuterColorOverride: {r: 0, g: 0, b: 1, a: 1}
