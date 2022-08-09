@@ -2202,7 +2202,7 @@ MonoBehaviour:
   m_OriginBaseGameObject: {fileID: 4098124221453313037}
   m_CameraFloorOffsetObject: {fileID: 4098124220898155398}
   m_RequestedTrackingOriginMode: 0
-  m_CameraYOffset: 1.2
+  m_CameraYOffset: 0
 --- !u!114 &1764654171252822622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3800,7 +3800,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controllerMapping:
-    entries: []
+    entries:
+    - key: {fileID: 9016302801467885342}
+      value:
+        currentMode:
+          name: 
+          priority: 0
+        interactors: []
+    - key: {fileID: 7645751222673951533}
+      value:
+        currentMode:
+          name: 
+          priority: 0
+        interactors: []
+    - key: {fileID: 1839101574169504003}
+      value:
+        currentMode:
+          name: 
+          priority: 0
+        interactors: []
   prioritizedInteractionModes:
   - modeName: Far
     associatedTypes:

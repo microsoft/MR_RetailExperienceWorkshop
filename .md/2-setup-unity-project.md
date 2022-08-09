@@ -74,7 +74,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     ![A screenshot of selecting all.](img/NewMicrosoftFeatureTool-Step10.png)
 
     >**Note:**
-    The Mixed Reality Toolkit Foundation package is the primary package that must be imported and configured to use MRTK with your project. This package includes the core components required to create a mixed reality application.
+    The "MRTK Core Definitions package" is the primary package that must be imported and configured to use MRTK with your project. This package includes the core components required to create a mixed reality application.
 
 11. Click the "+" button to the left of **Platform Support** and then select the latest version of **Mixed Reality OpenXR Plugin**. After you've made your selection(s), click **Get Features**.
 
