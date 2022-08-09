@@ -34,7 +34,7 @@ You may test on the HoloLens 2 Emulator if you don't have a device.
     ![A screenshot of configuring the hololens. The JavaScript tab is highlighted.](img/configure-hololens.png)
 
 >**Note:**
-For HoloLens, you'll typically build for the ARM architecture. However, there's a known issue in Unity 2019.3 that causes errors when selecting ARM as the build architecture in Visual Studio. As  a workaround, we recommend that you build for ARM64. If that isn't an option, in Unity, go to **Edit**  **Project Settings**  **Player**  **Other Settings** and disable Graphics Jobs.
+For HoloLens, you'll typically build for the ARM architecture. However, there's a known issue in Unity 2019.3 that causes errors when selecting ARM as the build architecture in Visual Studio. As  a workaround, we recommend that you build for ARM64. If that isn't an option, in Unity, go to **Edit** > **Project Settings** > **Player** > **Other Settings** and disable **Graphics Jobs**.
 
 >**Note:**
 If you don't see "Device" as a target option in Visual Studio, you may need to change the startup project for the solution from the **IL2CPP project** to the **UWP project**. To do this, in the **Solution Explorer**, right-click **[your project name] (Universal Windows)** and then select Set as **StartUp** Project.
@@ -50,11 +50,11 @@ Before building to your device, the device must be in **Developer Mode** and pai
 
     ![A screenshot of selecting device](img/select-device.png)
 
-2. Set your remote connection: on the menu bar, select **Project**  **Properties**.
+2. Set your remote connection: on the menu bar, select **Project** > **Properties**.
 
-3. In the project's **Property Pages** window, select Configuration **Properties**  **Debugging**.
+3. In the project's **Property Pages** window, select **Configuration Properties** > **Debugging**.
 
-4. Click the **Debugger** to launch drop down and then select **Remote Machine** if it's not selected already
+4. Click the **Debugger to launch** drop down and then select **Remote Machine** if it's not selected already.
 
     >**Important:**  
     We recommend that you manually enter your IP address rather than depend on the "Auto Detected" feature. To find your IP address, on your HoloLens, go to Settings  Updates & Security  For developers. The IP address is listed towards the bottom of the window under Ethernet.
@@ -64,9 +64,9 @@ Before building to your device, the device must be in **Developer Mode** and pai
 6. Set the **Authentication Mode** to **Universal** (Unencrypted protocol)
 
 7. Connect your HoloLens to your computer, and then in Visual Studio, do one of the following:
-    - To deploy to your HoloLens and automatically start the app without the Visual Studio debugger attached, select **Debug**  **Start Without Debugging**.
+    - To deploy to your HoloLens and automatically start the app without the Visual Studio debugger attached, select **Debug** > **Start Without Debugging**.
 
-    - To deploy to your HoloLens without having the app start automatically, select **Build**  **Deploy Solution**
+    - To deploy to your HoloLens without having the app start automatically, select **Build** > **Deploy Solution**
 
     ![A screenshot of selecting start without debugging](img/select-start-without-debug.png)
 
@@ -74,7 +74,7 @@ Before building to your device, the device must be in **Developer Mode** and pai
 
 The first time you deploy an app to your HoloLens from your PC, you'll be prompted for a PIN. To create a PIN:
 
-1. In your HoloLens, go to **Settings**  **Updates & Security**  **For developers**.
+1. In your HoloLens, go to **Settings** > **Updates & Security** > **For Developers**.
 
 2. Select Pair. This displays the **PIN** in the HoloLens.
 
