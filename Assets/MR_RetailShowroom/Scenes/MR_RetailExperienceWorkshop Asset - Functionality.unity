@@ -606,26 +606,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2003424904378837956, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
-      propertyPath: allowedManipulations
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5137218187495469822, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
-      propertyPath: allowedManipulations
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5188395881488609765, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -37.87
-      objectReference: {fileID: 0}
-    - target: {fileID: 5188395881488609765, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -21.59
-      objectReference: {fileID: 0}
-    - target: {fileID: 5606336361842558134, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
-      propertyPath: allowedManipulations
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 5606336363158560454, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_Name
       value: MRTKV3_Dressroom
@@ -673,10 +653,6 @@ PrefabInstance:
     - target: {fileID: 5606336363158560455, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6368609208813668528, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
-      propertyPath: allowedManipulations
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
