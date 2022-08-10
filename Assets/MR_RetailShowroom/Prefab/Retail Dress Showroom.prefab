@@ -4606,7 +4606,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4203272830498634801}
   m_LocalRotation: {x: 0.27059802, y: 0.6532815, z: 0.65328145, w: -0.27059808}
-  m_LocalPosition: {x: -38.274204, y: 30.06, z: -21.99471}
+  m_LocalPosition: {x: -37.87, y: 30.06, z: -21.59}
   m_LocalScale: {x: 117.5306, y: 117.5306, z: 117.53058}
   m_Children: []
   m_Father: {fileID: 5352260197419273087}
@@ -13651,6 +13651,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8054066824217185361, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
+      propertyPath: allowedManipulations
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8164630382740621846, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_Name
       value: T-Shirt_Opimized_1
@@ -13880,6 +13884,10 @@ PrefabInstance:
     - target: {fileID: 1904740956903311599, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054066824217185361, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
+      propertyPath: allowedManipulations
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8164630382740621846, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_Name
@@ -14294,6 +14302,10 @@ PrefabInstance:
     - target: {fileID: 1904740956903311599, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054066824217185361, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
+      propertyPath: allowedManipulations
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8164630382740621846, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_Name
@@ -16271,6 +16283,10 @@ PrefabInstance:
     - target: {fileID: 1904740956903311599, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054066824217185361, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
+      propertyPath: allowedManipulations
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8164630382740621846, guid: 24aef15cb6c7e6342bdea3ecc4696473, type: 3}
       propertyPath: m_Name

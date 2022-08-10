@@ -614,6 +614,14 @@ PrefabInstance:
       propertyPath: allowedManipulations
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 5188395881488609765, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -37.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188395881488609765, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.59
+      objectReference: {fileID: 0}
     - target: {fileID: 5606336361842558134, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: allowedManipulations
       value: 3
