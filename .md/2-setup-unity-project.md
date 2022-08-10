@@ -169,13 +169,17 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     >**Note:**
     Once the MRTK settings are completed, the errors in the console can be cleared.
 
+4. Click on the **Graphics** tab. In this window, next to **Lightmap Modes**, select the the dropdown menu. Switch the value to **Custom** instead of **Automatic**. After this step, a list of modes should pop up. Double check that they are all marked as true, like the image below.  
+
+    ![A screenshot of assigning MRTK profile.](img/set-lightmap-modes-to-custom.png)
+
 ## Create the Scene and Configure MRTK
 
-1. In the menu bar, select **File**  **New Scene**.
+1. In the menu bar, select **File** > **New Scene**.
 
 2. In the New Scene window select **Basic (Built-in)** and then click **Create**. Save the new scene with a name of your choice.
 
-3. Delete the **main camera** from the scene.
+3. Delete the **main camera** from the scene. You may leave the **Directional Light** in the scene, it will act as a low performance-cost graphics enhancer for some of the moveable objects.
 
 4. Now, in the **project window**, search for **MRTK XR Rig** and **MRTK Input Simulator** and  drag and drop it to the **hierarchy** window. If your search results are not returning any items, ensure that you are searching for **All** items, as the search filter (usually located under the search bar) may be set to **In Assets** by default.  Configure the Transform component of each prefab as follows:
 
@@ -208,9 +212,9 @@ To get started, first download the following **Unity Custom Package**: [MR_Retai
 
 4. In the Assets folder, click on the **MR_RetailShowroom** folder, then open the **Prefab** folder and drag and drop the **Retail Dress Showroom** model to **hierarchy** window and configure the transform component of this prefab as follows:
 
-    - **Position**: X = 5.53, Y = -2.28, Z = 3.59
+    - **Position**: X = 4.31, Y = -1.3, Z = 2.84
     - **Rotation**: X = 0, Y = 0, Z = 0
-    - **Scale**: X = 0.16, Y = 0.16, Z = 0.16
+    - **Scale**: X = 0.12, Y = 0.12, Z = 0.12
 
      >**Note:**
      When in game mode, ignore the index out of range error as it appears recursively.
