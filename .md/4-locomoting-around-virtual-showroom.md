@@ -131,5 +131,17 @@ This section walks you through implementation of both the hand menu and the slat
 8. Repeat **Step 7** for the **FeatureSlateCanvas**. We do this so that the Feature slate stays hidden until the info button is pressed.
 
     ![A screenshot of disabling the FeatureSlateCanvas](img/disable-FeatureSlateCanvas.png)
+
+## Lighting
+
+Before we build and deploy our project, it important to ensure that our lighting is baked, so that the lights will all appear as they should once we are running our project in the headsets.
+
+1. In the top **Menu Bar**, select **Window** > **Rendering** > **Lighting**. This will open up the **Lighting** window.
+
+2. At the bottom of the window, you will see a generate lighting button. Go ahead and click on that and wait for the lights to fully generate. This may take several minutes.
+
+    ![A screenshot of the lighting window](img/bake-lights.png)
+
+
 ---
 ## [Next Section: Build and Deploy to HoloLens or Meta Quest](5-build-deploy.md)
