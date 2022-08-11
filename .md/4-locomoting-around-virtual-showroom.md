@@ -20,7 +20,7 @@ Locomotion is a movement that transports the users to their desired location. To
 
     ![A screenshot adding MRTK XR Rig to Teleportation Provider](img/select-teleportation-provider.png)
 
-3. Select the **Snap Turn Provider** script and to the System field drag and drop the **MRTK XR Rig**, as shown in the image.  
+3. Select the **Snap Turn Provider** script and, to the System field, drag and drop the **MRTK XR Rig** as shown in the image.  
 
     ![A screenshot adding MRTK XR Rig to Snap Turn Provider](img/select-snap-turn-provider.png)
 

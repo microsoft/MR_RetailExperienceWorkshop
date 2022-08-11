@@ -5,11 +5,11 @@ title: Configuring the virtual showroom
 
 # Configure Your Virtual Showroom With Interactivity
 
-1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with your hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects.
+1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with your hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects. Many of the objects will already be set up for you, but the steps below will walk you through setting up a couple of them. 
 
     - In the hierarchy window, **Retail Dress Showroom** > **Dress_FBX**, select the GameObject called **Hoodie_Optimized (3)**. Now in the inspector window click the **Add Component** button, then search for and select the **ObjectManipulator** script.
 
-    - The **ObjectManipulator** script makes an object movable, scalable, and rotatable using one or two hands. When you add the Object Manipulator script, the **Constraint Manager** script is automatically added as well because the Object Manipulator script depends on it.
+    - The **Object Manipulator** script makes an object movable, scalable, and rotatable using one or two hands. When you add the Object Manipulator script, the **Constraint Manager** script is automatically added as well because the Object Manipulator script depends on it.
 
         ![A screenshot of adding object manipulator.](img/add-object-manupilator.png)
 
@@ -34,7 +34,7 @@ Here we plan to integrate the product details into a **UX Slate** and display it
 
 1. In the **Project window**, navigate to the **Assets** > **MR_RetailShowroom** > **Prefabs** folder, click-and-drag the **Cloth Tag** prefab onto the **Hoodie_Optimized (3)** Gameobject we worked with previously.
 
-    - Drag and drop the **Cloth tag** onto the GameObject Hoodie_Optimzed (3) to make it, its **child** as shown below.
+    - Drag and drop the **Cloth tag** onto the **Hoodie_Optimzed (3)** GameObject to make it, its **child** as shown below.
 
         ![A screenshot of dragging and dropping the UI tag.](img/add-cloth-tag.png)
 
@@ -86,11 +86,16 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
 
         ![A screenshot of configuring solver handler script](img/add-solver.png)
 
-2. Again with the Cloth UI Tag selected, use the **Add Component** button in the **Inspector** window to add the **Follow** (Script). Configure the component as shown in the picture.
+2. Again with the Cloth UI Tag selected, use the **Add Component** button in the **Inspector** window to add the **Follow** (Script). Configure the component in the following ways.
+    
+    - Check the box next to **Update Linked Transform**.
+    - Change **Orientation Type** to **Unmodified**.
+    - Change **Min Distance** to **7**. 
+    - Change **Max Distance** to **8**.
+    - Change **Min Distance** to **6**.
+    >**Note:** All other values should stay the same. Feel free to double check against the image below. 
 
     ![A screenshot of adding follow script](img/add-follow.png)
 
-3. To make other products in the showroom interactable, repeat all steps from this lesson on each product that you would like to be interactable.
-    >**Note:** Some of the GameObjects may already have some of the Components set up. 
 ---
 ## [Next Section: Locomotion and Hand Menus](4-locomoting-around-virtual-showroom.md)
