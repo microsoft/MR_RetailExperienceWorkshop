@@ -128,7 +128,7 @@ This section walks you through implementation of both the hand menu and the slat
 
     ![A screenshot of disabling the InfoButton](img/disable-InfoButton.png)
 
-8. Repeat **Step 7.** for the **FeatureSlateCanvas**. We do this so that the Feature slate stays hidden until the info button is pressed.
+8. Repeat **Step 7** for the **FeatureSlateCanvas**. We do this so that the Feature slate stays hidden until the info button is pressed.
 
     ![A screenshot of disabling the FeatureSlateCanvas](img/disable-FeatureSlateCanvas.png)
 ---
