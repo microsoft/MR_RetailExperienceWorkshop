@@ -34,6 +34,12 @@ title: Configuring the virtual showroom
 
     ![A screenshot of adding min max scale contsraint](img/min-max-scale-contsraint.png)
 
+5. Expand the **Min Max Scale Constraint** component. Select the drop-down menu next to **Hand Type**, and disable **One-Handed** by clicking on it. To check if it's disabled, open the menu again and check to see that the checkmark next to it has disappeared. We do this so that an object cannot be scaled using only one hand.
+
+    ![Screenshot of configuring the Min Max Scale Constraint component](img/configure-min-max-scale-constraint.png)
+
+    >**Note:** Objects that will be scalable should all have a Min Max Sale Constraint component that is configured for Two handed scaling. This way the user doesn't accidentally scale an object while  simply trying to move it. 
+
 ## Include UX elements
 
 Here we plan to integrate the product details into a **UX Slate** and display it along with the product. This will provide an intuitive way for users to learn more about the products in our virtual showroom. 
