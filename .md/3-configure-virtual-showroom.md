@@ -13,6 +13,12 @@ title: Configuring the virtual showroom
 
         ![A screenshot of adding object manipulator.](img/add-object-manupilator.png)
 
+    - Expand the **Object Manipulator** script. Under **ObjectManipulator Settings**, next to where it says **Allowed Manipulations**, click on the dropdown menu and make sure that **Scale** is **unchecked**. Do this by clicking on **Scale** and then check that it is disabled by opening the menu again. The checkmark should no longer be beside scale.
+
+        ![A screenshot of disabling Scale](img/disable-scale-on-hanging-items.png)
+
+        >**Note:** In this project, scaling should be disabled on all hanging objects.
+
     - Next, follow the same procedure to add the **Box Collider** component.
 
         ![A screenshot of adding box collider.](img/add-box-collider.png)
