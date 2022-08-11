@@ -332,7 +332,7 @@ MonoBehaviour:
   handType: 3
   proximityType: 3
   executionOrder: 0
-  faceAway: 0
+  faceAway: 1
   gravityAlign: 0
 --- !u!1 &988012888875527331
 GameObject:

@@ -480,10 +480,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2526933051266691360, guid: 788c85d2ec9680a449a9d492c806c504, type: 3}
-      propertyPath: faceAway
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3988962402375182837, guid: 788c85d2ec9680a449a9d492c806c504, type: 3}
       propertyPath: m_InteractionManager
       value: 
@@ -536,6 +532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FeatureSlateCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 8856006957539495829, guid: 788c85d2ec9680a449a9d492c806c504, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 788c85d2ec9680a449a9d492c806c504, type: 3}
 --- !u!1001 &5430239016485018934
@@ -545,6 +545,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7475128040850959215, guid: 8380e6172ffd39640bcf8a655afd8a22, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7475128040850959223, guid: 8380e6172ffd39640bcf8a655afd8a22, type: 3}
       propertyPath: onClicked.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

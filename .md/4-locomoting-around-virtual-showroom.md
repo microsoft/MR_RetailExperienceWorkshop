@@ -31,28 +31,25 @@ Locomotion is a movement that transports the users to their desired location. To
 5. Select the **floor** GameObject, and in the **Inspector Window** add the following components:
 
     - Add a **Box Collider** to detect the floor for teleportation.
-
-        ![A screenshot adding box collider to the floor game object.](img/add-box-collider-teleport.png)
-
     - Add a **Teleportation Area** script
 
-        ![A screenshot adding teleportation area to the floor game object.](img/add-teleportion-area.png)
+        ![A screenshot adding teleportation area to the floor game object.](img/add-teleportion-area-and-box-collider.png)
 
-When testing the app later, to teleport, point the ray from your hands or controllers to the desired location that you would like to teleport to and perform the select gesture or trigger.
+When testing the app later teleport by pointing the ray from your hands or controllers to the desired location that you would like to teleport to and perform the select gesture or trigger.
 
 ## Hand Menu and UI Slate
 
-**Hand Menus**: MRTK3 offers built-in functionality to create custom hand menus. Hand menus provide users with convenient access to menu items whenever the hand palm is visible.
+**Hand Menus**: MRTK3 offers built-in functionality to create custom hand menus. Hand menus provide users with convenient access to menu items whenever the palm of our hand is visible.
 
 **Slate**: The Slate prefab offers a thin window for displaying 2D content such as text and images. It also includes a grabbable title bar and the ability to close the window.
 
 This section walks you through implementation of both the hand menu and the slate.
 
-1. From your project window, navigate to **Assets**>**MR_RetailShowroom**> **Prefab** and add the **HandMenu** prefab to the hierarchy window. From the same folder, add the **Feature Slate** prefab as a child of the **HandMenu** gameobject.
+1. From your project window, navigate to **Assets** > **MR_RetailShowroom** > **Prefab** and add the **HandMenuCanvas** and the  prefab to the hierarchy window. From the same folder, add the **FeatureSlateCanvas** prefab to the hierarchy window.
 
     ![A screenshot adding handmenu to the project.](img/hand-menu.png)
 
-2. You may customize the slate by adding a **title** to **Feature Slate**>**TitleBar**>**Title** and editing the text in the **TextMeshPro-Text component** . You can also edit the text content in the Feature list by editing the TextMeshPro-Text component in **Feature Slate**>**TitleBar**>**Feature list**. Feel free to copy the text below for the Feature list content.
+2. The slate's **title**, found under **FeatureSlateCanvas** > **Canvas** > **FeatureSlate** > **TitleBar** > **Content** > **Header**, can be customized by editing the text in the **TextMeshPro-Text component** . You can also edit the text content in the FeatureSlateCanvas by editing the TextMeshPro-Text component in **FeatureSlateCanvas** > **Canvas** > **FeatureSlate** > **Body** > **Content** > **MainText**. Feel free to copy the text below for the content.
 
     *Object Manipulator*
 
@@ -83,16 +80,18 @@ This section walks you through implementation of both the hand menu and the slat
     *To indicate that the hologram can be interacted with, a bounds control will display a box around it. Scaling, rotating, and translating the object is possible using the handles on the corners and edges of the box.*
 
     ![A screenshot adding title and contents](img/feature-slate.png)
+        
+    > **Note:** Adjust Font size so that the text fits. A value of 8 should be work nicely. 
 
-3. Note that the HandMenu prefab contains a child object called **MenuContent**. This GameObject is visible in your scene as a blue button with an info icon. Double click the MenuContent GameObject to view this button in your scene window.
+3. Double-Click on the **HandMenuCanvas** prefab. In the **Hierarchy** window expand the objects until you reach the **InfoButton** object. This GameObject is visible in your scene as a blue button with an info icon. 
 
     ![A screenshot customizing hand menu](img/customize-hand-menu.png)
 
-4. In the **Hierarchy window**, select **Menu Content** > **ButtonsRow1** > **Buttons** > **Info**, then in the inspector window, expand **Pressable Button.OnClick()** event as follows:
+4. In the inspector window, expand **Pressable Button (Script)**  component and configure the **OnClicked ()** event as follows:
 
-    - Click on the + icon to add the field and then, drag the **Feature Slate** from the hierarchy to the None (Object) field
+    - Click on the + icon to add the field and then, drag the **FeatureSlateCanvas** from the hierarchy to the None (Object) field
 
-    - From the **No Function** dropdown list, select **GameObject** > **SetActive ()** to set this function as the action to be run when the event is triggered
+    - From the **No Function** dropdown list, select **GameObject** > **SetActive (bool)** to set this function as the action to be run when the event is triggered
 
     - Ensure that the **checkbox** is selected.
 
@@ -103,9 +102,9 @@ This section walks you through implementation of both the hand menu and the slat
 
 5. Next select **HandMenu** in the hierarchy, then in the **Inspector window**, configure the **Hand constraint** as follows:
 
-    - Click the + icon in the **On First Hand Detected ()** to add an event
+    - Click the + icon in the **On First Hand Detected ()** field to add an event
 
-    - Assign the **MenuContent** object to the None (Object) field.
+    - Assign the **InfoButton** object to the None (Object) field.
 
     - From the **No Function** dropdown list, select **GameObject** > **SetActive ()** to set this function as the action to be run when the event is triggered
 
@@ -115,14 +114,22 @@ This section walks you through implementation of both the hand menu and the slat
 
 6. Configure the **On Last Hand Lost ()** as follows:
 
-    - Click the + icon twice in the **On Last Hand Lost ()** to add two events.
+    - Click the "+" icon in the **On Last Hand Lost ()** field to add an event.
 
-    - Assign the **MenuContent**, **FeatureSlate**,object to the **None (Object)** fields respectively as shown in the figure.
+    - Assign the **InfoButton**, object to the **None (Object)** field.
 
-    - From the **No Function** dropdown list, select **GameObject** > **SetActive ()** for all the events to set this function as the action to be run when the event is triggered
+    - From the **No Function** dropdown list, select **GameObject** > **SetActive ()** for the event to set this function as the action to be run when the event is triggered.
 
     - Verify that the argument checkbox is **unchecked**.
 
         ![A screenshot configuring the On last Hand lost ()](img/on-last-hand-lost.png)
+
+7. Select the **InfoButton** again. In the **Inspector** window **uncheck** the box next to the object's name. We do this so that the **InfoButton** is **hidden** until the user looks at their palm.
+
+    ![A screenshot of disabling the InfoButton](img/disable-InfoButton.png)
+
+8. Repeat **Step 7.** for the **FeatureSlateCanvas**. We do this so that the Feature slate stays hidden until the info button is pressed.
+
+    ![A screenshot of disabling the FeatureSlateCanvas](img/disable-FeatureSlateCanvas.png)
 ---
 ## [Next Section: Build and Deploy to HoloLens or Meta Quest](5-build-deploy.md)

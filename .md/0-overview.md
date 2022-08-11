@@ -92,6 +92,4 @@ In this workshop, you will learn how to create a multi-platform virtual showroom
 
 ---
 
-##  [Next Section: Introduction ](1-introduction.md)                                                     
-
-
+##  [Next Section: Introduction ](1-introduction.md)
