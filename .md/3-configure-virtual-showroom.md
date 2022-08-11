@@ -5,7 +5,7 @@ title: Configuring the virtual showroom
 
 # Configure Your Virtual Showroom With Interactivity
 
-1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with your hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects. Many of the objects will already be set up for you, but the steps below will walk you through setting up a couple of them. 
+1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with your hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects. Many of the objects will already be set up for you, but the steps below will walk you through setting up a few of your own. 
 
     - In the hierarchy window, **Retail Dress Showroom** > **Dress_FBX**, select the GameObject called **Hoodie_Optimized (3)**. Now in the inspector window click the **Add Component** button, then search for and select the **ObjectManipulator** script.
 
