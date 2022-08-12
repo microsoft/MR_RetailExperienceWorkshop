@@ -170,8 +170,17 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     Once the MRTK settings are completed, the errors in the console can be cleared.
 
 4. Click on the **Graphics** tab. In this window, next to **Lightmap Modes**, select the the dropdown menu. Switch the value to **Custom** instead of **Automatic**. After this step, a list of modes should pop up. Double check that they are all marked as true, like the image below.  
+    - Under the **Always Included Shaders** Section, make sure that the **Size** value is set to 6. This way we cut down on some shader elements to increase our performance.
 
     ![A screenshot of assigning MRTK profile.](img/set-lightmap-modes-to-custom.png)
+
+5. Navigate to the **Quality** tab. You want to make sure that your Quality settings are set to **Low** for all platforms. You can use the arrows next to the **Default** bar to switch the checkmarks to be on the **Low** setting. 
+    
+    - The **Low** settings should be ready to go by default, but feel free to compare against the image below.
+
+    ![A screenshot of setting up the Quality settings](img/set-quality-settings.png)
+
+    >**Note:** Under the **Rendering** tab, check the **Universal Render Pipeline Asset** and see if you have an option to switch to **UniversalRP-LowQuality**. If you have that option, go ahead and switch over. If not leave it on the default Asset. 
 
 ## Create the Scene and Configure MRTK
 
