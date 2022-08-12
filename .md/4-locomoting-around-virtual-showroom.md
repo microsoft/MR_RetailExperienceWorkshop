@@ -81,7 +81,7 @@ This section walks you through implementation of both the hand menu and the slat
 
     ![A screenshot adding title and contents](img/feature-slate.png)
         
-    > **Note:** Adjust Font size so that the text fits. A value of 8 should be work nicely. 
+    > **Note:** Adjust Font size so that the text fits. A value of 8 should work nicely. 
 
 3. Double-Click on the **HandMenuCanvas** prefab. In the **Hierarchy** window expand the objects until you reach the **InfoButton** object. This GameObject is visible in your scene as a blue button with an info icon. 
 
