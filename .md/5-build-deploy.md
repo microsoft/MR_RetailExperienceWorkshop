@@ -46,7 +46,7 @@ Before building to your device, the device must be in **Developer Mode** and pai
 
     ![A screenshot of selecting remote machine.](img/select-remote-machine.png)
 
-    If you're building and deploying via USB, select **Device**.
+    If you're building and deploying via USB, select **Device**. Is so feel free to skip to the **"Pairing Your Device"** section.
 
     ![A screenshot of selecting device](img/select-device.png)
 
