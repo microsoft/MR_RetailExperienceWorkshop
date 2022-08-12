@@ -96,30 +96,28 @@ The first time you deploy an app to your HoloLens from your PC, you'll be prompt
 
 ### Porting to Meta Quest
 
-1. Ensure that your project is ready to deploy on the Quest device.
+1. Ensure that your project is ready to deploy on the Quest device. Coneect your quest device to your computer with a USB cable. 
 
 2. Ensure that **developer mode** is enabled on your device. Installing the **Meta ADB Drivers** is optional.
 
-3. Ensure that your project settings are configured correctly to use the **Open XR pipeline** and **MRTK's feature set**. These features are required to deploy your project to Meta Quest.
+3. Navigate to **File >**  **Build Settings**
 
-4. Navigate to **File >**  **Build Settings**
-
-5. Now, under Platform, select **Android**. Then, switch the Platform to Android.
+4. Now, under Platform, select **Android**. Then, switch the Platform to Android.
 
 >**Note:**
 To have the Android option enabled in the Build Settings Window, ensure that Android is checked while you download the respective unity version through Unity Hub.
 
 ### Build to Meta Quest
 
-1. Once the porting is completed, Navigate to **Edit**  **Project Settings**
+1. Once the porting is completed, Navigate to **Edit** > **Project Settings**
 
 2. Now, under Project Settings, navigate to **XR Plug-in Management** and enable **OpenXR** under the **Android** tab. Ensure that **Initialize XR on Startup** is selected and that no feature groups are enabled.
 
     ![A screenshot of enabling openxr](img/openxr-enabled.png)
 
-3. In Project Settings, navigate to **XR Plug-in Management**  **OpenXR**  **Interaction Profiles** and Click on the + icon to add **Meta Touch Controller Profile**.
+3. In Project Settings, navigate to **XR Plug-in Management** > **OpenXR** > **Interaction Profiles** and Click on the + icon to add **Occulus Touch Controller Profile**.
 
-4. Again, Under Project Settings, navigate to **XR Plug-in Management**  **OpenXR**  **OpenXR Feature Groups** and ensure the following are checked under All Features.
+4. Remain in Project Settings. Navigate to **XR Plug-in Management** > **OpenXR** > **OpenXR Feature Groups** and ensure the following are checked under All Features. Also double check that the other values inthis window look like the image below (Render Mode, Depth Submission Mode, etc.)
 
     ![A screenshot of checking the features](img/feature-checked.png)
 
@@ -148,12 +146,12 @@ If you do not see Meta Quest Support under the OpenXR Feature Groups panel, make
 
 ### Deploying to Device
 
-1. After you have the project configured, proceed to Generate Build. Navigate to **File**  **Build Settings**. Click on **Add Open Scenes** and later click on **Build** as highlighted in the picture. 
+1. After you have the project configured, proceed to Generate Build. Navigate to **File** > **Build Settings**. Click on **Add Open Scenes** and then click on **Build and Run**. This will deploy the build directly to your Quest, as long as it is connected to your computer via USB.
 
     ![A screenshot of selecting Build.](img/build-device.png)
 
 >**Note:**
 Do not follow the Configure Settings instructions on Meta's documentation page. Their instructions require the use of the Meta Integration SDK, and uses the Meta XR Plug-in rather than the OpenXR Plug-in.
 
->**Tip:**
-If you select Build and Run in your build settings window, it will compile and deploy directly onto your Meta Quest.
+>**Note:**
+If you recieve and error saying that you don't have a valid MRTK profile for the chosen platform, go up to **Edit** > **Project Settings** and click on the **MRTK3** tab. Make sure that you have the MRTK profile selected under the profile, it may have been cleared after switching platforms. 
