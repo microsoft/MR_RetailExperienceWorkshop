@@ -179,7 +179,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 2. In the New Scene window select **Basic (Built-in)** and then click **Create**. Save the new scene with a name of your choice.
 
-3. Delete the **main camera** from the scene. You may leave the **Directional Light** in the scene, it will act as a low-performance-cost graphics enhancer for some of the moveable objects.
+3. Delete the **main camera** from the scene. Leave the **Directional Light** in the scene, it will provide necessary lighting for several of our interactable objects.
 
 4. Now, in the **project window**, search for **MRTK XR Rig** and **MRTK Input Simulator** and  drag and drop it to the **hierarchy** window. If your search results are not returning any items, ensure that you are searching for **All** items, as the search filter (usually located under the search bar) may be set to **In Assets** by default.  Configure the Transform component of each prefab as follows:
 
