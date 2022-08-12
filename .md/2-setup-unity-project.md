@@ -101,7 +101,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
     ![A screenshot of the warning asking if you have backup.](img/backup-created.png)
 
-3. In the menu bar, select **File**  **Build Settings**. If you see an OpenXR Project Validation window or pop-up warning with issues, feel free to ignore the warning as it will be addressed later in this tutorial.
+3. In the menu bar, select **File** > **Build Settings**. If you see an OpenXR Project Validation window or pop-up warning with issues, feel free to ignore the warning as it will be addressed later in this tutorial.
 
 4. In the **Build Settings** window, select **Universal Windows Platform** and click on **Switch Platform**. Follow the instructions below if you do not have the **Universal Windows Platform** module installed in Unity. If you do, feel free to skip to Step 5.
 
