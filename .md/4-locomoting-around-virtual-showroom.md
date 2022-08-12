@@ -10,7 +10,7 @@ Locomotion is a movement that transports the users to their desired location. To
 1. In the **Hierarchy** window, select the **MRTK XR Rig**. Then, in the **Inspector** window click on the **Add Component** button to add the following:
 
     - **Teleportation Provider**
-    - **Snap Turn Provider**
+    - **Snap Turn Provider (Action-based)**
     - **Locomotion System**
     - **Teleport Height**
 
@@ -45,7 +45,7 @@ When testing the app later teleport by pointing the ray from your hands or contr
 
 This section walks you through implementation of both the hand menu and the slate.
 
-1. From your project window, navigate to **Assets** > **MR_RetailShowroom** > **Prefab** and add the **HandMenuCanvas** and the  prefab to the hierarchy window. From the same folder, add the **FeatureSlateCanvas** prefab to the hierarchy window.
+1. From your project window, navigate to **Assets** > **MR_RetailShowroom** > **Prefab** and add the **HandMenuCanvas** prefab to the hierarchy window. From the same folder, add the **FeatureSlateCanvas** prefab to the hierarchy window.
 
     ![A screenshot adding handmenu to the project.](img/hand-menu.png)
 
