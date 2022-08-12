@@ -136,9 +136,11 @@ This section walks you through implementation of both the hand menu and the slat
 
 Before we build and deploy our project, it important to ensure that our lighting is baked, so that the lights will all appear as they should once we are running our project in the headsets.
 
-1. In the top **Menu Bar**, select **Window** > **Rendering** > **Lighting**. This will open up the **Lighting** window.
+1. Navigate to **File** > **Save** to save your scene. 
 
-2. At the bottom of the window, you will see a generate lighting button. Go ahead and click on that and wait for the lights to fully generate. This may take several minutes.
+2. In the top **Menu Bar**, select **Window** > **Rendering** > **Lighting**. This will open up the **Lighting** window.
+
+3. At the bottom of the window, you will see a generate lighting button. Go ahead and click on that and wait for the lights to fully generate. This may take several minutes.
 
     ![A screenshot of the lighting window](img/bake-lights.png)
 
