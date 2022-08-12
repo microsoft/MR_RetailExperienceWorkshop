@@ -199,7 +199,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 ## Import the Virtual Showroom Unity Package
 
-To get started, first download the following **Unity Custom Package**: [MR_RetailShowroom](https://veerubytech-my.sharepoint.com/:u:/g/personal/trupthi_veeruby_com/ESble4I0ScZIgWjfWFEdL_QB7_BIu_Gto47qo49k4j7__g?download=1)
+To get started, first download the following **Unity Custom Package**: [MR_RetailShowroom](https://github.com/onginnovations/MR_RetailExperienceWorkshop/releases/download/v0.3/MS-Retail-Showroom-Optimized-Package-v3.0.unitypackage)
 
 1. In the Unity menu, select **Assets** > **Import Package** > **Custom Package....**
 
