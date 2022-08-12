@@ -208,7 +208,7 @@ To get started, first download the following **Unity Custom Package**: [MR_Retai
 3. In the **Import Unity Package** windows, select the **All** button to ensure that all of the assets will be imported. Then select **Import**.
 
     >**Note:**
-    You may click clear or ignore on any warnings that may appear during the import.
+    You may clear or ignore on any warnings that may appear during the import.
 
 4. In the Assets folder, click on the **MR_RetailShowroom** folder, then open the **Prefab** folder and drag and drop the **Retail Dress Showroom** model to **hierarchy** window and configure the transform component of this prefab as follows:
 

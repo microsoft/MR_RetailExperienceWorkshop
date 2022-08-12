@@ -7,13 +7,13 @@ title: Configuring the virtual showroom
 
 1. The instructions below demonstrate how to add the ability to manipulate certain objects in your scene with your hands (or controllers on VR devices.) This will allow you to move, rotate, and scale these objects, depending on the types of manipulations you set on those objects. Many of the objects will already be set up for you, but the steps below will walk you through setting up a few of your own. 
 
-    - In the hierarchy window, **Retail Dress Showroom** > **Dress_FBX**, select the GameObject called **Hoodie_Optimized (3)**. Now in the inspector window click the **Add Component** button, then search for and select the **ObjectManipulator** script.
+    - In the hierarchy window, navigate to **Retail Dress Showroom** > **Dress_FBX**, select the GameObject called **Hoodie_Optimized (3)**. Now in the inspector window click the **Add Component** button, then search for and select the **ObjectManipulator** script.
 
     - The **Object Manipulator** script makes an object movable, scalable, and rotatable using one or two hands. When you add the Object Manipulator script, the **Constraint Manager** script is automatically added as well because the Object Manipulator script depends on it.
 
         ![A screenshot of adding object manipulator.](img/add-object-manupilator.png)
 
-    - Expand the **Object Manipulator** script. Under **ObjectManipulator Settings**, next to where it says **Allowed Manipulations**, click on the dropdown menu and make sure that **Scale** is **unchecked**. Do this by clicking on **Scale** and then check that it is disabled by opening the menu again. The checkmark should no longer be beside scale.
+    - Expand the **Object Manipulator** script. Under **ObjectManipulator Settings**, next to where it says **Allowed Manipulations**, click on the dropdown menu and make sure that **Scale** is **unchecked**. Do this by clicking on **Scale** and then check that it is disabled by opening the menu again. The checkmark should no longer be beside "Scale".
 
         ![A screenshot of disabling Scale](img/disable-scale-on-hanging-items.png)
 
@@ -23,7 +23,7 @@ title: Configuring the virtual showroom
 
         ![A screenshot of adding box collider.](img/add-box-collider.png)
 
-2. In the hierarchy window, expand **Retail Dress Showroom** > **Table**. Then, select the GameObject named **Shirt (1)** to add the Bounds Control Script to make the GameObject "Scalable". With the game object still selected in the **Hierarchy** window, click on the **Add Component** button and select **Bounds Control**.
+2. In the hierarchy window, expand **Retail Dress Showroom** > **Table**. Then, select the GameObject named **Shirt (1)** to add the **Bounds Control** Script to make the GameObject "Scalable". With the game object still selected in the **Hierarchy** window, click on the **Add Component** button and select **Bounds Control**.
 
     ![A screenshot of adding bounds control](img/bounds-control.png)
 
@@ -98,7 +98,7 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
 
         ![A screenshot of configuring solver handler script](img/add-solver.png)
 
-2. Again with the Cloth UI Tag selected, use the **Add Component** button in the **Inspector** window to add the **Follow** (Script). Configure the component in the following ways.
+2. With the Cloth UI Tag still selected, use the **Add Component** button in the **Inspector** window to add the **Follow** (Script). Configure the component in the following ways.
     
     - Check the box next to **Update Linked Transform**.
     - Change **Orientation Type** to **Unmodified**.
