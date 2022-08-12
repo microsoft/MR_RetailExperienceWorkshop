@@ -193,7 +193,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
 
 1. In **Menu Bar** navigate to **Window** > **Package Manager** and install the latest version of **Universal Render Pipeline**, which may appear listed as **Universal RP**. If you created your Unity project with Universal Render Pipeline previously, then this package may already be installed.
 
-2. Now to create the **URP pipeline asset**, in the **Project Window** right-click on the Assets floder and navigate to **Create** > **Rendering** > **Universal Render Pipeline** > **Pipeline Asset (Forward Renderer)**. The default name for this asset will be **UniveralRenderPipelineAsset**.
+2. Now to create the **URP pipeline asset**, in the **Project Window** right-click on the Assets folder and navigate to **Create** > **Rendering** > **Universal Render Pipeline** > **Pipeline Asset (Forward Renderer)**. The default name for this asset will be **UniveralRenderPipelineAsset**.
 
 3. Configure the Project settings by navigating to **Edit** > **Project Settings** > **Graphics**. In **Scriptable Render Pipeline Settings**, click on the radio button and choose **Universal Render Pipeline Asset** (If you changed the default name of the asset in the previous step, then choose the asset with the name that you used in the previous step.).
 
