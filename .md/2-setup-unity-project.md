@@ -15,7 +15,7 @@ We'll start by creating a new Unity project and configuring it for Windows Mixed
 
 3. Click the drop-down under **New project** and select the appropriate editor version (Unity 2020.3 LTS).
 
-4. Ensure the chosen template is **3D Sample Scene (URP)**.
+4. Ensure the chosen template is **3D Sample Scene (URP)**. You may need to navigate to the **All Templates** tab
 
     >**Note:**
     Creating your project using 3D Sample Scene (URP) may help increase the performance of your application.
