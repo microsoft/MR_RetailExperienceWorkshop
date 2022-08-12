@@ -120,7 +120,7 @@ To import the Mixed Reality Toolkit into your project we'll use the Mixed Realit
     >**Note:**
     To reload the packages and avoid errors, close and re - open the project.
 
-5. Navigate to **Edit**  **Project settings**. Ensure that you're on the **XR Plug-in Management** section with the **Universal Windows Platform** settings (Windows logo tab) displayed.
+5. Navigate to **Edit** > **Project settings**. Ensure that you're on the **XR Plug-in Management** section with the **Universal Windows Platform** settings (Windows logo tab) displayed.
 
     ![A screenshot of configuring XR-plug-in Management.](img/xr-plugin-management.png)
 
