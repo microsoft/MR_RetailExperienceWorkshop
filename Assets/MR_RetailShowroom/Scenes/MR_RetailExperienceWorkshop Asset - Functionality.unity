@@ -610,6 +610,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4439144918888110173, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.015
+      objectReference: {fileID: 0}
+    - target: {fileID: 4439144918888110173, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.015
+      objectReference: {fileID: 0}
+    - target: {fileID: 4439144918888110173, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.015
+      objectReference: {fileID: 0}
+    - target: {fileID: 4439144918888110177, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5606336363158560454, guid: 8b1b690b900a2ea44b7743d3d7b1216e, type: 3}
       propertyPath: m_Name
       value: MRTKV3_Dressroom
