@@ -99,12 +99,13 @@ Wouldn't it be convenient if the UI Tags followed you around, rather than being 
         ![A screenshot of configuring solver handler script](img/add-solver.png)
 
 2. With the Cloth UI Tag still selected, use the **Add Component** button in the **Inspector** window to add the **Follow** (Script). Configure the component in the following ways.
-    
-    - Check the box next to **Update Linked Transform**.
-    - Change **Orientation Type** to **Unmodified**.
-    - Change **Min Distance** to **7**. 
-    - Change **Max Distance** to **8**.
-    - Change **Min Distance** to **6**.
+    - Uncheck **Maintain Scale On Initialization**.
+    - Change **Orientation Type** to **Face Tracked Object**.
+    - Uncheck **Reorient When Outside Parameters**.
+    - Change **Min Distance** to **1**. 
+    - Change **Max Distance** to **3**.
+    - Change **Default Distance** to **2**.
+    - Check **Ignore Distance Clamp**
     >**Note:** All other values should stay the same. Feel free to double check against the image below. 
 
     ![A screenshot of adding follow script](img/add-follow.png)
