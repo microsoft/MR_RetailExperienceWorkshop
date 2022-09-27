@@ -19,9 +19,9 @@ In this workshop, you will learn how to create a multi-platform virtual showroom
 
 - A Windows 10 or Windows 11 PC.  
 
-- Windows 10 SDK 10.0.18362.0 or later. 
+- Windows 10 SDK 10.0.18362.0 or later.
 
-- Unity Hub with Unity 2021.3.4f1 installed.  
+- Unity Hub with Unity Unity 2020.3.x+ installed.  
 
 - Basic familiarity with Unity: interface, scene creation, package import, the addition of Game Objects to a scene. 
 
