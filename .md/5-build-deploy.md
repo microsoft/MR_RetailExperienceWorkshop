@@ -96,7 +96,7 @@ The first time you deploy an app to your HoloLens from your PC, you'll be prompt
 
 ### Porting to Meta Quest
 
-1. Ensure that your project is ready to deploy on the Quest device. Coneect your quest device to your computer with a USB cable. 
+1. Ensure that your project is ready to deploy on the Quest device. Connect your quest device to your computer with a USB cable. 
 
 2. Ensure that **developer mode** is enabled on your device. Installing the **Meta ADB Drivers** is optional.
 
@@ -117,7 +117,7 @@ To have the Android option enabled in the Build Settings Window, ensure that And
 
 3. In Project Settings, navigate to **XR Plug-in Management** > **OpenXR** > **Interaction Profiles** and Click on the + icon to add **Occulus Touch Controller Profile**.
 
-4. Remain in Project Settings. Navigate to **XR Plug-in Management** > **OpenXR** > **OpenXR Feature Groups** and ensure the following are checked under All Features. Also double check that the other values inthis window look like the image below (Render Mode, Depth Submission Mode, etc.)
+4. Remain in Project Settings. Navigate to **XR Plug-in Management** > **OpenXR** > **OpenXR Feature Groups** and ensure the following are checked under All Features. Also double check that the other values in this window look like the image below (Render Mode, Depth Submission Mode, etc.)
 
     ![A screenshot of checking the features](img/feature-checked.png)
 
@@ -154,4 +154,4 @@ If you do not see Meta Quest Support under the OpenXR Feature Groups panel, make
 Do not follow the Configure Settings instructions on Meta's documentation page. Their instructions require the use of the Meta Integration SDK, and uses the Meta XR Plug-in rather than the OpenXR Plug-in.
 
 >**Note:**
-If you recieve and error saying that you don't have a valid MRTK profile for the chosen platform, go up to **Edit** > **Project Settings** and click on the **MRTK3** tab. Make sure that you have the MRTK profile selected under the profile, it may have been cleared after switching platforms. 
+If you recieve and error saying that you don't have a valid MRTK profile for the chosen platform, go up to **Edit** > **Project Settings** and click on the **MRTK3** tab. Make sure that you have the MRTK profile selected under the profile, it may have been cleared after switching platforms.
