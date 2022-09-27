@@ -23,26 +23,31 @@ title: Configuring the virtual showroom
 
         ![A screenshot of adding box collider.](img/add-box-collider.png)
 
+        >**Note:** If you're testing the app directly in the editor, it may be easier to perform mouse-based interactions. Mouse-based interactions enable you to use your mouse to select objects in the scenes for a 2D experience. Add the **UGUI Input Adapater Draggable** component to the **Hoody_Optimized (3)** object to enable mouse-based interactions.
+
 2. In the hierarchy window, expand **Retail Dress Showroom** > **Table**. Then, select the GameObject named **Shirt (1)** to add the **Bounds Control** Script to make the GameObject "Scalable". With the game object still selected in the **Hierarchy** window, click on the **Add Component** button and select **Bounds Control**.
 
     ![A screenshot of adding bounds control](img/bounds-control.png)
 
-3. If not already completed, follow the same procedure to add the **Box Collider** component.
-    
+3. Now, add a visual prefab for the bounds. In the inspector window, for the **Bounds Control** component, select the radio button next to the **Bounds Visuals Prefab**. Search for the **BoundingBoxwithHandles** prefab within the **Assest** tab. You may need to click the eye icon to unhide packages.
 
-4. Also, add the **Min Max Scale Constraint** Script to the GameObject. This is a convenient component to constrain scaling to a minimum and maximum size that is customizable.
+4. If not already completed, add the **Box Collider** component for the **Shirt (1)**.
+
+5. Also, add the **Min Max Scale Constraint** Script to the GameObject. This is a convenient component to constrain scaling to a minimum and maximum size that is customizable.
 
     ![A screenshot of adding min max scale contsraint](img/min-max-scale-contsraint.png)
 
-5. Expand the **Min Max Scale Constraint** component. Select the drop-down menu next to **Hand Type**, and disable **One-Handed** by clicking on it. To check if it's disabled, open the menu again and check to see that the checkmark next to it has disappeared. We do this so that an object cannot be scaled using only one hand.
+6. Expand the **Min Max Scale Constraint** component. Select the drop-down menu next to **Hand Type**, and disable **One-Handed** by clicking on it. To check if it's disabled, open the menu again and check to see that the checkmark next to it has disappeared. We do this so that an object cannot be scaled using only one hand.
 
     ![Screenshot of configuring the Min Max Scale Constraint component](img/configure-min-max-scale-constraint.png)
 
-    >**Note:** Objects that will be scalable should all have a Min Max Sale Constraint component that is configured for Two handed scaling. This way the user doesn't accidentally scale an object while  simply trying to move it. 
+    >**Note:** Objects that will be scalable should all have a Min Max Sale Constraint component that is configured for Two handed scaling. This way the user doesn't accidentally scale an object while  simply trying to move it.
+
+    >**Note:** If you're testing the app directly in the editor, it may be easier to perform mouse-based interactions. Mouse-based interactions enable you to use your mouse to select objects in the scenes for a 2D experience. Add the **UGUI Input Adapater Draggable** component to the **Shirt (1)** object to enable mouse-based interactions.
 
 ## Include UX elements
 
-Here we plan to integrate the product details into a **UX Slate** and display it along with the product. This will provide an intuitive way for users to learn more about the products in our virtual showroom. 
+Here we plan to integrate the product details into a **UX Slate** and display it along with the product. This will provide an intuitive way for users to learn more about the products in our virtual showroom.
 
 1. In the **Project window**, navigate to the **Assets** > **MR_RetailShowroom** > **Prefabs** folder, click-and-drag the **Cloth Tag** prefab onto the **Hoodie_Optimized (3)** Gameobject we worked with previously.
 
@@ -54,7 +59,10 @@ Here we plan to integrate the product details into a **UX Slate** and display it
 
         ![A screenshot of importing TextMeshPro.](img/import-tmp.png)
 
-2. Adjust the transform component of the UI tag to place it near the product (Hoodie_Optimzed (3)). This may involve moving, scaling, and rotating the product tag so that it can be read by the user.
+2. Adjust the transform component of the UI tag to place it near the product (Hoodie_Optimzed (3)). Modify the following properties:
+
+    - **Transform Position**: -0.42, 0.51, 2.89
+    - **Rotation**: 1, 90, 90
 
 3. We would like to have the UI tag appear when the user is interacting with the product and hidden when the user is not interacting with the product. To automatically activate and deactivate the tags, follow the instructions below.  
 
