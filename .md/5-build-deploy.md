@@ -154,4 +154,4 @@ If you do not see Meta Quest Support under the OpenXR Feature Groups panel, make
 Do not follow the Configure Settings instructions on Meta's documentation page. Their instructions require the use of the Meta Integration SDK, and uses the Meta XR Plug-in rather than the OpenXR Plug-in.
 
 >**Note:**
-If you recieve and error saying that you don't have a valid MRTK profile for the chosen platform, go up to **Edit** > **Project Settings** and click on the **MRTK3** tab. Make sure that you have the MRTK profile selected under the profile, it may have been cleared after switching platforms.
+If you recieve an error saying that you don't have a valid MRTK profile for the chosen platform, go up to **Edit** > **Project Settings** and click on the **MRTK3** tab. Make sure that you have the MRTK profile selected under the profile, it may have been cleared after switching platforms.
